@@ -1,50 +1,74 @@
-### Step 1
-
-
-* Create a repository for your ground truth data. Click on the [**Use this Template**](/../../generate) button.
-* Save your data to the repository. Your data should be stored in the **Data folder**. See the Organization of folders and files in the Repo <b>[🗀](#myfootnote1)</b> 
-
-### Step 2
-
-* Metadata is necessary to ensure that your repository is documented correctly. It is best to use the <a href="https://tboenig.github.io/gt-metadata/document-your-gt.html" target="_blank" rel="noopener noreferrer">metadata</a> form to record the metadata.
-
-
-### Step 3
-
-* The template contains tools that automatically create specific web pages from the stored metadata and ground truth data. You can publish these as GitHub pages. 
-   -  First, start the [analysis workflow](/../../actions/workflows/gtrepo.yml) and then adjust the GitHub [page setting](/../../settings/pages). Select the [gh-pages branch](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) to do this. 
-
-
-### Step 4
-
-
-* Customize the new readme file. 
-* In the `<div id="extent">` section, you can additions to the README file
-
-You can find the old readme file in the readme folder.
-
-<hr/>
-
-# <a name="myfootnote1">🗀</a>  Organization of folders and files in the Repo
-
-
-**Images**: keep images in the same directory as the textual transcription (eg. GT-PAGE).
-
- The structure of the repo is the following:
-
-```
-├── METADATA.yml
-├── LICENSE.md
-└── data
-      └── document_title or identifer
-          ├── GT-PAGE
-          └── GT-LINE
-            
-           
-
-```
-
-
-
-
-  
+<div>
+   <h1 id="title">gt_structure_text</h1>
+   <p id="paragraph">OCR-D Ground Truth with annotation for text and structure. </p>
+   <h2>Metadata</h2>
+   <dl class="grid">
+      <dt id="Language">Language:</dt>
+      <dd>eng, fra, deu, heb, lat</dd>
+      <dt id="Format">Format:</dt>
+      <dd>Page-XML</dd>
+      <dt id="Time">Time:</dt>
+      <dd>1500-1900</dd>
+      <dt id="GTT">GT Type:</dt>
+      <dd>data_structure_and_text</dd>
+      <dt id="License">License:</dt>
+      <dd>CC0 1.0</dd>
+      <dt id="Guidelines">Transcription Guidelines:</dt>
+      <dd> OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
+      <dt id="Project">Project:</dt>
+      <dd>OCR-D</dd>
+      <dt id="Project-URL">Project-URL:</dt>
+      <dd>https://ocr-d.de/</dd>
+   </dl>
+   <h2>Sources</h2>
+   <h3>The volume of transcriptions:</h3>
+   <table id="table_id">
+      <thead>
+         <tr>
+            <th>TextLine</th>
+            <th>Page</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>0</td>
+            <td>0</td>
+         </tr>
+      </tbody>
+   </table>
+   <div id="transcriptions">
+      <h3>List of transcriptions</h3>
+      <div>
+         <table id="table_id" class="display">
+            <thead>
+               <tr>
+                  <th>document</th>
+                  <th>TxtRegion</th>
+                  <th>ImgRegion</th>
+                  <th>LineDrawRegion</th>
+                  <th>GraphRegion</th>
+                  <th>TabRegion</th>
+                  <th>ChartRegion</th>
+                  <th>SepRegion</th>
+                  <th>MathRegion</th>
+                  <th>ChemRegion</th>
+                  <th>MusicRegion</th>
+                  <th>AdRegion</th>
+                  <th>NoiseRegion</th>
+                  <th>UnkownRegion</th>
+                  <th>CustomRegion</th>
+                  <th>TextLine</th>
+                  <th>Page</th>
+               </tr>
+            </thead>
+            <tbody/>
+         </table>
+      </div>
+   </div>
+   <div id="extent">
+      <h2>Extent</h2>
+      <p>
+                                In this section they can insert additional information, instructions or notes.
+                            </p>
+   </div>
+</div>
