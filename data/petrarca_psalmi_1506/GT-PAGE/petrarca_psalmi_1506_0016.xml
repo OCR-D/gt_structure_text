@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-petrarca_psalmi_1506_0016">
+    <Metadata>
+        <Creator>OCR-D</Creator>
+        <Created>2016-09-22T10:26:06.268+02:00</Created>
+        <LastChange>2018-04-24T18:05:05.796+01:00</LastChange>
+        
+    </Metadata>
+    <Page imageFilename="petrarca_psalmi_1506_0016.tif" imageWidth="1777" imageHeight="2471" type="content">
+        <PrintSpace>
+            <Coords points="57,49 1743,49 1743,2358 57,2358"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1488819905826" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="410,191 1474,191 1474,801 410,801"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:26;fontFamily:Arial; fontSize:24.0;}">
+                <Coords points="529,192 1462,192 1462,311 529,311"/>
+                <Baseline points="529,294 1462,294"/>
+                <Word id="w_w1aab1b1b2b3b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:20;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="529,199 1254,199 1254,295 529,295"/>
+                    <TextEquiv>
+                        <Unicode>Ave meſtiſſima mater</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b1ac35" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="1277,198 1462,198 1462,301 1277,301"/>
+                    <TextEquiv>
+                        <Unicode>virgo</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ave meſtiſſima mater virgo</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:32;fontFamily:Arial; fontSize:24.0;}">
+                <Coords points="414,292 1473,292 1473,406 414,406"/>
+                <Baseline points="414,397 1473,397"/>
+                <Word id="w_w1aab1b1b2b3b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="414,310 651,310 651,398 414,398"/>
+                    <TextEquiv>
+                        <Unicode>Maria</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b3ac13" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="666,306 865,306 865,389 666,389"/>
+                    <TextEquiv>
+                        <Unicode>dolorꝛe</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b3ac27" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:18;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="882,297 1473,297 1473,401 882,401"/>
+                    <TextEquiv>
+                        <Unicode>pIeniſſima Triſtiſ</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Maria dolorꝛe pIeniſſima Triſtiſ</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;} textStyle {offset:0; length:29;fontFamily:Arial; fontSize:24.0;}">
+                <Coords points="411,400 1468,400 1468,498 411,498"/>
+                <Baseline points="411,494 1468,494"/>
+                <Word id="w_w1aab1b1b2b3b5ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="412,414 620,414 620,498 412,498"/>
+                    <TextEquiv>
+                        <Unicode>ſimus</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b5ac13" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="646,408 952,408 952,490 646,490"/>
+                    <TextEquiv>
+                        <Unicode>dominus</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b5ac29" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:15;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="976,403 1468,403 1468,485 976,485"/>
+                    <TextEquiv>
+                        <Unicode>teruz benedicta</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ſimus dominus teruz benedicta</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;} textStyle {offset:0; length:31;fontFamily:Arial; fontSize:24.0;}">
+                <Coords points="413,496 1470,496 1470,614 413,614"/>
+                <Baseline points="413,595 1470,595"/>
+                <Word id="w_w1aab1b1b2b3b7ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="413,507 756,507 756,613 413,613"/>
+                    <TextEquiv>
+                        <Unicode>compaſſio</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b7ac15" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="779,501 1046,501 1046,588 779,588"/>
+                    <TextEquiv>
+                        <Unicode>materni</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b7ac31" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="1067,501 1277,501 1277,584 1067,584"/>
+                    <TextEquiv>
+                        <Unicode>roꝛdis</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b7ac45" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="1301,518 1392,518 1392,583 1301,583"/>
+                    <TextEquiv>
+                        <Unicode>tui</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b7ac53" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="1409,516 1470,516 1470,585 1409,585"/>
+                    <TextEquiv>
+                        <Unicode>et</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>compaſſio materni roꝛdis tui et</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;} textStyle {offset:0; length:31;fontFamily:Arial; fontSize:24.0;}">
+                <Coords points="414,600 1469,600 1469,712 414,712"/>
+                <Baseline points="414,699 1469,699"/>
+                <Word id="w_w1aab1b1b2b3b9ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="414,614 779,614 779,696 414,696"/>
+                    <TextEquiv>
+                        <Unicode>benedictus</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b9ac19" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="790,607 955,607 955,692 790,692"/>
+                    <TextEquiv>
+                        <Unicode>doloꝛ</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <Word id="w_w1aab1b1b2b3b9ac31" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:14;fontFamily:Arial; fontSize:24.0;}">
+                    <Coords points="972,602 1469,602 1469,703 972,703"/>
+                    <TextEquiv>
+                        <Unicode>tuus virgineus</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>benedictus doloꝛ tuus virgineus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="blackletter" fontSize="24.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:29.0;}">
+                <Coords points="417,716 626,716 626,800 417,800"/>
+                <Baseline points="417,804 626,804"/>
+                <Word id="w_w1aab1b1b2b3c11ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:29.0;}">
+                    <Coords points="417,717 626,717 626,800 417,800"/>
+                    <TextEquiv>
+                        <Unicode>Amen</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="blackletter" fontSize="29.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Amen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="blackletter" fontSize="29.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ave meſtiſſima mater virgo
+Maria dolorꝛe pIeniſſima Triſtiſ
+ſimus dominus teruz benedicta
+compaſſio materni roꝛdis tui et
+benedictus doloꝛ tuus virgineus
+Amen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <NoiseRegion id="Noise_1488819862245_488" custom="readingOrder {index:1;}">
+            <Coords points="823,89 998,89 998,187 823,187"/>
+        </NoiseRegion>
+        <NoiseRegion id="Noise_1488819891823_490" custom="readingOrder {index:2;}">
+            <Coords points="1501,93 1587,93 1587,259 1501,259"/>
+        </NoiseRegion>
+    </Page>
+</PcGts>

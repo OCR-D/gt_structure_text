@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-euler_rechenkunst01_1738_0026">
+	<Metadata>
+	<Creator>OCR-D</Creator>
+	<Created>2016-09-29T14:32:10</Created>
+	<LastChange>2018-04-25T08:54:03</LastChange></Metadata>
+	<Page imageFilename="euler_rechenkunst01_1738_0026.tif" imageWidth="1296" imageHeight="1855" type="content">
+	<PrintSpace>
+	<Coords points="209,184 1047,184 1047,1512 209,1512"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r_1_1" index="0"/>
+	<RegionRefIndexed regionRef="r_4_1" index="1"/>
+	<RegionRefIndexed regionRef="r_3_1" index="2"/>
+	<RegionRefIndexed regionRef="TextRegion_1475753702385_214" index="3"/>
+	<RegionRefIndexed regionRef="TextRegion_1475753868353_284" index="4"/>
+	<RegionRefIndexed regionRef="TextRegion_1475753868353_283" index="5"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743908679_710" index="6"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743908679_709" index="7"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743989171_724" index="8"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743994179_732" index="9"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743994178_731" index="10"/>
+	<RegionRefIndexed regionRef="r_5_2" index="11"/>
+	<RegionRefIndexed regionRef="r_5_3" index="12"/>
+	<RegionRefIndexed regionRef="r_7_1" index="13"/>
+	<RegionRefIndexed regionRef="TextRegion_1475753825328_258" index="14"/>
+	<RegionRefIndexed regionRef="r_6_1" index="15"/>
+	<RegionRefIndexed regionRef="TextRegion_1475753831444_264" index="16"/>
+	<RegionRefIndexed regionRef="TextRegion_1475753831444_263" index="17"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743867699_705" index="18"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743867698_704" index="19"/>
+	<RegionRefIndexed regionRef="r_8_1" index="20"/>
+	<RegionRefIndexed regionRef="r_8_2" index="21"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743815947_697" index="22"/>
+	<RegionRefIndexed regionRef="TextRegion_1479743815946_696" index="23"/>
+	<RegionRefIndexed regionRef="region_1475753754785_230" index="24"/>
+	<RegionRefIndexed regionRef="r_9_1" index="25"/>
+	<RegionRefIndexed regionRef="r_10_1" index="26"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r_1_1" custom="readingOrder {index:0;} structure {type:page-number;}" type="page-number" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="302,222 348,222 348,247 302,247"/>
+	<TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:9.5;}">
+	<Coords points="303,223 347,223 347,246 303,246"/>
+	<Baseline points="303,246 347,246"/>
+	<Word id="w_w1aab1b1b2b1b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="303,223 347,223 347,246 303,246"/>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter"/></Word>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.50000"/></TextLine>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_4_1" custom="readingOrder {index:1;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="413,275 899,275 899,318 413,318"/>
+	<TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:33;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="414,276 898,276 898,317 414,317"/>
+	<Baseline points="414,310 898,310"/>
+	<Word id="w_w1aab1b7b2b1b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="414,276 475,276 475,315 414,315"/>
+	<TextEquiv>
+	<Unicode>Auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b1b1ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="489,278 531,278 531,310 489,310"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b1b1ac17" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="544,278 644,278 644,317 544,317"/>
+	<TextEquiv>
+	<Unicode>ſechſten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b1b1ac35" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="663,277 754,277 754,312 663,312"/>
+	<TextEquiv>
+	<Unicode>Stelle</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b1b1ac49" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="778,279 898,279 898,311 778,311"/>
+	<TextEquiv>
+	<Unicode>bedeutet.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Auf der ſechſten Stelle bedeutet.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Auf der ſechſten Stelle bedeutet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_1" custom="readingOrder {index:2;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="227,397 276,397 276,431 227,431"/>
+	<TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:14.0; bold:true;}">
+	<Coords points="228,398 275,398 275,430 228,430"/>
+	<Baseline points="228,429 275,429"/>
+	<Word id="w_w1aab1b5b2b1b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:14.0; bold:true;}">
+	<Coords points="228,398 275,398 275,430 228,430"/>
+	<TextEquiv>
+	<Unicode>VI</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="14.00000" bold="true"/></Word>
+	<TextEquiv>
+	<Unicode>VI</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="14.00000" bold="true"/></TextLine>
+	<TextEquiv>
+	<Unicode>VI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1475753702385_214" custom="readingOrder {index:3;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="645,354 296,354 296,313 645,313"/>
+	<TextLine id="line_1475753702416_216" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="645,353 297,353 297,314 645,314"/>
+	<Baseline points="297,346 645,346"/>
+	<Word id="w_w1aab1b7b2b3b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="297,328 316,328 316,347 297,347"/>
+	<TextEquiv>
+	<Unicode>0</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b3b1ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="329,329 341,329 341,345 329,345"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b3b1ab9" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="353,317 434,317 434,353 353,353"/>
+	<TextEquiv>
+	<Unicode>nichts</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>0 - nichts</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>0 - nichts</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1475753868353_284" custom="readingOrder {index:4;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="640,394 294,394 294,355 640,355"/>
+	<TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:19;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="297,356 583,356 583,393 297,393"/>
+	<Baseline points="297,387 583,387"/>
+	<Word id="w_w1aab1b7b2b5b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="297,368 309,368 309,386 297,386"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b1ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="327,368 339,368 339,384 327,384"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b1ab9" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="353,357 459,357 459,393 353,393"/>
+	<TextEquiv>
+	<Unicode>hundert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b1ac25" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="481,356 583,356 583,393 481,393"/>
+	<TextEquiv>
+	<Unicode>tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>1 - hundert tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>1 - hundert tauſend</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1475753868353_283" custom="readingOrder {index:5;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="640,434 294,434 294,394 640,394"/>
+	<TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="298,395 639,395 639,433 298,433"/>
+	<Baseline points="298,427 639,427"/>
+	<Word id="w_w1aab1b7b2b5b3ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="298,408 312,408 312,425 298,425"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter"/></Word>
+	<Word id="w_w1aab1b7b2b5b3b1b3" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="324,408 336,408 336,424 324,424"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b3b1b7" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="348,403 414,403 414,433 348,433"/>
+	<TextEquiv>
+	<Unicode>zwey</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b3b1c19" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="423,397 529,397 529,433 423,433"/>
+	<TextEquiv>
+	<Unicode>hundert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b3b1c35" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="537,395 639,395 639,432 537,432"/>
+	<TextEquiv>
+	<Unicode>tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>2 - zwey hundert tauſend</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>2 - zwey hundert tauſend</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743908679_710" custom="readingOrder {index:6;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="640,470 294,470 294,434 640,434"/>
+	<TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:24;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="295,435 639,435 639,473 295,473"/>
+	<Baseline points="295,466 639,466"/>
+	<Word id="word_1479743934057_719" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="295,446 307,446 307,473 295,473"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b5ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="326,446 337,446 337,464 326,464"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479743939058_720" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="349,436 408,436 408,472 349,472"/>
+	<TextEquiv>
+	<Unicode>drey</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479743944626_721" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="417,435 524,435 524,473 417,473"/>
+	<TextEquiv>
+	<Unicode>hundert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479743947249_722" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="536,435 639,435 639,472 536,472"/>
+	<TextEquiv>
+	<Unicode>tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>3 - drey hundert tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>3 - drey hundert tauſend</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743908679_709" custom="readingOrder {index:7;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="640,515 294,515 294,470 640,470"/>
+	<TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:24;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="296,469 639,469 639,514 296,514"/>
+	<Baseline points="296,506 639,506"/>
+	<Word id="word_1475754085521_308" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="321,514 296,514 296,484 321,484"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1475754085521_307" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="340,514 321,514 321,484 340,484"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b7ab7" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="353,471 406,471 406,507 353,507"/>
+	<TextEquiv>
+	<Unicode>vier</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b7ac17" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="422,476 490,476 490,512 422,512"/>
+	<TextEquiv>
+	<Unicode>hund</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b7ac27" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="499,480 548,480 548,507 499,507"/>
+	<TextEquiv>
+	<Unicode>ertt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b7b2b5b7ac37" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="560,475 639,475 639,512 560,512"/>
+	<TextEquiv>
+	<Unicode>auſnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>4 - vier hund ertt auſnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>4 - vier hund ertt auſnd</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743989171_724" custom="readingOrder {index:8;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1016,355 645,355 645,314 1016,314"/>
+	<TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:25;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="654,315 1015,315 1015,356 654,356"/>
+	<Baseline points="654,348 1015,348"/>
+	<Word id="w_w1aab1b9b2b1b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="654,329 666,329 666,354 654,354"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b1b1ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="685,330 696,330 696,346 685,346"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479744020169_737" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="710,315 772,315 772,356 710,356"/>
+	<TextEquiv>
+	<Unicode>fuͤnf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479744026818_738" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="781,320 889,320 889,356 781,356"/>
+	<TextEquiv>
+	<Unicode>hundert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b1b1ac35" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="911,316 1015,316 1015,352 911,352"/>
+	<TextEquiv>
+	<Unicode>tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>5 - fuͤnf hundert tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>5 - fuͤnf hundert tauſend</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743994179_732" custom="readingOrder {index:9;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1016,395 645,395 645,355 1016,355"/>
+	<TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="652,358 1013,358 1013,393 652,393"/>
+	<Baseline points="652,387 1013,387"/>
+	<Word id="w_w1aab1b9b2b1b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:11.5;}">
+	<Coords points="652,363 670,363 670,387 652,387"/>
+	<TextEquiv>
+	<Unicode>6</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="11.50000"/></Word>
+	<Word id="w_w1aab1b9b2b1b3b1b3" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="680,370 692,370 692,386 680,386"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b1b3b1b7" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="704,357 769,357 769,394 704,394"/>
+	<TextEquiv>
+	<Unicode>ſechs</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479744035289_739" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="783,360 890,360 890,396 783,396"/>
+	<TextEquiv>
+	<Unicode>hundert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479744042274_740" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="907,349 1013,349 1013,391 907,391"/>
+	<TextEquiv>
+	<Unicode>tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>6 - ſechs hundert tauſend</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>6 - ſechs hundert tauſend</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743994178_731" custom="readingOrder {index:10;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1016,445 645,445 645,395 1016,395"/>
+	<TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="646,398 1014,398 1014,444 646,444"/>
+	<Baseline points="646,427 1014,427"/>
+	<Word id="w_w1aab1b9b2b1b5ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="646,397 669,397 669,444 646,444"/>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b1b5b1b1" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; italic:true; fontSize:7.5;}">
+	<Coords points="681,408 693,408 693,425 681,425"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000" italic="true"/></Word>
+	<Word id="w_w1aab1b9b2b1b5b2b3" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="705,397 785,397 785,436 705,436"/>
+	<TextEquiv>
+	<Unicode>ſieben</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b1b5b2c17" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="793,398 900,398 900,436 793,436"/>
+	<TextEquiv>
+	<Unicode>hundert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479744056217_741" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="909,395 1014,395 1014,431 909,431"/>
+	<TextEquiv>
+	<Unicode>tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>7 - ſieben hundert tauſend</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>7 - ſieben hundert tauſend</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_5_2" custom="readingOrder {index:11;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="649,433 1014,433 1014,476 649,476"/>
+	<TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:24;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="650,434 1013,434 1013,475 650,475"/>
+	<Baseline points="650,467 1013,467"/>
+	<Word id="w_w1aab1b9b2b3b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="650,442 664,442 664,470 650,470"/>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b3b1ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="677,449 689,449 689,465 677,465"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b3b1ab9" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="702,436 758,436 758,474 702,474"/>
+	<TextEquiv>
+	<Unicode>acht</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b3b1ac19" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="779,439 886,439 886,475 779,475"/>
+	<TextEquiv>
+	<Unicode>hundert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b3b1ac35" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="908,434 1013,434 1013,471 908,471"/>
+	<TextEquiv>
+	<Unicode>tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>8 - acht hundert tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>8 - acht hundert tauſend</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_5_3" custom="readingOrder {index:12;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="649,467 1012,467 1012,516 649,516"/>
+	<TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="650,468 1011,468 1011,515 650,515"/>
+	<Baseline points="650,506 1011,506"/>
+	<Word id="w_w1aab1b9b2b5b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:7.5;}">
+	<Coords points="650,487 665,487 665,511 650,511"/>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w_w1aab1b9b2b5b1b1b3" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="681,488 692,488 692,506 681,506"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b5b1b1b9" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="704,485 771,485 771,508 704,508"/>
+	<TextEquiv>
+	<Unicode>neun</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b5b1b1c19" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="786,478 894,478 894,515 786,515"/>
+	<TextEquiv>
+	<Unicode>hundert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b9b2b5b1b1c35" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="907,468 1011,468 1011,512 907,512"/>
+	<TextEquiv>
+	<Unicode>tauſend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>9 - neun hundert tauſend</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>9 - neun hundert tauſend</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_7_1" custom="readingOrder {index:13;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="408,518 896,518 896,562 408,562"/>
+	<TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:34;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="409,519 895,519 895,561 409,561"/>
+	<Baseline points="409,552 895,552"/>
+	<Word id="w_w1aab1c13b2b1b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="409,522 471,522 471,561 409,561"/>
+	<TextEquiv>
+	<Unicode>Auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c13b2b1b1ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="481,523 523,523 523,553 481,553"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c13b2b1b1ac17" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="534,521 657,521 657,560 534,560"/>
+	<TextEquiv>
+	<Unicode>ſiebenten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c13b2b1b1ac37" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="670,519 761,519 761,554 670,554"/>
+	<TextEquiv>
+	<Unicode>Stelle</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c13b2b1b1ac51" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="775,521 895,521 895,554 775,554"/>
+	<TextEquiv>
+	<Unicode>bedeutet.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Auf der ſiebenten Stelle bedeutet.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Auf der ſiebenten Stelle bedeutet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1475753825328_258" custom="readingOrder {index:14;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="291,679 224,679 224,600 291,600"/>
+	<TextLine id="line_1475753825391_260" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;bold:true;}">
+	<Coords points="291,678 225,678 225,632 291,632"/>
+	<Baseline points="225,669 291,669"/>
+	<Word id="word_1475753825391_262" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0; bold:true;}">
+	<Coords points="291,671 225,671 225,632 291,632"/>
+	<TextEquiv>
+	<Unicode>VII</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000" bold="true"/></Word>
+	<TextEquiv>
+	<Unicode>VII</Unicode></TextEquiv>
+	<TextStyle bold="true"/></TextLine>
+	<TextEquiv>
+	<Unicode>VII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_6_1" custom="readingOrder {index:15;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="293,561 433,561 433,601 293,601"/>
+	<TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="294,562 432,562 432,600 294,600"/>
+	<Baseline points="294,594 432,594"/>
+	<Word id="w_w1aab1c11b2b1b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="294,573 314,573 314,593 294,593"/>
+	<TextEquiv>
+	<Unicode>0</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b1b1b1b1" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; italic:true; fontSize:7.5;}">
+	<Coords points="326,573 337,573 337,591 326,591"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000" italic="true"/></Word>
+	<Word id="w_w1aab1c11b2b1b1b2b3" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="350,562 432,562 432,600 350,600"/>
+	<TextEquiv>
+	<Unicode>nichts</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>0 - nichts</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>0 - nichts</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1475753831444_264" custom="readingOrder {index:16;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="572,637 291,637 291,600 572,600"/>
+	<TextLine id="line_1475753831522_266" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="571,637 291,637 291,632 571,632"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextLine>
+	<TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:16;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="295,601 525,601 525,635 295,635"/>
+	<Baseline points="295,632 525,632"/>
+	<Word id="w_w1aab1c11b2b3b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="295,613 307,613 307,632 295,632"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b3b1ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="325,614 336,614 336,631 325,631"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b3b1ab9" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="348,602 402,602 402,635 348,635"/>
+	<TextEquiv>
+	<Unicode>eine</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b3b1ac19" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="421,601 525,601 525,631 421,631"/>
+	<TextEquiv>
+	<Unicode>Million</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>1 - eine Million</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>
+1 - eine Million</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1475753831444_263" custom="readingOrder {index:17;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="572,679 291,679 291,637 572,637"/>
+	<TextLine id="line_1475753831522_265" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="571,678 291,678 291,637 571,637"/>
+	<Baseline points="291,669 571,669"/>
+	<Word id="word_1475754190088_309" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="333,671 317,671 317,637 333,637"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1475754190088_310" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="317,671 291,671 291,637 317,637"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b3b3b1b3" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="346,648 411,648 411,678 346,678"/>
+	<TextEquiv>
+	<Unicode>zwey</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b3b3b1c15" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="433,639 571,639 571,671 433,671"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>- 2 zwey Millionen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>- 2 zwey Millionen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743867699_705" custom="readingOrder {index:18;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="560,717 288,717 288,679 560,679"/>
+	<TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="290,680 556,680 556,719 290,719"/>
+	<Baseline points="290,711 556,711"/>
+	<Word id="word_1479743883610_708" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="290,692 303,692 303,719 290,719"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b5b1b1b1" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; italic:true; fontSize:7.5;}">
+	<Coords points="315,692 327,692 327,710 315,710"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000" italic="true"/></Word>
+	<Word id="w_w1aab1c11b2b5b1b2b3" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="340,681 398,681 398,716 340,716"/>
+	<TextEquiv>
+	<Unicode>drey</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b5b1b2c15" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="420,680 556,680 556,710 420,710"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>3 - drey Millionen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>3 - drey Millionen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743867698_704" custom="readingOrder {index:19;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="560,755 288,755 288,717 560,717"/>
+	<TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:19;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="289,716 559,716 559,754 289,754"/>
+	<Baseline points="289,750 559,750"/>
+	<Word id="w_w1aab1c11b2b5b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="289,732 310,732 310,754 289,754"/>
+	<TextEquiv>
+	<Unicode>4-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b5b3ab7" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="322,731 334,731 334,749 322,749"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b5b3ac11" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="346,721 399,721 399,752 346,752"/>
+	<TextEquiv>
+	<Unicode>vier</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c11b2b5b3ac21" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="420,718 559,718 559,750 420,750"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>4- - vier Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>4- - vier Millionen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_8_1" custom="readingOrder {index:20;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="653,557 924,557 924,597 653,597"/>
+	<TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:19;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="654,558 923,558 923,596 654,596"/>
+	<Baseline points="654,588 923,588"/>
+	<Word id="w_w1aab1c15b2b1b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="654,570 666,570 666,596 654,596"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c15b2b1b1ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="685,571 697,571 697,588 685,588"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c15b2b1b1ab9" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="711,558 774,558 774,596 711,596"/>
+	<TextEquiv>
+	<Unicode>fuͤnf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c15b2b1b1ac19" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="783,560 923,560 923,590 783,590"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>5 - fuͤnf Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>5 - fuͤnf Millionen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_8_2" custom="readingOrder {index:21;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="651,597 928,597 928,637 651,637"/>
+	<TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="652,598 927,598 927,636 652,636"/>
+	<Baseline points="652,628 927,628"/>
+	<Word id="w_w1aab1c15b2b3b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:11.0;}">
+	<Coords points="652,605 669,605 669,628 652,628"/>
+	<TextEquiv>
+	<Unicode>6</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="11.00000"/></Word>
+	<Word id="w_w1aab1c15b2b3b1b1b3" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="679,609 691,609 691,626 679,626"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c15b2b3b1b1b7" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="705,598 770,598 770,636 705,636"/>
+	<TextEquiv>
+	<Unicode>ſechs</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c15b2b3b1b1c19" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="789,600 927,600 927,629 789,629"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>6 - ſechs Millionen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>6 - ſechs Millionen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743815947_697" custom="readingOrder {index:22;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="934,673 648,673 648,637 934,637"/>
+	<TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:20;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="649,638 933,638 933,674 649,674"/>
+	<Baseline points="649,668 933,668"/>
+	<Word id="word_1479743839162_702" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="649,649 667,649 667,675 649,675"/>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c15b2b5b1ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="678,650 691,650 691,667 678,667"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1479743844105_703" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="702,639 781,639 781,677 702,677"/>
+	<TextEquiv>
+	<Unicode>ſieben</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c15b2b5b1ac23" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="795,638 933,638 933,668 795,668"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>7 - ſieben Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>7 - ſieben Millionen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1479743815946_696" custom="readingOrder {index:23;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="934,715 648,715 648,673 934,673"/>
+	<TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:18;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="648,675 907,675 907,714 648,714"/>
+	<Baseline points="651,707 907,707"/>
+	<Word id="word_1475753995650_301" custom="readingOrder {index:0;}">
+	<Coords points="647,681 667,681 667,714 647,714"/>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter"/></Word>
+	<Word id="word_1475753997662_302" custom="readingOrder {index:1;}">
+	<Coords points="675,685 690,685 690,710 675,710"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter"/></Word>
+	<Word id="w_w1aab1c15b2b5b3ab1" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="701,677 757,677 757,714 701,714"/>
+	<TextEquiv>
+	<Unicode>acht</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c15b2b5b3ac11" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="769,677 907,677 907,708 769,708"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>8 - acht Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>8 - acht Millionen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_1475753754785_230" custom="readingOrder {index:24;} structure {type:paragraph;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="645,715 926,715 926,751 645,751"/>
+	<TextLine id="line_1475753933577_299" custom="readingOrder {index:0;}">
+	<Coords points="646,720 924,720 924,750 646,750"/>
+	<Baseline points="648,749 917,745"/>
+	<Word id="word_1475754000595_303" custom="readingOrder {index:0;}">
+	<Coords points="646,725 664,725 664,754 646,754"/>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter"/></Word>
+	<Word id="word_1475754002670_304" custom="readingOrder {index:1;}">
+	<Coords points="673,723 689,723 689,747 673,747"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter"/></Word>
+	<Word id="word_1475754005992_305" custom="readingOrder {index:2;}">
+	<Coords points="700,722 771,722 771,749 700,749"/>
+	<TextEquiv>
+	<Unicode>neun</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter"/></Word>
+	<Word id="word_1475754009799_306" custom="readingOrder {index:3;}">
+	<Coords points="779,711 926,711 926,750 779,750"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Word>
+	<TextEquiv>
+	<Unicode>9 - neun Millionen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>9 - neun Millionen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_9_1" custom="readingOrder {index:25;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="281,765 1012,765 1012,1444 281,1444"/>
+	<TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:43;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="347,766 1011,766 1011,812 347,812"/>
+	<Baseline points="347,801 1011,801"/>
+	<Word id="w_w1aab1c17b2b1b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="347,774 468,774 468,812 347,812"/>
+	<TextEquiv>
+	<Unicode>Hieraus</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b1ac17" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="482,773 581,773 581,810 482,810"/>
+	<TextEquiv>
+	<Unicode>erhellt,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b1ac35" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="594,771 644,771 644,808 594,808"/>
+	<TextEquiv>
+	<Unicode>daß</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b1ac43" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="657,771 696,771 696,802 657,802"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b1ac51" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="708,769 870,769 870,807 708,807"/>
+	<TextEquiv>
+	<Unicode>Bedeutung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1475754465507_312" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="929,800 883,800 883,766 929,766"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1475754465491_311" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="1011,800 929,800 929,766 1011,766"/>
+	<TextEquiv>
+	<Unicode>Cha-</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Hieraus erhellt, daß die Bedeutung der Cha-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:50;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="290,805 1009,805 1009,849 290,849"/>
+	<Baseline points="290,841 1009,841"/>
+	<Word id="w_w1aab1c17b2b1b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="290,815 409,815 409,844 290,844"/>
+	<TextEquiv>
+	<Unicode>racteren</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b3ac17" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="427,812 477,812 477,849 427,849"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b3ac25" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="494,813 536,813 536,843 494,843"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b3ac33" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="549,811 671,811 671,847 549,847"/>
+	<TextEquiv>
+	<Unicode>ſiebentcn</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b3ac53" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="685,809 775,809 775,844 685,844"/>
+	<TextEquiv>
+	<Unicode>Stelle</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b3ac67" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="789,805 889,805 889,846 789,846"/>
+	<TextEquiv>
+	<Unicode>aͤhnlich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b3ac83" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="902,807 939,807 939,844 902,844"/>
+	<TextEquiv>
+	<Unicode>ſey</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b3ac91" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="965,807 1009,807 1009,838 965,838"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>racteren auf der ſiebentcn Stelle aͤhnlich ſey der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:2;} textStyle {offset:0; length:42;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="289,845 1008,845 1008,890 289,890"/>
+	<Baseline points="289,881 1008,881"/>
+	<Word id="w_w1aab1c17b2b1b5ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="289,851 450,851 450,890 289,890"/>
+	<TextEquiv>
+	<Unicode>Bedeutung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b5ac21" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="477,850 527,850 527,888 477,888"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b5ac29" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="550,853 592,853 592,881 550,881"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b5ac37" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="617,850 695,850 695,888 617,888"/>
+	<TextEquiv>
+	<Unicode>erſten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b5ac51" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="714,848 823,848 823,886 714,886"/>
+	<TextEquiv>
+	<Unicode>Stelle,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b5ac67" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="850,849 935,849 935,880 850,880"/>
+	<TextEquiv>
+	<Unicode>indem</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b5ac79" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="961,845 1008,845 1008,882 961,882"/>
+	<TextEquiv>
+	<Unicode>bey</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Bedeutung auf der erſten Stelle, indem bey</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:3;} textStyle {offset:0; length:44;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="288,885 1009,885 1009,925 288,925"/>
+	<Baseline points="288,919 1009,919"/>
+	<Word id="w_w1aab1c17b2b1b7ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="288,892 332,892 332,923 288,923"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b7ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="353,891 503,891 503,925 353,925"/>
+	<TextEquiv>
+	<Unicode>Siebenten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b7ac29" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="521,897 571,897 571,922 521,922"/>
+	<TextEquiv>
+	<Unicode>nur</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b7ac37" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="588,891 638,891 638,921 588,921"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b7ac45" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="655,888 745,888 745,923 655,923"/>
+	<TextEquiv>
+	<Unicode>Wort</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b7ac55" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="763,888 903,888 903,917 763,917"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b7ac75" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="916,885 1009,885 1009,924 916,924"/>
+	<TextEquiv>
+	<Unicode>zugeſe-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>der Siebenten nur das Wort Millionen zugeſe-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:4;} textStyle {offset:0; length:46;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="287,925 1010,925 1010,969 287,969"/>
+	<Baseline points="287,959 1010,959"/>
+	<Word id="w_w1aab1c17b2b1b9ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="287,934 329,934 329,969 287,969"/>
+	<TextEquiv>
+	<Unicode>tzet</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b9ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="340,931 417,931 417,962 340,962"/>
+	<TextEquiv>
+	<Unicode>wird.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b9ac21" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:15;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="457,929 666,929 666,967 457,967"/>
+	<TextEquiv>
+	<Unicode>Gleichergeſtalt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b9ac53" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="684,929 750,929 750,960 684,960"/>
+	<TextEquiv>
+	<Unicode>wird</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b9ac63" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="763,936 825,936 825,959 763,959"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b9ac71" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="843,929 881,929 881,958 843,958"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1b9ac79" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="898,925 1010,925 1010,960 898,960"/>
+	<TextEquiv>
+	<Unicode>Bedeu-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>tzet wird. Gleichergeſtalt wird man die Bedeu-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:5;} textStyle {offset:0; length:42;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="287,967 1006,967 1006,1008 287,1008"/>
+	<Baseline points="287,999 1006,999"/>
+	<Word id="w_w1aab1c17b2b1c11ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="287,976 350,976 350,1008 287,1008"/>
+	<TextEquiv>
+	<Unicode>tung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c11ac11" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="370,970 420,970 420,1008 370,1008"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c11ac19" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="439,970 481,970 481,1001 439,1001"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c11ac27" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="495,970 581,970 581,1006 495,1006"/>
+	<TextEquiv>
+	<Unicode>achten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c11ac41" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="600,967 691,967 691,1002 600,1002"/>
+	<TextEquiv>
+	<Unicode>Stelle</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c11ac55" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="712,967 813,967 813,1006 712,1006"/>
+	<TextEquiv>
+	<Unicode>haben,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c11ac69" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="847,974 922,974 922,999 847,999"/>
+	<TextEquiv>
+	<Unicode>wenn</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c11ac79" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="942,972 1006,972 1006,996 942,996"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>tung auf der achten Stelle haben, wenn man</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:6;} textStyle {offset:0; length:46;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="287,1006 1006,1006 1006,1048 287,1048"/>
+	<Baseline points="287,1038 1006,1038"/>
+	<Word id="w_w1aab1c17b2b1c13ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="287,1009 333,1009 333,1045 287,1045"/>
+	<TextEquiv>
+	<Unicode>bey</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c13ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="350,1011 393,1011 393,1041 350,1041"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c13ac17" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="407,1015 515,1015 515,1048 407,1048"/>
+	<TextEquiv>
+	<Unicode>zweyten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c13ac33" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="528,1008 619,1008 619,1042 528,1042"/>
+	<TextEquiv>
+	<Unicode>Stelle</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c13ac47" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="631,1008 681,1008 681,1039 631,1039"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c13ac55" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="700,1007 789,1007 789,1040 700,1040"/>
+	<TextEquiv>
+	<Unicode>Wort</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c13ac65" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="801,1006 936,1006 936,1037 801,1037"/>
+	<TextEquiv>
+	<Unicode>Millionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c13ac85" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="949,1007 1006,1007 1006,1042 949,1042"/>
+	<TextEquiv>
+	<Unicode>hin-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>bey der zweyten Stelle das Wort Millionen hin-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:7;} textStyle {offset:0; length:47;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="285,1044 1005,1044 1005,1088 285,1088"/>
+	<Baseline points="285,1077 1005,1077"/>
+	<Word id="w_w1aab1c17b2b1c15ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="285,1049 399,1049 399,1088 285,1088"/>
+	<TextEquiv>
+	<Unicode>zuſetzet;</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c15ac21" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="432,1050 484,1050 484,1079 432,1079"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c15ac29" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="504,1049 554,1049 554,1085 504,1085"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c15ac37" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="569,1048 630,1048 630,1079 569,1079"/>
+	<TextEquiv>
+	<Unicode>eben</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c15ac47" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="648,1046 708,1046 708,1083 648,1083"/>
+	<TextEquiv>
+	<Unicode>dieſe</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c15ac59" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="726,1046 779,1046 779,1080 726,1080"/>
+	<TextEquiv>
+	<Unicode>Art</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c15ac67" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="802,1046 941,1046 941,1083 802,1083"/>
+	<TextEquiv>
+	<Unicode>entſpringt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c15ac89" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="966,1044 1005,1044 1005,1074 966,1074"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>zuſetzet; und auf eben dieſe Art entſpringt die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:8;} textStyle {offset:0; length:49;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="286,1083 1004,1083 1004,1123 286,1123"/>
+	<Baseline points="286,1117 1004,1117"/>
+	<Word id="w_w1aab1c17b2b1c17ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="286,1093 377,1093 377,1120 286,1120"/>
+	<TextEquiv>
+	<Unicode>neunte</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c17ac15" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="390,1086 482,1086 482,1122 390,1122"/>
+	<TextEquiv>
+	<Unicode>Stelle</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c17ac29" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="494,1092 545,1092 545,1119 494,1119"/>
+	<TextEquiv>
+	<Unicode>aus</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c17ac37" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="558,1088 600,1088 600,1118 558,1118"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c17ac45" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="612,1087 723,1087 723,1123 612,1123"/>
+	<TextEquiv>
+	<Unicode>dritten,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c17ac63" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="746,1088 784,1088 784,1117 746,1117"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c17ac71" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="795,1087 877,1087 877,1123 795,1123"/>
+	<TextEquiv>
+	<Unicode>zehnte</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c17ac85" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="891,1088 941,1088 941,1116 891,1116"/>
+	<TextEquiv>
+	<Unicode>aus</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c17ac93" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="961,1083 1004,1083 1004,1113 961,1113"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>neunte Stelle aus der dritten, die zehnte aus der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:9;} textStyle {offset:0; length:49;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="286,1123 1004,1123 1004,1164 286,1164"/>
+	<Baseline points="286,1156 1004,1156"/>
+	<Word id="w_w1aab1c17b2b1c19ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="286,1128 397,1128 397,1164 286,1164"/>
+	<TextEquiv>
+	<Unicode>vierten,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c19ac19" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="419,1128 471,1128 471,1158 419,1158"/>
+	<TextEquiv>
+	<Unicode>nnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c19ac27" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="490,1127 513,1127 513,1163 490,1163"/>
+	<TextEquiv>
+	<Unicode>ſo</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c19ac33" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="527,1127 613,1127 613,1158 527,1158"/>
+	<TextEquiv>
+	<Unicode>weiter</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c19ac47" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="631,1125 672,1125 672,1156 631,1156"/>
+	<TextEquiv>
+	<Unicode>bis</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c19ac55" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="687,1126 736,1126 736,1163 687,1163"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c19ac63" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="746,1127 784,1127 784,1157 746,1157"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1475754620431_314" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="947,1163 803,1163 803,1123 947,1123"/>
+	<TextEquiv>
+	<Unicode>dreyzehnte</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1475754620428_313" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="1004,1163 947,1163 947,1123 1004,1123"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>vierten, nnd ſo weiter bis auf die dreyzehnte und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:10;} textStyle {offset:0; length:48;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="287,1161 1004,1161 1004,1205 287,1205"/>
+	<Baseline points="287,1196 1004,1196"/>
+	<Word id="w_w1aab1c17b2b1c21ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="287,1167 434,1167 434,1205 287,1205"/>
+	<TextEquiv>
+	<Unicode>folgenden,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c21ac23" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="455,1167 545,1167 545,1203 455,1203"/>
+	<TextEquiv>
+	<Unicode>welche</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c21ac37" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="557,1166 650,1166 650,1197 557,1197"/>
+	<TextEquiv>
+	<Unicode>wieder</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c21ac51" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="664,1169 713,1169 713,1197 664,1197"/>
+	<TextEquiv>
+	<Unicode>aus</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c21ac59" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="728,1166 771,1166 771,1197 728,1197"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c21ac67" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="791,1165 869,1165 869,1201 791,1201"/>
+	<TextEquiv>
+	<Unicode>erſten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c21ac81" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="882,1166 935,1166 935,1195 882,1195"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c21ac89" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="953,1161 1004,1161 1004,1199 953,1199"/>
+	<TextEquiv>
+	<Unicode>fol-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>folgenden, welche wieder aus der erſten und fol-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_37" primaryLanguage="German" custom="readingOrder {index:11;} textStyle {offset:0; length:43;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="285,1202 1003,1202 1003,1244 285,1244"/>
+	<Baseline points="285,1235 1003,1235"/>
+	<Word id="w_w1aab1c17b2b1c23ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="285,1208 381,1208 381,1244 285,1244"/>
+	<TextEquiv>
+	<Unicode>genden</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c23ac15" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="405,1206 479,1206 479,1242 405,1242"/>
+	<TextEquiv>
+	<Unicode>durch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c23ac27" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="499,1205 655,1205 655,1243 499,1243"/>
+	<TextEquiv>
+	<Unicode>Beyſetzung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c23ac49" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="674,1206 718,1206 718,1236 674,1236"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c23ac57" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="743,1203 847,1203 847,1237 743,1237"/>
+	<TextEquiv>
+	<Unicode>Worts</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c23ac69" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="873,1202 1003,1202 1003,1232 873,1232"/>
+	<TextEquiv>
+	<Unicode>Billionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>genden durch Beyſetzung des Worts Billionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_38" primaryLanguage="German" custom="readingOrder {index:12;} textStyle {offset:0; length:48;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="286,1242 1003,1242 1003,1283 286,1283"/>
+	<Baseline points="286,1273 1003,1273"/>
+	<Word id="w_w1aab1c17b2b1c25ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="286,1245 390,1245 390,1283 286,1283"/>
+	<TextEquiv>
+	<Unicode>formirt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c25ac17" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="401,1246 510,1246 510,1277 401,1277"/>
+	<TextEquiv>
+	<Unicode>werden.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c25ac33" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="524,1244 629,1244 629,1280 524,1280"/>
+	<TextEquiv>
+	<Unicode>Endlich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c25ac49" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="643,1243 762,1243 762,1276 643,1276"/>
+	<TextEquiv>
+	<Unicode>bedeuten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1475754661180_316" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="817,1275 775,1275 775,1242 817,1242"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="word_1475754661177_315" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:11;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="1003,1275 817,1275 817,1242 1003,1242"/>
+	<TextEquiv>
+	<Unicode>Characteres</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>formirt werden. Endlich bedeuten die Characteres</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_39" primaryLanguage="German" custom="readingOrder {index:13;} textStyle {offset:0; length:46;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="285,1278 1005,1278 1005,1323 285,1323"/>
+	<Baseline points="285,1314 1005,1314"/>
+	<Word id="w_w1aab1c17b2b1c27ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="285,1284 336,1284 336,1321 285,1321"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c27ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="344,1285 386,1285 386,1315 344,1315"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c27ac17" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:11;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="405,1286 571,1286 571,1323 405,1323"/>
+	<TextEquiv>
+	<Unicode>neunzehnten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c27ac41" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="590,1283 681,1283 681,1317 590,1317"/>
+	<TextEquiv>
+	<Unicode>Stelle</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c27ac55" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:11;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="699,1282 863,1282 863,1318 699,1318"/>
+	<TextEquiv>
+	<Unicode>Trillionen,</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c27ac79" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="896,1281 934,1281 934,1311 896,1311"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c27ac87" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="953,1278 1005,1278 1005,1315 953,1315"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>auf der neunzehnten Stelle Trillionen, die auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_40" primaryLanguage="German" custom="readingOrder {index:14;} textStyle {offset:0; length:46;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="283,1318 1002,1318 1002,1362 283,1362"/>
+	<Baseline points="283,1352 1002,1352"/>
+	<Word id="w_w1aab1c17b2b1c29ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="283,1325 327,1325 327,1356 283,1356"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c29ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="347,1320 410,1320 410,1361 347,1361"/>
+	<TextEquiv>
+	<Unicode>fuͤnf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c29ac19" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="424,1325 476,1325 476,1355 424,1355"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c29ac27" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:11;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="498,1324 658,1324 658,1362 498,1362"/>
+	<TextEquiv>
+	<Unicode>zwanzigſten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c29ac51" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:13;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="679,1322 882,1322 882,1354 679,1354"/>
+	<TextEquiv>
+	<Unicode>Quadrillionen</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c29ac79" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="906,1320 958,1320 958,1352 906,1352"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c29ac87" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="976,1318 1002,1318 1002,1354 976,1354"/>
+	<TextEquiv>
+	<Unicode>ſo</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>der fuͤnf und zwanzigſten Quadrillionen und ſo</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_41" primaryLanguage="German" custom="readingOrder {index:15;} textStyle {offset:0; length:47;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="282,1359 1004,1359 1004,1403 282,1403"/>
+	<Baseline points="282,1393 1004,1393"/>
+	<Word id="w_w1aab1c17b2b1c31ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="282,1363 350,1363 350,1402 282,1402"/>
+	<TextEquiv>
+	<Unicode>fort;</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c31ac13" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="371,1368 479,1368 479,1395 371,1395"/>
+	<TextEquiv>
+	<Unicode>woraus</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c31ac27" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="492,1363 596,1363 596,1403 492,1403"/>
+	<TextEquiv>
+	<Unicode>zugleich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c31ac45" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="615,1363 653,1363 653,1395 615,1395"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c31ac53" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="667,1361 836,1361 836,1400 667,1400"/>
+	<TextEquiv>
+	<Unicode>Benennung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c31ac73" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="854,1362 897,1362 897,1392 854,1392"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c31ac81" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="910,1359 1004,1359 1004,1390 910,1390"/>
+	<TextEquiv>
+	<Unicode>mittle-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>fort; woraus zugleich die Benennung der mittle-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="tl_42" primaryLanguage="German" custom="readingOrder {index:16;} textStyle {offset:0; length:48;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="283,1401 1002,1401 1002,1443 283,1443"/>
+	<Baseline points="283,1434 1002,1434"/>
+	<Word id="w_w1aab1c17b2b1c33ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="283,1411 328,1411 328,1436 283,1436"/>
+	<TextEquiv>
+	<Unicode>ren</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c33ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="346,1402 456,1402 456,1439 346,1439"/>
+	<TextEquiv>
+	<Unicode>Stellen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c33ac25" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="473,1405 580,1405 580,1443 473,1443"/>
+	<TextEquiv>
+	<Unicode>erhellet.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c33ac45" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:14;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="620,1402 829,1402 829,1442 620,1442"/>
+	<TextEquiv>
+	<Unicode>Solchergeſtalt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c33ac75" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="846,1402 960,1402 960,1435 846,1435"/>
+	<TextEquiv>
+	<Unicode>bedeutet</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1c17b2b1c33ac93" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="974,1401 1002,1401 1002,1430 974,1430"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>ren Stellen erhellet. Solchergeſtalt bedeutet in</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Hieraus erhellt, daß die Bedeutung der Cha-
+racteren auf der ſiebentcn Stelle aͤhnlich ſey der
+Bedeutung auf der erſten Stelle, indem bey
+der Siebenten nur das Wort Millionen zugeſe-
+tzet wird. Gleichergeſtalt wird man die Bedeu-
+tung auf der achten Stelle haben, wenn man
+bey der zweyten Stelle das Wort Millionen hin-
+zuſetzet; und auf eben dieſe Art entſpringt die
+neunte Stelle aus der dritten, die zehnte aus der
+vierten, nnd ſo weiter bis auf die dreyzehnte und
+folgenden, welche wieder aus der erſten und fol-
+genden durch Beyſetzung des Worts Billionen
+formirt werden. Endlich bedeuten die Characteres
+auf der neunzehnten Stelle Trillionen, die auf
+der fuͤnf und zwanzigſten Quadrillionen und ſo
+fort; woraus zugleich die Benennung der mittle-
+ren Stellen erhellet. Solchergeſtalt bedeutet in</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_10_1" custom="readingOrder {index:26;} structure {type:catch-word;}" type="catch-word" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="952,1446 1005,1446 1005,1480 952,1480"/>
+	<TextLine id="tl_43" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="953,1447 1004,1447 1004,1479 953,1479"/>
+	<Baseline points="953,1478 1004,1478"/>
+	<Word id="w_w1aab1c19b2b1b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="953,1447 1004,1447 1004,1479 953,1479"/>
+	<TextEquiv>
+	<Unicode>die-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>die-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>die-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r_11" custom="readingOrder {index:27;}">
+	<Coords points="297,266 995,266 995,272 297,272"/></SeparatorRegion>
+	<SeparatorRegion id="r_30" custom="readingOrder {index:28;}">
+	<Coords points="638,568 645,568 645,750 638,750"/></SeparatorRegion>
+	<SeparatorRegion id="r_31" custom="readingOrder {index:29;}">
+	<Coords points="641,328 645,328 645,515 641,515"/></SeparatorRegion>
+	<SeparatorRegion id="r_32" custom="readingOrder {index:30;}">
+	<Coords points="644,565 652,565 652,749 644,749"/></SeparatorRegion>
+	<SeparatorRegion id="r_33" custom="readingOrder {index:31;}">
+	<Coords points="650,340 647,340 647,515 650,515"/></SeparatorRegion>
+	<SeparatorRegion id="Separator_1475753666973_204" custom="readingOrder {index:32;}">
+	<Coords points="513,213 805,213 805,256 513,256"/></SeparatorRegion></Page></PcGts>

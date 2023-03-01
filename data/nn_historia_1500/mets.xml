@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:DC="http://purl.org/dc/elements/1.1/"
+  xmlns:mods="http://www.loc.gov/mods/v3"
+  xmlns:mets="http://www.loc.gov/METS/"
+  xmlns:DV="http://dfg-viewer.de/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+  xmlns:gt="http://www.ocr-d.de/GT/"
+  xmlns:pre="http://www.loc.gov/premis/v3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd http://www.loc.gov/standards/premis/premis.xsd">
+  <mets:metsHdr CREATEDATE="2019-11-25T16:15:29.304834">
+    <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+      <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
+        Character Recognition (OCR-D)</mets:name>
+      <mets:note>OCR-D</mets:note>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMDLOG_0000">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:location>
+            <mods:physicalLocation valueURI="http://ld.zdb-services.de/resource/organisations/DE-1">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany</mods:physicalLocation>
+            <mods:shelfLocator>8° Inc 2542</mods:shelfLocator>
+          </mods:location>
+          <mods:originInfo eventType="publication">
+            <mods:place>
+              <mods:placeTerm type="text">Strassburg</mods:placeTerm>
+            </mods:place>
+            <mods:dateIssued encoding="iso8601" keyDate="yes">1500</mods:dateIssued>
+            <mods:publisher>Mathis Hupfuff</mods:publisher>
+          </mods:originInfo>
+          <mods:originInfo eventType="digitization">
+            <mods:place>
+              <mods:placeTerm type="text">Berlin</mods:placeTerm>
+            </mods:place>
+            <mods:dateCaptured encoding="iso8601">2012</mods:dateCaptured>
+            <mods:publisher>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany</mods:publisher>
+            <mods:edition>[Electronic ed.]</mods:edition>
+          </mods:originInfo>
+          <mods:classification authority="ZVDD">Historische Drucke</mods:classification>
+          <mods:classification authority="ZVDD">Inkunabeln</mods:classification>
+          <mods:classification authority="ZVDD">Sprachen / Literaturen</mods:classification>
+          <mods:recordInfo>
+            <mods:recordIdentifier source="gbv-ppn">PPN729139409</mods:recordIdentifier>
+          </mods:recordInfo>
+          <mods:identifier type="purl">http://resolver.staatsbibliothek-berlin.de/SBB0000A94200000000</mods:identifier>
+          <mods:identifier type="GW">GW12834</mods:identifier>
+          <mods:relatedItem type="original">
+            <mods:recordInfo>
+              <mods:recordIdentifier source="gbv-ppn">PPN729139409</mods:recordIdentifier>
+            </mods:recordInfo>
+          </mods:relatedItem>
+          <mods:titleInfo>
+            <mods:title>Historia. Tundalus</mods:title>
+          </mods:titleInfo>
+          <mods:titleInfo type="alternative">
+            <mods:title>Tundalus</mods:title>
+          </mods:titleInfo>
+          <mods:note type="source characteristics">P_Drucke_Allg_bis1920</mods:note>
+          <mods:note type="bibliography">GW12834</mods:note>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+          </mods:language>
+          <mods:relatedItem type="series">
+            <mods:titleInfo>
+              <mods:title>Art of Reading in the Middle Ages: previously digitised item</mods:title>
+            </mods:titleInfo>
+          </mods:relatedItem>
+          <mods:physicalDescription>
+            <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+            <mods:extent>28 Bl.</mods:extent>
+          </mods:physicalDescription>
+          <mods:accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
+          <mods:accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" displayLabel="Access Status" type="restriction on access" xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
+          <mods:subject authority="getty">
+            <mods:topic valueURI="http://vocab.getty.edu/aat/300411614">reading culture</mods:topic>
+            <mods:topic valueURI="http://vocab.getty.edu/aat/300020756">Medieval (European)</mods:topic>
+          </mods:subject>
+          <mods:subject authority="wikidata">
+            <mods:topic valueURI="https://www.wikidata.org/wiki/Q107274053">Reading culture (medieval)</mods:topic>
+          </mods:subject>
+          <mods:genre authority="wikidata" type="class" valueURI="https://www.wikidata.org/wiki/Q216665">incunable</mods:genre>
+          <mods:genre authority="wikidata" type="class" valueURI="https://www.wikidata.org/wiki/Q1261026">printed matter</mods:genre>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  
+  
+  
+  
+  <mets:dmdSec ID="DMDGT_0001">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+          <gt:state prop="condition/wear/additions/informative/stamps"/>
+          <gt:state prop="data-attributes/document-related/visual/illustrations"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0002">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  
+  
+  
+  
+  <mets:amdSec ID="amdSec_0001">
+    <mets:rightsMD ID="rights_0001">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+        <mets:xmlData>
+          <DV:rights>
+            <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
+              Optical-Character-Recognition OCR-D</DV:owner>
+            <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+            <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
+            <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
+          </DV:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="rights_0002">
+      <mets:mdWrap MDTYPE="PREMIS:RIGHTS">
+        <mets:xmlData>
+          <pre:rightsStatement>
+            <pre:rightsBasis>license</pre:rightsBasis>
+            <pre:licenseInformation>
+              <pre:licenseDocumentationIdentifier>
+                <pre:licenseDocumentationIdentifierValue>http://creativecommons.org/publicdomain/mark/1.0/</pre:licenseDocumentationIdentifierValue>
+              </pre:licenseDocumentationIdentifier>
+            </pre:licenseInformation>
+          </pre:rightsStatement>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:digiprovMD ID="DIGIPROV">
+      <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+        <mets:xmlData>
+          <dv:links xmlns:dv="http://dfg-viewer.de/">
+            <dv:reference>http://www.stabikat.de/DB=1/PPN?PPN=729139409 </dv:reference>
+            <dv:presentation>http://digital.staatsbibliothek-berlin.de/dms/werkansicht/?PPN=PPN729139409</dv:presentation>
+            <dv:iiif>https://content.staatsbibliothek-berlin.de/dc/PPN729139409/manifest</dv:iiif></dv:links>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  
+  <mets:fileSec>
+    <mets:fileGrp USE="OCR-D-IMG">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0009">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_historia_1500_0009.tif"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_historia_1500_0007.tif"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0009">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_historia_1500_0009.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_historia_1500_0007.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0009">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_historia_1500_0009.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_historia_1500_0007.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0009">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_historia_1500_0009.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_historia_1500_0007.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="phys_0009" DMDID="DMDGT_0001">
+        <mets:fptr FILEID="OCR-D-IMG_0009"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0009"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0009"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0009"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="phys_0007" DMDID="DMDGT_0002">
+        <mets:fptr FILEID="OCR-D-IMG_0007"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0007"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0007"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0007"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>

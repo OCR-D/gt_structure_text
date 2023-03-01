@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-lohenstein_agrippina_1665_0121">
+	<Metadata>
+	<Creator>OCR-D</Creator>
+	<Created>2016-09-20T13:10:03</Created>
+	<LastChange>2018-04-25T15:42:44</LastChange></Metadata>
+	<Page imageFilename="lohenstein_agrippina_1665_0121.tif" imageWidth="1214" imageHeight="1916" type="content">
+	<PrintSpace>
+	<Coords points="74,105 1056,105 1056,1775 74,1775"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r_3_1" index="0"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189387806_196" index="1"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189391862_197" index="2"/>
+	<RegionRefIndexed regionRef="r_3_7" index="3"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189413468_199" index="4"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189413468_198" index="5"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189275595_170" index="6"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189280805_171" index="7"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189597191_213" index="8"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189660823_236" index="9"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189635520_224" index="10"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189324875_173" index="11"/>
+	<RegionRefIndexed regionRef="TextRegion_1476189324875_172" index="12"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r_3_1" custom="readingOrder {index:0;} structure {type:page-number;}" type="page-number" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="372,113 614,113 614,148 372,148"/>
+	<TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="373,114 613,114 613,147 373,147"/>
+	<Baseline points="373,143 613,143"/>
+	<Word id="w_w1aab1b5b2b1b1b1b1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Times\u0020New\u0020Roman; fontSize:7.0;}">
+	<Coords points="554,114 613,114 613,145 554,145"/>
+	<TextEquiv>
+	<Unicode>103.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.00000"/></Word>
+	<TextEquiv>
+	<Unicode>103.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>103.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189387806_196" custom="readingOrder {index:1;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="77,140 1022,140 1024,431 1024,678 1020,732 142,732 81,678 78,442 77,318"/>
+	<TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:51;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="143,141 971,141 971,192 143,192"/>
+	<Baseline points="143,183 971,183"/>
+	<Word id="w_w1aab1b5b2b3b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="143,150 317,150 317,191 143,191"/>
+	<TextEquiv>
+	<Unicode>Derſelben/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b1ac23" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="328,154 374,154 374,183 328,183"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b1ac31" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="381,157 447,157 447,183 381,183"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b1ac39" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="458,149 509,149 509,181 458,181"/>
+	<TextEquiv>
+	<Unicode>wil</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b1ac47" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="518,149 575,149 575,181 518,181"/>
+	<TextEquiv>
+	<Unicode>kein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b1ac57" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="585,148 679,148 679,181 585,181"/>
+	<TextEquiv>
+	<Unicode>Blutt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b1ac69" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="688,152 750,152 750,186 688,186"/>
+	<TextEquiv>
+	<Unicode>zum</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b1ac77" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="760,143 861,143 861,183 760,183"/>
+	<TextEquiv>
+	<Unicode>Opffer</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b1ac91" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="870,141 971,141 971,182 870,182"/>
+	<TextEquiv>
+	<Unicode>geben!</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Derſelben/ der man wil kein Blutt zum Opffer geben!</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:59;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="78,182 1018,182 1018,231 78,231"/>
+	<Baseline points="78,225 1018,225"/>
+	<Word id="word_1476189695284_238" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="139,231 78,231 78,192 139,192"/>
+	<TextEquiv>
+	<Unicode>565.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189695284_237" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="223,231 139,231 139,192 223,192"/>
+	<TextEquiv>
+	<Unicode>Weil</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b3ac19" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="231,194 375,194 375,225 231,225"/>
+	<TextEquiv>
+	<Unicode>Niemand</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b3ac35" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="383,194 427,194 427,227 383,227"/>
+	<TextEquiv>
+	<Unicode>ihr</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b3ac43" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="438,191 559,191 559,224 438,224"/>
+	<TextEquiv>
+	<Unicode>Gebein’</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b3ac59" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="571,195 627,195 627,221 571,221"/>
+	<TextEquiv>
+	<Unicode>aus</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189716734_240" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="775,224 638,224 638,185 775,185"/>
+	<TextEquiv>
+	<Unicode>koſtbarm</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189716734_239" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="888,224 775,224 775,185 888,185"/>
+	<TextEquiv>
+	<Unicode>Waſſer</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b3ac97" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="896,182 1018,182 1018,221 896,221"/>
+	<TextEquiv>
+	<Unicode>waͤſch’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>565. Weil Niemand ihr Gebein’ aus koſtbarm Waſſer waͤſch’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:2;} textStyle {offset:0; length:58;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="144,224 1021,224 1021,276 144,276"/>
+	<Baseline points="144,266 1021,266"/>
+	<Word id="w_w1aab1b5b2b3b5ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="144,236 209,236 209,266 144,266"/>
+	<TextEquiv>
+	<Unicode>Und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b5ac11" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="221,238 262,238 262,266 221,266"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b5ac19" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="273,235 338,235 338,272 273,272"/>
+	<TextEquiv>
+	<Unicode>noch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189788260_242" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="463,274 349,274 349,233 463,233"/>
+	<TextEquiv>
+	<Unicode>glimme</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189788260_241" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="558,274 463,274 463,233 558,233"/>
+	<TextEquiv>
+	<Unicode>Glutt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b5ac53" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="568,231 648,231 648,266 568,266"/>
+	<TextEquiv>
+	<Unicode>durch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b5ac65" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="656,230 729,230 729,261 656,261"/>
+	<TextEquiv>
+	<Unicode>keine</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b5ac77" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="737,226 844,226 844,264 737,264"/>
+	<TextEquiv>
+	<Unicode>Thraͤn’</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b5ac91" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:12;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="854,224 1021,224 1021,265 854,265"/>
+	<TextEquiv>
+	<Unicode>außlaͤſch’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Und die noch glimme Glutt durch keine Thraͤn’ außlaͤſch’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:3;} textStyle {offset:0; length:52;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="144,266 941,266 941,317 144,317"/>
+	<Baseline points="144,307 941,307"/>
+	<Word id="w_w1aab1b5b2b3b7ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="144,277 195,277 195,308 144,308"/>
+	<TextEquiv>
+	<Unicode>So</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b7ab7" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="207,277 299,277 299,315 207,315"/>
+	<TextEquiv>
+	<Unicode>wasch’</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b7ac21" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="311,281 366,281 366,306 311,306"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b7ac29" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="379,275 457,275 457,315 379,315"/>
+	<TextEquiv>
+	<Unicode>leſche</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b7ac43" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="468,276 500,276 500,311 468,311"/>
+	<TextEquiv>
+	<Unicode>ſie</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b7ac51" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="511,276 586,276 586,304 511,304"/>
+	<TextEquiv>
+	<Unicode>mein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b7ac61" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:11;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="601,273 764,273 764,311 601,311"/>
+	<TextEquiv>
+	<Unicode>ſpritzendes</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b3b7ac85" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="782,267 941,267 941,301 782,301"/>
+	<TextEquiv>
+	<Unicode>Gebluͤtte;</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>So wasch’ und leſche ſie mein ſpritzendes Gebluͤtte;</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:4;} textStyle {offset:0; length:54;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="144,307 974,307 974,358 144,358"/>
+	<Baseline points="144,349 974,349"/>
+	<Word id="w_w1aab1b5b2b5b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="144,317 190,317 190,351 144,351"/>
+	<TextEquiv>
+	<Unicode>Eh</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1ab7" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="200,318 248,318 248,348 200,348"/>
+	<TextEquiv>
+	<Unicode>als</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189893170_244" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="306,356 256,356 256,317 306,317"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189893154_243" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="417,356 306,356 306,317 417,317"/>
+	<TextEquiv>
+	<Unicode>Kaͤyſer</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1ac35" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="425,316 494,316 494,351 425,351"/>
+	<TextEquiv>
+	<Unicode>mich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1ac45" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="503,319 557,319 557,346 503,346"/>
+	<TextEquiv>
+	<Unicode>mit</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1ac53" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="566,314 644,314 644,350 566,350"/>
+	<TextEquiv>
+	<Unicode>Blitz</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1ac65" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="653,316 710,316 710,344 653,344"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1ac73" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="725,311 781,311 781,347 725,347"/>
+	<TextEquiv>
+	<Unicode>Ach</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1ac81" language="German" custom="readingOrder {index:9;} textStyle {offset:0; length:12;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="790,307 974,307 974,346 790,346"/>
+	<TextEquiv>
+	<Unicode>umbſchuͤtte.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Eh als der Kaͤyſer mich mit Blitz und Ach umbſchuͤtte.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:5;} textStyle {offset:0; length:54;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="145,351 974,351 974,400 145,400"/>
+	<Baseline points="145,390 974,390"/>
+	<Word id="w_w1aab1b5b2b5b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="145,358 214,358 214,392 145,392"/>
+	<TextEquiv>
+	<Unicode>Viel</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac11" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="223,359 324,359 324,399 223,399"/>
+	<TextEquiv>
+	<Unicode>beſſer:</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac27" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="334,359 406,359 406,395 334,395"/>
+	<TextEquiv>
+	<Unicode>Daß</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac35" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="418,361 461,361 461,389 418,389"/>
+	<TextEquiv>
+	<Unicode>ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac43" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="473,356 565,356 565,392 473,392"/>
+	<TextEquiv>
+	<Unicode>Dolch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189956849_246" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="621,386 575,386 575,355 621,355"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476189956849_245" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="717,386 621,386 621,355 717,355"/>
+	<TextEquiv>
+	<Unicode>Adern</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac73" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="726,353 835,353 835,391 726,391"/>
+	<TextEquiv>
+	<Unicode>ſchneid’</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac91" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="844,355 974,355 974,389 844,389"/>
+	<TextEquiv>
+	<Unicode>entzwey/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Viel beſſer: Daß ein Dolch die Adern ſchneid’ entzwey/</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:6;} textStyle {offset:0; length:53;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="79,392 907,392 907,441 79,441"/>
+	<Baseline points="79,431 907,431"/>
+	<Word id="word_1476190019280_249" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="145,441 79,441 79,401 145,401"/>
+	<TextEquiv>
+	<Unicode>570.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190019280_248" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="209,441 145,441 145,401 209,401"/>
+	<TextEquiv>
+	<Unicode>Und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5ac19" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="220,404 293,404 293,431 220,431"/>
+	<TextEquiv>
+	<Unicode>mein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5ac29" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="304,400 466,400 466,438 304,438"/>
+	<TextEquiv>
+	<Unicode>unſchuldig</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5ac51" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="476,398 570,398 570,431 476,431"/>
+	<TextEquiv>
+	<Unicode>Blutt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5ac63" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="579,399 622,399 622,427 579,427"/>
+	<TextEquiv>
+	<Unicode>ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5ac71" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="632,397 727,397 727,426 632,426"/>
+	<TextEquiv>
+	<Unicode>reines</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5ac85" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="738,392 840,392 840,432 738,432"/>
+	<TextEquiv>
+	<Unicode>Opffer</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5ac99" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="848,393 907,393 907,430 848,430"/>
+	<TextEquiv>
+	<Unicode>sey;</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>570. Und mein unſchuldig Blutt ein reines Opffer sey;</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:7;} textStyle {offset:0; length:51;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="143,432 1019,432 1019,483 143,483"/>
+	<Baseline points="143,473 1019,473"/>
+	<Word id="w_w1aab1b5b2b7b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="143,441 218,441 218,472 143,472"/>
+	<TextEquiv>
+	<Unicode>Als:</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac11" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="229,442 282,442 282,478 229,478"/>
+	<TextEquiv>
+	<Unicode>daß</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac19" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="292,446 324,446 324,472 292,472"/>
+	<TextEquiv>
+	<Unicode>es</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190062228_251" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="390,481 335,481 335,441 390,441"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190062228_250" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="440,481 390,481 390,441 440,441"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac39" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="448,440 534,440 534,473 448,473"/>
+	<TextEquiv>
+	<Unicode>Rach’</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac51" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="546,436 732,436 732,475 546,475"/>
+	<TextEquiv>
+	<Unicode>entweyhtem</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190077735_252" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:14;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="916,432 1019,432 1019,464 890,468 748,468 748,433"/>
+	<TextEquiv>
+	<Unicode>Schmach-Altare</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Als: daß es auf der Rach’ entweyhtem Schmach-Altare</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:8;} textStyle {offset:0; length:51;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="143,473 1021,473 1021,521 143,521"/>
+	<Baseline points="143,514 1021,514"/>
+	<Word id="w_w1aab1b5b2b7b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="143,482 207,482 207,515 143,515"/>
+	<TextEquiv>
+	<Unicode>Der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:15;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="216,482 483,482 483,518 216,518"/>
+	<TextEquiv>
+	<Unicode>Mord-Verraͤther</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac39" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="492,480 610,480 610,513 492,513"/>
+	<TextEquiv>
+	<Unicode>Grimm</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac51" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="621,483 665,483 665,509 621,509"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac59" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="675,477 795,477 795,514 675,514"/>
+	<TextEquiv>
+	<Unicode>Hencker</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac75" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="804,475 880,475 880,512 804,512"/>
+	<TextEquiv>
+	<Unicode>Pein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac85" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="898,473 1021,473 1021,512 898,512"/>
+	<TextEquiv>
+	<Unicode>erfahre.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Der Mord-Verraͤther Grimm der Hencker Pein erfahre.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:9;} textStyle {offset:0; length:56;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="145,514 1018,514 1018,566 145,566"/>
+	<Baseline points="145,555 1018,555"/>
+	<Word id="word_1476190115331_253" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="145,523 214,523 232,532 232,554 214,555 145,555"/>
+	<TextEquiv>
+	<Unicode>Wie?</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190121025_255" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="389,564 244,564 244,522 389,522"/>
+	<TextEquiv>
+	<Unicode>Mneſter/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190121025_254" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="534,564 389,564 389,522 534,522"/>
+	<TextEquiv>
+	<Unicode>zitterſtu?</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac51" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="543,520 658,520 658,560 543,560"/>
+	<TextEquiv>
+	<Unicode>ſchreck’t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac71" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="667,518 727,518 727,551 667,551"/>
+	<TextEquiv>
+	<Unicode>Tod</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac79" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="738,520 794,520 794,549 738,549"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac87" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="804,515 936,515 936,548 804,548"/>
+	<TextEquiv>
+	<Unicode>Sterben</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ad103" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="947,516 1018,516 1018,547 947,547"/>
+	<TextEquiv>
+	<Unicode>dich.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Wie? Mneſter/ zitterſtu? ſchreck’t Tod und Sterben dich.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:10;} textStyle {offset:0; length:55;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="147,556 1023,556 1023,606 147,606"/>
+	<Baseline points="147,595 1023,595"/>
+	<Word id="w_w1aab1b5b2b7b7ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="147,565 228,565 228,597 147,597"/>
+	<TextEquiv>
+	<Unicode>Was</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190181475_256" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="237,566 346,566 369,567 369,597 346,604 237,604"/>
+	<TextEquiv>
+	<Unicode>ſtarꝛſtu?</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac31" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="376,566 480,566 480,600 376,600"/>
+	<TextEquiv>
+	<Unicode>hemmt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190186311_258" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="551,594 487,594 487,562 551,562"/>
+	<TextEquiv>
+	<Unicode>dein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190186295_257" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="622,594 551,594 551,562 622,562"/>
+	<TextEquiv>
+	<Unicode>Arm</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac59" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="630,561 696,561 696,597 630,597"/>
+	<TextEquiv>
+	<Unicode>noch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac69" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="704,563 753,563 753,590 704,590"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190197106_260" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="912,594 763,594 763,556 912,556"/>
+	<TextEquiv>
+	<Unicode>behertzten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190197106_259" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="1023,594 912,594 912,556 1023,556"/>
+	<TextEquiv>
+	<Unicode>Stich?</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Was ſtarꝛſtu? hemmt dein Arm noch den behertzten Stich?</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:11;}">
+	<Coords points="82,598 1018,598 1018,649 82,649"/>
+	<Baseline points="82,639 1018,639"/>
+	<Word id="word_1476190014881_247" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="82,609 115,609 131,612 131,638 115,640 82,640"/>
+	<TextEquiv>
+	<Unicode>575.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190665522_6" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="250,647 145,647 145,605 250,605"/>
+	<TextEquiv>
+	<Unicode>Sloß/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190665522_5" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="395,647 250,647 250,605 395,605"/>
+	<TextEquiv>
+	<Unicode>Mneſter/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190648487_3" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="476,647 395,647 395,605 476,605"/>
+	<TextEquiv>
+	<Unicode>ſtoß/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190628691_1" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="537,647 476,647 476,605 537,605"/>
+	<TextEquiv>
+	<Unicode>ſtoß</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9b1c51" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="547,604 595,604 595,643 547,643"/>
+	<TextEquiv>
+	<Unicode>zu!</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9b1c59" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="610,602 692,602 692,639 610,639"/>
+	<TextEquiv>
+	<Unicode>durch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9b1c71" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="702,600 769,600 769,640 702,640"/>
+	<TextEquiv>
+	<Unicode>ſolch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9b1c83" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="787,599 939,599 939,641 787,641"/>
+	<TextEquiv>
+	<Unicode>bepurpert</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9b1d103" language="German" custom="readingOrder {index:9;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="954,598 1018,598 1018,637 954,637"/>
+	<TextEquiv>
+	<Unicode>ſter-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>575. Sloß/ Mneſter/ ſtoß/ ſtoß zu! durch ſolch bepurpert ſter-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:12;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="492,645 544,645 544,677 492,677"/>
+	<Baseline points="492,681 544,681"/>
+	<Word id="w_w1aab1b5b2b7c11ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="492,646 544,646 544,677 492,677"/>
+	<TextEquiv>
+	<Unicode>ben</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>ben</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:13;} textStyle {offset:0; length:48;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="143,680 1003,680 1003,725 143,725"/>
+	<Baseline points="143,721 1003,721"/>
+	<Word id="word_1476190725223_7" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="143,689 210,689 210,722 143,722"/>
+	<TextEquiv>
+	<Unicode>Kan</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190731494_8" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="218,694 274,694 274,721 218,721"/>
+	<TextEquiv>
+	<Unicode>aus</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190736502_9" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="286,691 336,691 336,720 286,720"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190739996_10" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="347,688 483,688 483,720 347,720"/>
+	<TextEquiv>
+	<Unicode>Wunden</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190780244_15" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="493,695 560,695 560,719 493,719"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190744411_11" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="569,686 628,686 628,721 569,721"/>
+	<TextEquiv>
+	<Unicode>ihm</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190790743_16" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:12;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="762,682 879,682 879,723 762,723 637,722 637,684"/>
+	<TextEquiv>
+	<Unicode>Ehren-Fahnen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190754988_13" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="890,680 1003,680 1003,722 890,722"/>
+	<TextEquiv>
+	<Unicode>faͤrben.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Kan aus den Wunden man ihm Ehren-Fahnen faͤrben.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Derſelben/ der man wil kein Blutt zum Opffer geben!
+565. Weil Niemand ihr Gebein’ aus koſtbarm Waſſer waͤſch’t/
+Und die noch glimme Glutt durch keine Thraͤn’ außlaͤſch’t/
+So wasch’ und leſche ſie mein ſpritzendes Gebluͤtte;
+Eh als der Kaͤyſer mich mit Blitz und Ach umbſchuͤtte.
+Viel beſſer: Daß ein Dolch die Adern ſchneid’ entzwey/
+570. Und mein unſchuldig Blutt ein reines Opffer sey;
+Als: daß es auf der Rach’ entweyhtem Schmach-Altare
+Der Mord-Verraͤther Grimm der Hencker Pein erfahre.
+Wie? Mneſter/ zitterſtu? ſchreck’t Tod und Sterben dich.
+Was ſtarꝛſtu? hemmt dein Arm noch den behertzten Stich?
+575. Sloß/ Mneſter/ ſtoß/ ſtoß zu! durch ſolch bepurpert ſter-
+ben
+Kan aus den Wunden man ihm Ehren-Fahnen faͤrben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189391862_197" custom="readingOrder {index:2;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="142,719 1020,719 1022,803 1022,893 141,893 141,803"/>
+	<TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:52;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="144,719 1019,719 1019,770 144,770"/>
+	<Baseline points="144,763 1019,763"/>
+	<Word id="w_w1aab1b5b2b9b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="144,733 225,733 225,761 144,761"/>
+	<TextEquiv>
+	<Unicode>Paris.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></Word>
+	<Word id="word_1476190826593_20" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="368,769 234,769 234,730 368,730"/>
+	<TextEquiv>
+	<Unicode>Schau/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190826593_19" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="453,769 368,769 368,730 453,730"/>
+	<TextEquiv>
+	<Unicode>wie/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190824768_17" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="538,769 453,769 453,730 538,730"/>
+	<TextEquiv>
+	<Unicode>wenn</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190842567_22" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="625,758 555,758 555,731 625,731"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190842567_21" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="675,758 625,758 625,731 675,731"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ac59" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="695,725 836,725 836,763 695,763"/>
+	<TextEquiv>
+	<Unicode>Schlang’</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190861085_24" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="904,763 853,763 853,722 904,722"/>
+	<TextEquiv>
+	<Unicode>ihr</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190861085_23" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="1019,763 904,763 904,722 1019,722"/>
+	<TextEquiv>
+	<Unicode>giftigs</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Paris. Schau/ wie/ wenn man der Schlang’ ihr giftigs</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:18;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="452,765 734,765 734,809 452,809"/>
+	<Baseline points="452,803 734,803"/>
+	<Word id="w_w1aab1b5b2b9b5ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="452,770 556,770 556,809 452,809"/>
+	<TextEquiv>
+	<Unicode>Haupt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ac13" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:12;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="567,765 734,765 734,807 567,807"/>
+	<TextEquiv>
+	<Unicode>abſchlaͤg’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Haupt abſchlaͤg’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:2;} textStyle {offset:0; length:56;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="142,804 1021,804 1021,854 142,854"/>
+	<Baseline points="142,846 1021,846"/>
+	<Word id="w_w1aab1b5b2c11b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="142,813 208,813 208,852 142,852"/>
+	<TextEquiv>
+	<Unicode>Jhr</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="216,812 368,812 368,851 216,851"/>
+	<TextEquiv>
+	<Unicode>Schwantz</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac27" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="378,815 436,815 436,844 378,844"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac35" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="445,812 545,812 545,844 445,844"/>
+	<TextEquiv>
+	<Unicode>Brutt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac47" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="556,810 604,810 604,846 556,846"/>
+	<TextEquiv>
+	<Unicode>ſich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac57" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="614,809 692,809 692,849 614,849"/>
+	<TextEquiv>
+	<Unicode>ſelbſt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac89" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="855,814 887,814 887,848 855,848"/>
+	<TextEquiv>
+	<Unicode>zu</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190914780_26" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="760,841 700,841 700,805 760,805"/>
+	<TextEquiv>
+	<Unicode>in’s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190914780_25" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="846,841 760,841 760,805 846,805"/>
+	<TextEquiv>
+	<Unicode>Grab</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac95" language="German" custom="readingOrder {index:9;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="895,806 1021,806 1021,846 895,846"/>
+	<TextEquiv>
+	<Unicode>ſcharren</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Jhr Schwantz und Brutt ſich ſelbſt zu in’s Grab ſcharren</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="478,852 592,852 592,892 478,892"/>
+	<Baseline points="478,887 592,887"/>
+	<Word id="w_w1aab1b5b2c11b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="478,853 592,853 592,892 478,892"/>
+	<TextEquiv>
+	<Unicode>pflaͤg’t.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>pflaͤg’t.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Paris. Schau/ wie/ wenn man der Schlang’ ihr giftigs
+Haupt abſchlaͤg’t/
+Jhr Schwantz und Brutt ſich ſelbſt zu in’s Grab ſcharren
+pflaͤg’t.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_7" custom="readingOrder {index:3;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="145,887 1031,887 1031,974 145,974"/>
+	<TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:55;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="146,888 1030,888 1030,938 146,938"/>
+	<Baseline points="146,929 1030,929"/>
+	<Word id="w_w1aab1b5b2c13b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="146,896 248,896 248,929 146,929"/>
+	<TextEquiv>
+	<Unicode>Mneſt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></Word>
+	<Word id="word_1476190958522_30" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="322,935 257,935 257,893 322,893"/>
+	<TextEquiv>
+	<Unicode>Jhr</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190958522_29" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="507,935 322,935 322,893 507,893"/>
+	<TextEquiv>
+	<Unicode>Schlangen/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190956775_27" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="572,935 507,935 507,893 572,893"/>
+	<TextEquiv>
+	<Unicode>gebt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190975261_32" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="635,927 584,927 584,890 635,890"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476190975261_31" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="725,927 635,927 635,890 725,890"/>
+	<TextEquiv>
+	<Unicode>Stich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac69" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="734,892 789,892 789,925 734,925"/>
+	<TextEquiv>
+	<Unicode>mir</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac77" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="799,891 855,891 855,921 799,921"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac85" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="865,891 910,891 910,920 865,920"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac93" language="German" custom="readingOrder {index:9;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="920,888 1030,888 1030,927 920,927"/>
+	<TextEquiv>
+	<Unicode>Agrip-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Mneſt. Jhr Schlangen/ gebt den Stich mir und der Agrip-</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="494,937 569,937 569,973 494,973"/>
+	<Baseline points="494,969 569,969"/>
+	<Word id="w_w1aab1b5b2c13b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="494,938 569,938 569,973 494,973"/>
+	<TextEquiv>
+	<Unicode>pine.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>pine.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Mneſt. Jhr Schlangen/ gebt den Stich mir und der Agrip-
+pine.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189413468_199" custom="readingOrder {index:4;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1033,1021 82,1021 82,966 1033,966"/>
+	<TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="83,967 1026,967 1026,1018 83,1018"/>
+	<Baseline points="83,1010 1026,1010"/>
+	<Word id="word_1476191003887_34" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:8.0;}">
+	<Coords points="146,1015 83,1015 83,978 146,978"/>
+	<TextEquiv>
+	<Unicode>580.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="8.00000"/></Word>
+	<Word id="word_1476191003872_33" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:8.0;}">
+	<Coords points="227,1015 146,1015 146,978 227,978"/>
+	<TextEquiv>
+	<Unicode>Anic.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="8.00000"/></Word>
+	<Word id="w_w1aab1b5b2c15b1b1b1" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="239,978 343,978 343,1016 239,1016"/>
+	<TextEquiv>
+	<Unicode>Schau</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c15b1b1c13" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="354,980 406,980 406,1008 354,1008"/>
+	<TextEquiv>
+	<Unicode>wie</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191018271_36" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="464,1009 417,1009 417,976 464,976"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191018271_35" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="581,1009 464,1009 464,976 581,976"/>
+	<TextEquiv>
+	<Unicode>Natter</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c15b1b1c41" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="591,975 656,975 656,1011 591,1011"/>
+	<TextEquiv>
+	<Unicode>noch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c15b1b1c51" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="666,982 699,982 699,1014 666,1014"/>
+	<TextEquiv>
+	<Unicode>zu</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c15b1b1c57" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="711,971 829,971 829,1013 711,1013"/>
+	<TextEquiv>
+	<Unicode>zuͤngeln</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c15b1b1c73" language="German" custom="readingOrder {index:9;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="841,970 889,970 889,1011 841,1011"/>
+	<TextEquiv>
+	<Unicode>ſich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c15b1b1c83" language="German" custom="readingOrder {index:10;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="900,967 1026,967 1026,1004 900,1004"/>
+	<TextEquiv>
+	<Unicode>erkuͤhne!</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>580. Anic. Schau wie die Natter noch zu zuͤngeln ſich erkuͤhne!</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>580. Anic. Schau wie die Natter noch zu zuͤngeln ſich erkuͤhne!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189413468_198" custom="readingOrder {index:5;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1033,1099 82,1099 82,1012 1033,1012"/>
+	<TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:56;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="150,1015 1032,1015 1032,1061 150,1061"/>
+	<Baseline points="150,1052 1032,1052"/>
+	<Word id="word_1476191131558_48" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="256,1053 150,1053 150,1019 256,1019"/>
+	<TextEquiv>
+	<Unicode>Mneſt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></Word>
+	<Word id="word_1476191131558_47" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="323,1053 256,1053 256,1019 323,1019"/>
+	<TextEquiv>
+	<Unicode>Die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191119234_46" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="463,1059 340,1059 340,1019 463,1019"/>
+	<TextEquiv>
+	<Unicode>Zunge/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191119234_45" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="513,1059 463,1059 463,1019 513,1019"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191075725_39" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="527,1018 606,1018 606,1056 527,1056"/>
+	<TextEquiv>
+	<Unicode>ſchon</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191097597_44" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="734,1055 626,1055 626,1014 734,1014"/>
+	<TextEquiv>
+	<Unicode>ſtirb’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191097597_43" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="770,1055 734,1055 734,1014 770,1014"/>
+	<TextEquiv>
+	<Unicode>iſt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191083572_41" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="782,1013 851,1013 851,1045 782,1045"/>
+	<TextEquiv>
+	<Unicode>alles</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191086848_42" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="867,1011 1032,1011 1032,1051 867,1051"/>
+	<TextEquiv>
+	<Unicode>Heuchelns</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Mneſt. Die Zunge/ die ſchon ſtirb’t/ iſt alles Heuchelns</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="493,1058 567,1058 567,1098 493,1098"/>
+	<Baseline points="493,1093 567,1093"/>
+	<Word id="w_w1aab1b5b2c15b5ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="493,1059 567,1059 567,1098 493,1098"/>
+	<TextEquiv>
+	<Unicode>frey.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>frey.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Mneſt. Die Zunge/ die ſchon ſtirb’t/ iſt alles Heuchelns
+frey.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189275595_170" custom="readingOrder {index:6;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="149,1092 1035,1092 1037,1175 1037,1268 150,1268 149,1180"/>
+	<TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="150,1093 1034,1093 1034,1143 150,1143"/>
+	<Baseline points="150,1134 1034,1134"/>
+	<Word id="w_w1aab1b5b2c17b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:8.0;}">
+	<Coords points="150,1102 236,1102 236,1135 150,1135"/>
+	<TextEquiv>
+	<Unicode>Paris.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="8.00000"/></Word>
+	<Word id="w_w1aab1b5b2c17b1b1b1" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="246,1102 326,1102 326,1135 246,1135"/>
+	<TextEquiv>
+	<Unicode>Man</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191176392_49" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="338,1101 419,1101 445,1103 445,1135 419,1138 338,1138"/>
+	<TextEquiv>
+	<Unicode>lach’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191182227_50" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="552,1106 566,1106 566,1135 552,1135 458,1132 458,1107"/>
+	<TextEquiv>
+	<Unicode>wenn/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c17b1b1c41" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="580,1106 636,1106 636,1131 580,1131"/>
+	<TextEquiv>
+	<Unicode>wer</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c17b1b1c49" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:11;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="645,1098 807,1098 807,1138 645,1138"/>
+	<TextEquiv>
+	<Unicode>verſpiel’t/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c17b1b1c73" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="816,1098 858,1098 858,1128 816,1128"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c17b1b1c81" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="870,1094 961,1094 961,1127 870,1127"/>
+	<TextEquiv>
+	<Unicode>Karte</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c17b1b1c93" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="971,1094 1034,1094 1034,1134 971,1134"/>
+	<TextEquiv>
+	<Unicode>reiſt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Paris. Man lach’t/ wenn/ wer verſpiel’t/ die Karte reiſt</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="489,1146 616,1146 616,1179 489,1179"/>
+	<Baseline points="489,1176 616,1176"/>
+	<Word id="w_w1aab1b5b2c17b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="489,1147 616,1147 616,1179 489,1179"/>
+	<TextEquiv>
+	<Unicode>entzwey.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>entzwey.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:2;} textStyle {offset:0; length:53;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="151,1176 993,1176 993,1225 151,1225"/>
+	<Baseline points="151,1216 993,1216"/>
+	<Word id="w_w1aab1b5b2c19b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="151,1182 309,1182 309,1216 151,1216"/>
+	<TextEquiv>
+	<Unicode>Verblutte</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b1ac21" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="319,1183 401,1183 401,1214 319,1214"/>
+	<TextEquiv>
+	<Unicode>Seel’</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b1ac33" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="417,1186 472,1186 472,1215 417,1215"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191228746_53" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="591,1221 548,1221 481,1215 481,1183 548,1178 591,1178"/>
+	<TextEquiv>
+	<Unicode>Geiſt/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191228731_52" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="719,1221 591,1221 591,1178 719,1178"/>
+	<TextEquiv>
+	<Unicode>verkuͤhle</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b1ac73" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="727,1179 803,1179 803,1217 727,1217"/>
+	<TextEquiv>
+	<Unicode>Zorn</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b1ac83" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="812,1181 869,1181 869,1210 812,1210"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b1ac91" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="877,1177 992,1177 992,1210 877,1210"/>
+	<TextEquiv>
+	<Unicode>Gallen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Verblutte Seel’ und Geiſt/ verkuͤhle Zorn und Gallen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:3;} textStyle {offset:0; length:61;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="152,1218 1036,1218 1036,1267 152,1267"/>
+	<Baseline points="152,1258 1036,1258"/>
+	<Word id="w_w1aab1b5b2c19b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="152,1226 210,1226 210,1259 152,1259"/>
+	<TextEquiv>
+	<Unicode>Ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b3ab9" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="221,1227 269,1227 269,1264 221,1264"/>
+	<TextEquiv>
+	<Unicode>ſich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b3ac19" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:17;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="279,1224 501,1224 501,1265 279,1265"/>
+	<TextEquiv>
+	<Unicode>ſelbſt-ſtuͤrtzend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b3ac53" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="516,1224 608,1224 608,1263 516,1263"/>
+	<TextEquiv>
+	<Unicode>Feind</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b3ac65" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="619,1223 727,1223 727,1261 619,1261"/>
+	<TextEquiv>
+	<Unicode>bring’t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b3ac81" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="736,1221 823,1221 823,1261 736,1261"/>
+	<TextEquiv>
+	<Unicode>ſuͤſſes</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c19b3ac95" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:12;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="836,1219 1036,1219 1036,1259 836,1259"/>
+	<TextEquiv>
+	<Unicode>Wolgefallen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Ein ſich ſelbſt-ſtuͤrtzend Feind bring’t ſuͤſſes Wolgefallen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Paris. Man lach’t/ wenn/ wer verſpiel’t/ die Karte reiſt
+entzwey.
+Verblutte Seel’ und Geiſt/ verkuͤhle Zorn und Gallen.
+Ein ſich ſelbſt-ſtuͤrtzend Feind bring’t ſuͤſſes Wolgefallen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189280805_171" custom="readingOrder {index:7;} structure {type:heading;}" type="heading" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="210,1292 999,1292 999,1359 797,1425 401,1425 210,1359"/>
+	<TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:29;fontFamily:Arial; fontSize:16.0;}">
+	<Coords points="211,1293 998,1293 998,1358 211,1358"/>
+	<Baseline points="211,1355 998,1355"/>
+	<Word id="w_w1aab1b5b2c21b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:16.0;}">
+	<Coords points="211,1302 370,1302 370,1353 211,1353"/>
+	<TextEquiv>
+	<Unicode>Nero.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="16.00000"/></Word>
+	<Word id="w_w1aab1b5b2c21b1ac13" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:16.0;}">
+	<Coords points="392,1297 658,1297 658,1353 392,1353"/>
+	<TextEquiv>
+	<Unicode>Zoroaſter.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="16.00000"/></Word>
+	<Word id="word_1476191300506_55" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:16.0;}">
+	<Coords points="805,1355 670,1355 670,1294 805,1294"/>
+	<TextEquiv>
+	<Unicode>Sein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="16.00000"/></Word>
+	<Word id="word_1476191300491_54" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:16.0;}">
+	<Coords points="998,1355 805,1355 805,1294 998,1294"/>
+	<TextEquiv>
+	<Unicode>Diener.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="16.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Nero. Zoroaſter. Sein Diener.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="16.00000"/></TextLine>
+	<TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:16;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="402,1367 796,1367 796,1424 402,1424"/>
+	<Baseline points="402,1424 796,1424"/>
+	<Word id="w_w1aab1b5b2c23b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="402,1371 537,1371 537,1424 402,1424"/>
+	<TextEquiv>
+	<Unicode>Paris.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<Word id="w_w1aab1b5b2c23b1ac15" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:9;fontFamily:Arial; fontSize:12.0;}">
+	<Coords points="558,1369 796,1369 796,1420 558,1420"/>
+	<TextEquiv>
+	<Unicode>Anicetus.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Paris. Anicetus.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Nero. Zoroaſter. Sein Diener.
+Paris. Anicetus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189597191_213" custom="readingOrder {index:8;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1037,1512 88,1512 88,1463 1037,1463"/>
+	<TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="83,1464 1036,1464 1036,1514 83,1514"/>
+	<Baseline points="156,1507 1036,1507"/>
+	<Word id="word_1476191380550_56" custom="readingOrder {index:0;}">
+	<Coords points="88,1470 148,1470 148,1510 88,1510"/>
+	<TextEquiv>
+	<Unicode>585.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter"/></Word>
+	<Word id="word_1476191425071_59" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:8.0;}">
+	<Coords points="156,1475 242,1475 242,1512 156,1512"/>
+	<TextEquiv>
+	<Unicode>Nero.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="8.00000"/></Word>
+	<Word id="word_1476191405407_57" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="252,1475 325,1475 325,1512 252,1512"/>
+	<TextEquiv>
+	<Unicode>Hier</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b1b1c11" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="333,1474 366,1474 366,1511 333,1511"/>
+	<TextEquiv>
+	<Unicode>iſt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b1b1c19" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="377,1478 423,1478 423,1506 377,1506"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191433921_61" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="524,1510 431,1510 431,1473 524,1473"/>
+	<TextEquiv>
+	<Unicode>Orth/</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191433919_60" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="576,1510 524,1510 524,1473 576,1473"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b1b1c45" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:2;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="589,1477 625,1477 625,1503 589,1503"/>
+	<TextEquiv>
+	<Unicode>du</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191415488_58" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="636,1480 697,1480 697,1512 636,1512"/>
+	<TextEquiv>
+	<Unicode>zum</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b1b1c59" language="German" custom="readingOrder {index:9;} textStyle {offset:0; length:6;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="707,1470 808,1470 808,1509 707,1509"/>
+	<TextEquiv>
+	<Unicode>Opffer</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b1b1c73" language="German" custom="readingOrder {index:10;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="818,1471 861,1471 861,1498 818,1498"/>
+	<TextEquiv>
+	<Unicode>dir</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b1b1c81" language="German" custom="readingOrder {index:11;} textStyle {offset:0; length:10;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="872,1465 1036,1465 1036,1504 872,1504"/>
+	<TextEquiv>
+	<Unicode>beſtimm’t.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>585. Nero. Hier iſt der Orth/ den du zum Opffer dir beſtimm’t.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>585. Nero. Hier iſt der Orth/ den du zum Opffer dir beſtimm’t.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189660823_236" custom="readingOrder {index:9;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="88,1504 1037,1504 1048,1590 1048,1641 162,1641 88,1596"/>
+	<TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="159,1509 1035,1509 1035,1557 159,1557"/>
+	<Baseline points="159,1548 1035,1548"/>
+	<Word id="w_w1aab1b5b2c25b3ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:8.0;}">
+	<Coords points="159,1516 286,1516 286,1548 159,1548"/>
+	<TextEquiv>
+	<Unicode>Zoroaſt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="8.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b3b1b1" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="297,1515 381,1515 381,1552 297,1552"/>
+	<TextEquiv>
+	<Unicode>Sehr</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b3b1c11" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="390,1516 465,1516 465,1548 390,1548"/>
+	<TextEquiv>
+	<Unicode>wol:</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b3b1c21" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="492,1514 545,1514 545,1551 492,1551"/>
+	<TextEquiv>
+	<Unicode>daß</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b3b1c29" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="559,1516 624,1516 624,1549 559,1549"/>
+	<TextEquiv>
+	<Unicode>noch</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b3b1c39" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="634,1513 676,1513 676,1545 634,1545"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b3b2b1" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:8.0;}">
+	<Coords points="692,1513 763,1513 763,1552 692,1552"/>
+	<TextEquiv>
+	<Unicode>Aſch’</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="8.00000"/></Word>
+	<Word id="w_w1aab1b5b2c25b3b3b1" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="777,1514 834,1514 834,1544 777,1544"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191496391_62" language="German" custom="readingOrder {index:8;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="844,1509 888,1509 888,1546 844,1546"/>
+	<TextEquiv>
+	<Unicode>ihr</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191502639_63" language="German" custom="readingOrder {index:9;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="907,1507 1035,1507 1035,1541 907,1541"/>
+	<TextEquiv>
+	<Unicode>Gebeine</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Zoroaſt. Sehr wol: daß noch die Aſch’ und ihr Gebeine</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="506,1555 647,1555 647,1595 506,1595"/>
+	<Baseline points="506,1590 647,1590"/>
+	<Word id="w_w1aab1b5b2c25b5ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="506,1556 647,1556 647,1595 506,1595"/>
+	<TextEquiv>
+	<Unicode>glimm’t.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>glimm’t.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:2;}">
+	<Coords points="163,1591 875,1591 875,1636 163,1636"/>
+	<Baseline points="163,1631 875,1631"/>
+	<Word id="w_w1aab1b5b2c27b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="163,1598 245,1598 245,1631 163,1631"/>
+	<TextEquiv>
+	<Unicode>Was</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c27b1b1b1" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.5;}">
+	<Coords points="257,1599 323,1599 323,1630 257,1630"/>
+	<TextEquiv>
+	<Unicode>aber</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.50000"/></Word>
+	<Word id="word_1476191562319_67" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.5;}">
+	<Coords points="333,1595 437,1595 437,1635 333,1635"/>
+	<TextEquiv>
+	<Unicode>raͤchelt</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.50000"/></Word>
+	<Word id="word_1476191528047_64" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.5;}">
+	<Coords points="444,1597 504,1597 504,1636 444,1636"/>
+	<TextEquiv>
+	<Unicode>hier</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.50000"/></Word>
+	<Word id="word_1476191534806_65" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="512,1596 562,1596 562,1636 512,1636"/>
+	<TextEquiv>
+	<Unicode>fuͤr</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c27b1b2b9" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="572,1596 631,1596 631,1627 572,1627"/>
+	<TextEquiv>
+	<Unicode>eine</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c27b1b3b1" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:9.5;}">
+	<Coords points="641,1594 761,1594 761,1634 641,1634"/>
+	<TextEquiv>
+	<Unicode>blutt’ge</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.50000"/></Word>
+	<Word id="word_1476191553968_66" language="German" custom="readingOrder {index:7;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="875,1592 875,1624 854,1629 770,1629 770,1592"/>
+	<TextEquiv>
+	<Unicode>Leiche?</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Was aber raͤchelt hier fuͤr eine blutt’ge Leiche?</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Zoroaſt. Sehr wol: daß noch die Aſch’ und ihr Gebeine
+glimm’t.
+Was aber raͤchelt hier fuͤr eine blutt’ge Leiche?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189635520_224" custom="readingOrder {index:10;}" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1048,1718 162,1718 162,1629 1048,1629"/>
+	<TextLine id="tl_37" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="163,1634 1047,1634 1047,1684 163,1684"/>
+	<Baseline points="163,1673 1047,1673"/>
+	<Word id="word_1476191590323_69" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="250,1681 163,1681 163,1640 250,1640"/>
+	<TextEquiv>
+	<Unicode>Anic.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></Word>
+	<Word id="word_1476191590319_68" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="313,1681 250,1681 250,1640 313,1640"/>
+	<TextEquiv>
+	<Unicode>Ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="w_w1aab1b5b2c27b3b1b1" language="German" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontFamily:Arial; fontSize:9.5;}">
+	<Coords points="336,1640 384,1640 384,1681 336,1681"/>
+	<TextEquiv>
+	<Unicode>ſich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.50000"/></Word>
+	<Word id="word_1476191604519_70" language="German" custom="readingOrder {index:3;} textStyle {offset:0; length:15;fontFamily:Arial; fontSize:9.5;}">
+	<Coords points="513,1636 631,1636 631,1677 500,1681 402,1681 402,1638"/>
+	<TextEquiv>
+	<Unicode>ſelbſt-leſchend</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.50000"/></Word>
+	<Word id="w_w1aab1b5b2c27b3b2c19" language="German" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="648,1638 754,1638 754,1672 648,1672"/>
+	<TextEquiv>
+	<Unicode>Brand</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191622382_72" language="German" custom="readingOrder {index:5;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="771,1635 829,1635 829,1669 771,1669"/>
+	<TextEquiv>
+	<Unicode>von</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<Word id="word_1476191616151_71" language="German" custom="readingOrder {index:6;} textStyle {offset:0; length:11;fontFamily:Arial; fontSize:9.5;}">
+	<Coords points="846,1630 1047,1630 1047,1674 846,1674"/>
+	<TextEquiv>
+	<Unicode>Agrippinens</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.50000"/></Word>
+	<TextEquiv>
+	<Unicode>Anic. Ein ſich ſelbſt-leſchend Brand von Agrippinens</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_38" primaryLanguage="German" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="504,1678 628,1678 628,1717 504,1717"/>
+	<Baseline points="504,1714 628,1714"/>
+	<Word id="w_w1aab1b5b2c27b5ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:7;fontFamily:Arial; fontSize:9.0;}">
+	<Coords points="504,1679 628,1679 628,1716 504,1716"/>
+	<TextEquiv>
+	<Unicode>Seuche.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="9.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Seuche.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="9.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Anic. Ein ſich ſelbſt-leſchend Brand von Agrippinens
+Seuche.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189324875_173" custom="readingOrder {index:11;} structure {type:signature-mark;}" type="signature-mark" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="900,1760 557,1760 557,1709 900,1709"/>
+	<TextLine id="line_1476189324922_175" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontFamily:Arial; fontSize:8.5;}">
+	<Coords points="900,1759 558,1759 558,1710 900,1710"/>
+	<Baseline points="558,1752 900,1752"/>
+	<Word id="w_w1aab1b5b2c29b1ab1" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:8.5;}">
+	<Coords points="558,1723 593,1723 593,1756 558,1756"/>
+	<TextEquiv>
+	<Unicode>G</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="8.50000"/></Word>
+	<Word id="w_w1aab1b5b2c29b1ab5" language="German" custom="readingOrder {index:1;} textStyle {offset:0; length:1;fontFamily:Arial; fontSize:8.5;}">
+	<Coords points="616,1730 639,1730 639,1759 616,1759"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="8.50000"/></Word>
+	<TextEquiv>
+	<Unicode>G 4</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="8.50000"/></TextLine>
+	<TextEquiv>
+	<Unicode>G 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="TextRegion_1476189324875_172" custom="readingOrder {index:12;} structure {type:catch-word;}" type="catch-word" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1037,1760 900,1760 900,1709 1037,1709"/>
+	<TextLine id="line_1476189324922_174" primaryLanguage="German" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:8.5;}">
+	<Coords points="1036,1759 900,1759 900,1710 1036,1710"/>
+	<Baseline points="900,1752 1036,1752"/>
+	<Word id="w_w1aab1b5b2c29b1ab9" language="German" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontFamily:Arial; fontSize:8.5;}">
+	<Coords points="908,1710 1036,1710 1036,1744 908,1744"/>
+	<TextEquiv>
+	<Unicode>Zoroaſt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="8.50000"/></Word>
+	<TextEquiv>
+	<Unicode>Zoroaſt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua" fontSize="8.50000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Zoroaſt.</Unicode></TextEquiv></TextRegion></Page></PcGts>

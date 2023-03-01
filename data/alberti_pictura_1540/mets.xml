@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:DC="http://purl.org/dc/elements/1.1/"
+  xmlns:mods="http://www.loc.gov/mods/v3"
+  xmlns:mets="http://www.loc.gov/METS/"
+  xmlns:DV="http://dfg-viewer.de/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+  xmlns:gt="http://www.ocr-d.de/GT/"
+  xmlns:pre="http://www.loc.gov/premis/v3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd http://www.loc.gov/standards/premis/premis.xsd">
+  <mets:metsHdr CREATEDATE="2019-11-25T16:36:55.457289">
+    <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+      <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
+        Character Recognition (OCR-D)</mets:name>
+      <mets:note>OCR-D</mets:note>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMDLOG_0000">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:location>
+            <mods:physicalLocation authority="marcorg" displayLabel="Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany">DE-1</mods:physicalLocation>
+            <mods:shelfLocator>1 an: Mx 12160</mods:shelfLocator>
+          </mods:location>
+          <mods:originInfo eventType="publication">
+            <mods:place>
+              <mods:placeTerm type="text">Basel</mods:placeTerm>
+            </mods:place>
+            <mods:dateIssued encoding="iso8601" keyDate="yes">1540</mods:dateIssued>
+            <mods:publisher>Westheimer, Bartholomäus</mods:publisher>
+          </mods:originInfo>
+          <mods:originInfo eventType="digitization">
+            <mods:place>
+              <mods:placeTerm type="text">Berlin</mods:placeTerm>
+            </mods:place>
+            <mods:dateCaptured encoding="iso8601">2016</mods:dateCaptured>
+            <mods:publisher>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany</mods:publisher>
+            <mods:edition>[Electronic ed.]</mods:edition>
+          </mods:originInfo>
+          <mods:classification authority="ZVDD">Historische Drucke</mods:classification>
+          <mods:classification authority="ZVDD">Kunst</mods:classification>
+          <mods:classification authority="ZVDD">Naturwissenschaften / Mathematik</mods:classification>
+          <mods:classification authority="ZVDD">Kunst</mods:classification>
+          <mods:recordInfo>
+            <mods:recordIdentifier source="gbv-ppn">PPN859361470</mods:recordIdentifier>
+          </mods:recordInfo>
+          <mods:identifier type="purl">http://resolver.staatsbibliothek-berlin.de/SBB0001D17B00000000</mods:identifier>
+          <mods:identifier type="vd16">ZV 296</mods:identifier>
+          <mods:relatedItem type="original">
+            <mods:recordInfo>
+              <mods:recordIdentifier source="gbv-ppn">PPN567520366</mods:recordIdentifier>
+            </mods:recordInfo>
+          </mods:relatedItem>
+          <mods:titleInfo>
+            <mods:title>DE PICTVRA PRAE||STANTISSIMAE ARTIS ET || nunquàm satis laudatae, libri tres ab-||solutissimi, Leonis Baptistae de || Albertis uiri in omni gene-||re scientiarum praeci-||puè Mathemati-||ces doctis-||simi.|| Iam primum in lucem editi.||</mods:title>
+          </mods:titleInfo>
+          <mods:titleInfo type="alternative">
+            <mods:title>De pictura praestantissimae artis et nunquam satis laudatae</mods:title>
+          </mods:titleInfo>
+          <mods:titleInfo type="alternative">
+            <mods:title>DE PICTVRA PRAESTANTISSIMAE ARTIS ET nunquàm satis laudatae, libri tres absolutissimi, Leonis Baptistae de Albertis uiri in omni genere scientiarum praecipuè Mathematices doctissimi. Iam primum in lucem editi.</mods:title>
+          </mods:titleInfo>
+          <mods:note type="source characteristics">P_Drucke_VD16</mods:note>
+          <mods:note type="bibliography">VD16 ZV 296</mods:note>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+          </mods:language>
+          <mods:relatedItem type="series">
+            <mods:titleInfo>
+              <mods:title>VD16 digital</mods:title>
+            </mods:titleInfo>
+          </mods:relatedItem>
+          <mods:name type="personal">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alberti</mods:namePart>
+            <mods:namePart type="given">Leon Battista</mods:namePart>
+            <mods:displayForm>Alberti, Leon Battista</mods:displayForm>
+          </mods:name>
+          <mods:name type="personal">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">asn</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Venatorius</mods:namePart>
+            <mods:namePart type="given">Thomas</mods:namePart>
+            <mods:displayForm>Venatorius, Thomas</mods:displayForm>
+          </mods:name>
+          <mods:name type="corporate">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">fnd</mods:roleTerm>
+            </mods:role>
+            <mods:displayForm>Deutsche Forschungsgemeinschaft</mods:displayForm>
+          </mods:name>
+          <mods:physicalDescription>
+            <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+            <mods:extent>120 S., [6] Bl.</mods:extent>
+            <mods:extent>Druckerm.</mods:extent>
+            <mods:extent>8</mods:extent>
+          </mods:physicalDescription>
+          <mods:accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" displayLabel="Access Status" type="restriction on access" xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0001">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/additions/informative/annotations"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0002">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/additions/informative/annotations"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0003">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/additions/informative/annotations"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="amdSec_0001">
+    <mets:rightsMD ID="rights_0001">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+        <mets:xmlData>
+          <DV:rights>
+            <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
+              Optical-Character-Recognition OCR-D</DV:owner>
+            <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+            <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
+            <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
+          </DV:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="rights_0002">
+      <mets:mdWrap MDTYPE="PREMIS:RIGHTS">
+        <mets:xmlData>
+          <pre:rightsStatement>
+            <pre:rightsBasis>license</pre:rightsBasis>
+            <pre:licenseInformation>
+              <pre:licenseDocumentationIdentifier>
+                <pre:licenseDocumentationIdentifierValue>http://creativecommons.org/publicdomain/mark/1.0/</pre:licenseDocumentationIdentifierValue>
+              </pre:licenseDocumentationIdentifier>
+            </pre:licenseInformation>
+          </pre:rightsStatement>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:digiprovMD ID="DIGIPROV">
+      <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+        <mets:xmlData>
+          <dv:links xmlns:dv="http://dfg-viewer.de/">
+            <dv:reference>http://www.stabikat.de/DB=1/PPN?PPN=859361470 </dv:reference>
+            <dv:presentation>http://digital.staatsbibliothek-berlin.de/dms/werkansicht/?PPN=PPN859361470</dv:presentation>
+            <dv:iiif>https://content.staatsbibliothek-berlin.de/dc/PPN859361470/manifest</dv:iiif></dv:links>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="OCR-D-IMG">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0008">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0008.tif"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0009">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0009.tif"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0007.tif"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0008">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0008.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0009">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0009.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0007.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0008">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0008.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0009">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0009.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0007.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0008">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0008.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0009">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0009.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/alberti_pictura_1540_0007.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="phys_0008" DMDID="DMDGT_0001">
+        <mets:fptr FILEID="OCR-D-IMG_0008"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0008"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0008"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0008"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="phys_0009" DMDID="DMDGT_0002">
+        <mets:fptr FILEID="OCR-D-IMG_0009"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0009"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0009"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0009"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="phys_0007" DMDID="DMDGT_0003">
+        <mets:fptr FILEID="OCR-D-IMG_0007"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0007"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0007"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0007"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>

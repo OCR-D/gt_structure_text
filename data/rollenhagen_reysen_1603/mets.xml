@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:DC="http://purl.org/dc/elements/1.1/"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:DV="http://dfg-viewer.de/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+           xmlns:gt="http://www.ocr-d.de/GT/"
+           xmlns:pre="http://www.loc.gov/premis/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd http://www.loc.gov/standards/premis/premis.xsd">
+   <mets:metsHdr CREATEDATE="2019-02-22T17:20:22.739+01:00">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
+          Character Recognition (OCR-D)</mets:name>
+         <mets:note>OCR-D</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="DMDLOG_0000">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:location>
+                  <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
+                  <mods:shelfLocator>HAB Wolfenbüttel, H: P 528.4° Helmst.</mods:shelfLocator>
+                  <mods:url>Dig: http://diglib.hab.de/drucke/170-12-hist-1s/start.htm</mods:url>
+               </mods:location>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Magdeburg</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1603</mods:dateIssued>
+                  <mods:publisher>
+                     Bötcher
+                  </mods:publisher>
+               </mods:originInfo>
+               <mods:originInfo>
+                  <mods:dateCaptured encoding="w3cdtf">2018-05-15T18:08:43Z</mods:dateCaptured>
+                  <mods:edition>[Electronic ed.]</mods:edition>
+               </mods:originInfo>
+               <mods:classification authority="DTA">Belletristik</mods:classification>
+               <mods:classification authority="DTA">Reiseliteratur</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:kobv:b4-200905197925</mods:identifier>
+               <mods:identifier type="purl">http://www.deutschestextarchiv.de/rollenhagen_reysen_1603</mods:identifier>
+               <mods:identifier type="dtaid">20511</mods:identifier>
+               <mods:titleInfo>
+                  <mods:title>Vier Bücher Wunderbarlicher biß daher vnerhörter/ vnd vngleublicher Jndianischer reysen/ durch die Lufft/ Wasser/ Land/ Helle/ Paradiß/ vnd den Himmel</mods:title>
+                  <mods:subTitle/>
+               </mods:titleInfo>
+               <mods:language>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
+               </mods:language>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title/>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+               <mods:name type="personal">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Rollenhagen</mods:namePart>
+                  <mods:namePart type="given">Gabriel</mods:namePart>
+                  <mods:displayForm>Gabriel Rollenhagen</mods:displayForm>
+               </mods:name>
+               <mods:physicalDescription>
+                  <mods:extent>[4] Bl., 296 S.</mods:extent>
+               </mods:physicalDescription>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition displayLabel="Access Status"
+                                     type="restriction on access"
+                                     xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
+               <mods:extension>
+                  <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
+                     <zvdd:titleWord>Vier Bücher Wunderbarlicher biß daher vnerhörter/ vnd vngleublicher Jndianischer reysen/ durch die Lufft/ Wasser/ Land/ Helle/ Paradiß/ vnd den Himmel</zvdd:titleWord>
+                  </zvdd:zvddWrap>
+               </mods:extension>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0001">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0002">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0003">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="amdSec_0001">
+      <mets:rightsMD ID="rights_0001">
+         <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+            <mets:xmlData>
+               <DV:rights>
+                  <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
+                Optical-Character-Recognition OCR-D</DV:owner>
+                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
+                  <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
+               </DV:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:rightsMD ID="rights_0002">
+         <mets:mdWrap MDTYPE="PREMIS:RIGHTS">
+            <mets:xmlData>
+               <pre:rightsStatement>
+                  <pre:rightsBasis>license</pre:rightsBasis>
+                  <pre:licenseInformation>
+                     <pre:licenseDocumentationIdentifier>
+                        <pre:licenseDocumentationIdentifierValue>http://creativecommons.org/publicdomain/mark/1.0/</pre:licenseDocumentationIdentifierValue>                   
+                     </pre:licenseDocumentationIdentifier>
+                  </pre:licenseInformation>
+               </pre:rightsStatement>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:digiprovMD ID="digiprovMD_0001">
+         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+            <mets:xmlData>
+               <DV:links>
+                  <DV:reference/>
+                  <DV:presentation>http://www.deutschestextarchiv.de/rollenhagen_reysen_1603</DV:presentation>
+               </DV:links>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0007.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0011.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0012.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0007.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0011.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0012.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0007.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0011.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0012.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-IMG">
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0007.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0011.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/rollenhagen_reysen_1603_0012.tif"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div TYPE="Monograph"
+                DMDID="DMDLOG_0000"
+                ADMID="amdSec_0001"
+                ID="loc_0001">
+         <mets:div ID="loc_d1e411" TYPE="Chapter" LABEL=""/>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div TYPE="physSequence" ID="physroot">
+         <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0001"/>
+            <mets:fptr FILEID="OCR-D-IMG_0001"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="2" ID="phys_0002" DMDID="DMDGT_0002">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0002"/>
+            <mets:fptr FILEID="OCR-D-IMG_0002"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="3" ID="phys_0003" DMDID="DMDGT_0003">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0003"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0003"/>
+            <mets:fptr FILEID="OCR-D-IMG_0003"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e411" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e411" xlink:to="phys_0001"/>
+      <mets:smLink xlink:from="loc_d1e411" xlink:to="phys_0002"/>
+   </mets:structLink>
+</mets:mets>

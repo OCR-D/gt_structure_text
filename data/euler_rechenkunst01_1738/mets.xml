@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:DC="http://purl.org/dc/elements/1.1/"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:DV="http://dfg-viewer.de/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+           xmlns:gt="http://www.ocr-d.de/GT/"
+           xmlns:pre="http://www.loc.gov/premis/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd http://www.loc.gov/standards/premis/premis.xsd">
+   <mets:metsHdr CREATEDATE="2019-02-22T17:19:43.731+01:00">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
+          Character Recognition (OCR-D)</mets:name>
+         <mets:note>OCR-D</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="DMDLOG_0000">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:location>
+                  <mods:physicalLocation>SUB Göttingen</mods:physicalLocation>
+                  <mods:shelfLocator>8 MATH II, 1871:1</mods:shelfLocator>
+                  <mods:url/>
+               </mods:location>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">St. Petersburg</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1738</mods:dateIssued>
+                  <mods:publisher>
+                     Academische Buchdruckerey
+                  </mods:publisher>
+               </mods:originInfo>
+               <mods:originInfo>
+                  <mods:dateCaptured encoding="w3cdtf">2018-05-15T18:07:54Z</mods:dateCaptured>
+                  <mods:edition>[Electronic ed.]</mods:edition>
+               </mods:originInfo>
+               <mods:classification authority="DTA">Wissenschaft</mods:classification>
+               <mods:classification authority="DTA">Mathematik</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:kobv:b4-200905198847</mods:identifier>
+               <mods:identifier type="purl">http://www.deutschestextarchiv.de/euler_rechenkunst01_1738</mods:identifier>
+               <mods:identifier type="dtaid">20146</mods:identifier>
+               <mods:titleInfo>
+                  <mods:title>Einleitung zur Rechen-Kunst</mods:title>
+                  <mods:subTitle>Zum Gebrauch des Gymnasii bey der Kayserlichen Academie der Wissenschafften in St. Petersburg</mods:subTitle>
+               </mods:titleInfo>
+               <mods:part order="1">
+                  <mods:detail type="volume">
+                     <mods:number>Erster Theil von den Speciebvs mit gantzen und gebrochenen Zahlen</mods:number>
+                  </mods:detail>
+               </mods:part>
+               <mods:language>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
+               </mods:language>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title/>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+               <mods:name type="personal">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Euler</mods:namePart>
+                  <mods:namePart type="given">Leonhard</mods:namePart>
+                  <mods:displayForm>Leonhard Euler</mods:displayForm>
+               </mods:name>
+               <mods:physicalDescription>
+                  <mods:extent>[6] Bl., 277 S.</mods:extent>
+               </mods:physicalDescription>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition displayLabel="Access Status"
+                                     type="restriction on access"
+                                     xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
+               <mods:extension>
+                  <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
+                     <zvdd:titleWord>Einleitung zur Rechen-Kunst Zum Gebrauch des Gymnasii bey der Kayserlichen Academie der Wissenschafften in St. Petersburg Erster Theil von den Speciebvs mit gantzen und gebrochenen Zahlen</zvdd:titleWord>
+                  </zvdd:zvddWrap>
+               </mods:extension>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0001">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+               <gt:state prop="condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0002">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+               <gt:state prop="condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0003">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+               <gt:state prop="condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0004">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+               <gt:state prop="condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0005">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+               <gt:state prop="condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0006">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+               <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state prop="data-attributes/language/mixed"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+               <gt:state prop="condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="amdSec_0001">
+      <mets:rightsMD ID="rights_0001">
+         <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+            <mets:xmlData>
+               <DV:rights>
+                  <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
+                Optical-Character-Recognition OCR-D</DV:owner>
+                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
+                  <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
+               </DV:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:rightsMD ID="rights_0002">
+         <mets:mdWrap MDTYPE="PREMIS:RIGHTS">
+            <mets:xmlData>
+               <pre:rightsStatement>
+                  <pre:rightsBasis>license</pre:rightsBasis>
+                  <pre:licenseInformation>
+                     <pre:licenseDocumentationIdentifier>
+                        <pre:licenseDocumentationIdentifierValue>http://creativecommons.org/publicdomain/mark/1.0/</pre:licenseDocumentationIdentifierValue>                   
+                     </pre:licenseDocumentationIdentifier>
+                  </pre:licenseInformation>
+               </pre:rightsStatement>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:digiprovMD ID="digiprovMD_0001">
+         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+            <mets:xmlData>
+               <DV:links>
+                  <DV:reference/>
+                  <DV:presentation>http://www.deutschestextarchiv.de/euler_rechenkunst01_1738</DV:presentation>
+               </DV:links>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0005">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0006">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0005">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0006">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0005">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0006">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-IMG">
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0005">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0006">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.tif"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div TYPE="multivolume_work"
+                ID="loc_0001"
+                LABEL="Einleitung zur Rechen-Kunst, Zum Gebrauch des Gymnasii bey der Kayserlichen Academie der Wissenschafften in St. Petersburg">
+         <mets:div TYPE="volume"
+                   DMDID="DMDLOG_0000"
+                   ADMID="amdSec_0001"
+                   LABEL="Erster Theil von den Speciebvs mit gantzen und gebrochenen Zahlen">
+            <mets:div ID="loc_d1e413" TYPE="Chapter" LABEL=""/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div TYPE="physSequence" ID="physroot">
+         <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0001"/>
+            <mets:fptr FILEID="OCR-D-IMG_0001"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="2" ID="phys_0002" DMDID="DMDGT_0002">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0002"/>
+            <mets:fptr FILEID="OCR-D-IMG_0002"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="3" ID="phys_0003" DMDID="DMDGT_0003">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0003"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0003"/>
+            <mets:fptr FILEID="OCR-D-IMG_0003"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="4" ID="phys_0004" DMDID="DMDGT_0004">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0004"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0004"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0004"/>
+            <mets:fptr FILEID="OCR-D-IMG_0004"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="5" ID="phys_0005" DMDID="DMDGT_0005">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0005"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0005"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0005"/>
+            <mets:fptr FILEID="OCR-D-IMG_0005"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="6" ID="phys_0006" DMDID="DMDGT_0006">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0006"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0006"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0006"/>
+            <mets:fptr FILEID="OCR-D-IMG_0006"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e413" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e413" xlink:to="phys_0001"/>
+      <mets:smLink xlink:from="loc_d1e413" xlink:to="phys_0002"/>
+      <mets:smLink xlink:from="loc_d1e413" xlink:to="phys_0003"/>
+      <mets:smLink xlink:from="loc_d1e413" xlink:to="phys_0004"/>
+      <mets:smLink xlink:from="loc_d1e413" xlink:to="phys_0005"/>
+   </mets:structLink>
+</mets:mets>

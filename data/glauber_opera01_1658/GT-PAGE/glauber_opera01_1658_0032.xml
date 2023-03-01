@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-glauber_opera01_1658_0032">
+    <Metadata>
+        <Creator>NCSR LineSegmentationTool, v0.3.0 (17_3_2015)
+NCSR LineSegmentationTool, v0.3.0 (17_3_2015)
+NCSR LineSegmentationTool, v0.3.0 (17_3_2015)</Creator>
+        <Created>2016-09-20T16:11:46.412+02:00</Created>
+        <LastChange>2018-04-24T10:42:57.995+01:00</LastChange>
+        
+    </Metadata>
+    <Page imageFilename="glauber_opera01_1658_0032.tif" imageWidth="2000" imageHeight="2625" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1488447778027" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1488292390293_14"/>
+                <RegionRefIndexed index="1" regionRef="region_1488292387781_13"/>
+                <RegionRefIndexed index="3" regionRef="region_1488292399149_16"/>
+                <RegionRefIndexed index="4" regionRef="region_1488292405453_17"/>
+                <RegionRefIndexed index="5" regionRef="region_1488292412533_18"/>
+                <RegionRefIndexed index="6" regionRef="region_1488292417382_19"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1488292390293_14" custom="readingOrder {index:0;}">
+            <Coords points="222,85 287,85 284,148 219,148"/>
+            <TextLine id="r1001" custom="readingOrder {index:0;}">
+                <Coords points="262,93 243,98 231,121 231,127 245,140 262,141 264,141 272,127 272,96 263,93"/>
+                <Baseline points="231,124 272,127"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1488292387781_13" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="867,69 1227,69 1227,153 867,153"/>
+            <TextLine id="line_1488446867356_453" custom="readingOrder {index:0;}">
+                <Coords points="881,80 1216,80 1216,145 881,145"/>
+                <TextEquiv>
+                    <Unicode>Erſter Theil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erſter Theil</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1488292443930_20" custom="readingOrder {index:2;}">
+            <Coords points="1815,174 303,174 303,453 1815,453"/>
+        </GraphicRegion>
+        <TextRegion type="header" id="region_1488292399149_16" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="217,491 1876,491 1876,673 217,673"/>
+            <TextLine id="line_1488446819789_452" custom="readingOrder {index:0;}">
+                <Coords points="1869,585 235,585 235,497 1869,497"/>
+                <TextEquiv>
+                    <Unicode>Was Vegetabilien ſeyn/ oder vnter dem Namen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488446819788_451" custom="readingOrder {index:1;}">
+                <Coords points="1869,673 235,673 235,585 1869,585"/>
+                <TextEquiv>
+                    <Unicode>der Vegetabilien verſtanden werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Was Vegetabilien ſeyn/ oder vnter dem Namen
+der Vegetabilien verſtanden werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="drop-capital" id="region_1488292405453_17" custom="readingOrder {index:4;} structure {type:drop-capital;}">
+            <Coords points="236,719 730,719 730,1224 236,1224"/>
+            <TextLine id="line_1488446930923_454" custom="readingOrder {index:0;}">
+                <Coords points="250,725 721,725 721,1207 250,1207"/>
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1488292412533_18" custom="readingOrder {index:5;}">
+            <Coords points="209,708 1860,708 1860,2274 209,2274"/>
+            <TextLine id="line_1488293563828_29" custom="readingOrder {index:0;}">
+                <Coords points="728,807 727,806 727,711 1431,706 1432,706 1628,719 1826,719 1838,720 1845,730 1845,732 1845,764 1842,774 1782,797 1764,794 1727,781 1525,793 1363,787 1270,798 1258,788 1186,798 1172,787 974,791 965,799 903,783 886,798 825,785 784,787"/>
+                <Baseline points="727,775 776,774 1042,777 1309,779 1845,778"/>
+                <TextEquiv>
+                    <Unicode>Rſtlich iſt zu mereken/ daß vnter dem Namen Vege-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488293484229_21" custom="readingOrder {index:1;}">
+                <Coords points="1106,856 1085,843 1034,853 955,839 804,852 798,848 735,848 731,854 731,803 774,787 778,788 784,788 825,785 850,795 869,795 871,796 892,796 901,785 908,786 965,799 1167,788 1175,789 1256,789 1260,790 1271,799 1284,789 1293,790 1348,790 1389,791 1402,791 1416,792 1475,792 1497,793 1508,793 1525,794 1588,794 1606,795 1610,795 1613,796 1647,796 1664,797 1726,782 1728,783 1729,783 1745,794 1747,794 1757,795 1787,795 1838,796 1841,801 1841,806 1834,843 1827,843 1767,855 1594,852 1587,845 1320,842"/>
+                <Baseline points="731,834 773,830 1039,833 1306,835 1841,836"/>
+                <TextEquiv>
+                    <Unicode>tabile, alles dasjenige/ ſo auß der Erden ſich nehret/ waͤchſet/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488446720377_449" custom="readingOrder {index:2;}">
+                <Coords points="1850,895 738,895 744,842 1857,842"/>
+                <TextEquiv>
+                    <Unicode>vnd zunimbt/ es ſeyen gleich Kraͤuter/ Hecken vnd groſſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488446720375_448" custom="readingOrder {index:3;}">
+                <Coords points="1660,964 1448,954 1434,961 1424,952 1256,950 1230,959 1208,951 1148,963 985,960 960,949 768,952 734,947 738,895 1850,895 1847,922 1828,959 1707,955"/>
+                <Baseline points="734,940 772,940 1040,942 1308,943 1848,946"/>
+                <TextEquiv>
+                    <Unicode>Baͤum/ mit ihrem Anhang/ als Wurtzel/ Stamm/ Blaͤtter/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488293495755_23" custom="readingOrder {index:4;}">
+                <Coords points="1704,1019 1681,1009 1663,1019 1298,1013 1221,1011 1204,1019 1028,1005 959,1012 941,1001 783,1004 736,1011 736,943 761,950 961,950 985,961 1147,964 1148,964 1212,950 1213,951 1218,951 1236,962 1238,962 1249,951 1264,952 1419,952 1421,953 1424,953 1436,963 1459,954 1467,955 1494,955 1495,956 1539,956 1559,957 1700,957 1721,958 1802,958 1817,959 1831,959 1843,960 1846,968 1848,989 1845,1000 1827,1013 1747,1009"/>
+                <Baseline points="736,997 772,995 1040,998 1309,998 1848,1001"/>
+                <TextEquiv>
+                    <Unicode>Blumen/ Saamen vnd Fruͤchte derſelben/ ſo wol zahme als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488293508026_25" custom="readingOrder {index:5;}">
+                <Coords points="1804,1114 1755,1114 1748,1112 1748,1104 1750,1096 1742,1069 1740,1070 1739,1071 1737,1084 1739,1090 1737,1107 1729,1113 1723,1111 1723,1108 1721,1070 1712,1069 1677,1076 1604,1063 1435,1061 1364,1073 1068,1061 870,1058 845,1068 830,1059 734,1057 734,1012 783,1004 941,1002 955,1009 974,1009 995,1010 1013,1010 1046,1011 1110,1011 1129,1012 1220,1012 1337,1008 1350,1009 1361,1009 1468,1008 1472,1009 1645,1009 1658,1020 1666,1020 1672,1013 1691,1014 1720,1014 1760,1015 1771,1015 1793,1016 1798,1016 1843,1017 1845,1023 1846,1087 1845,1112 1842,1113 1812,1112 1809,1099 1807,1099 1804,1102 1803,1108"/>
+                <Baseline points="734,1051 769,1049 1037,1051 1306,1053 1846,1056"/>
+                <TextEquiv>
+                    <Unicode>wilde/ inlaͤndiſche als außlaͤndiſche/ bekandte vnd heilſame/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488293623900_36" custom="readingOrder {index:6;}">
+                <Coords points="1821,1119 733,1119 733,1058 736,1059 871,1059 1053,1071 1054,1071 1063,1061 1068,1062 1176,1062 1183,1063 1227,1063 1228,1064 1260,1064 1268,1065 1426,1065 1446,1066 1542,1066 1621,1070 1637,1070 1663,1071 1690,1071 1722,1072 1723,1087 1725,1113 1732,1113 1739,1105 1739,1090 1740,1071 1748,1072 1749,1072 1750,1079 1750,1096 1749,1113 1787,1113 1798,1114 1805,1114 1804,1112 1804,1103 1807,1100 1810,1101 1810,1102 1813,1114"/>
+                <TextEquiv>
+                    <Unicode>als vnbekandte vnd ſchaͤdliche/ wie ſie auch Namen haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488293623898_35" custom="readingOrder {index:7;}">
+                <Coords points="1621,1186 1553,1170 1457,1184 1410,1173 1360,1178 1353,1175 1300,1169 1284,1183 1265,1172 1192,1182 1080,1178 823,1177 733,1168 733,1119 1821,1119 1843,1131 1843,1133 1843,1143 1829,1184"/>
+                <Baseline points="733,1158 766,1159 1034,1162 1303,1163 1843,1165"/>
+                <TextEquiv>
+                    <Unicode>moͤchten/ deren Geſtalt/ Form/ Eigenſchafft/ Tugend/ Kraft/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1488293585026_31" custom="readingOrder {index:8;}">
+                <Coords points="1812,1234 1716,1234 733,1222 733,1169 745,1172 806,1172 815,1173 837,1173 838,1174 859,1174 884,1175 905,1175 913,1176 961,1176 970,1177 1006,1177 1035,1178 1049,1178 1080,1179 1177,1185 1183,1185 1240,1174 1244,1175 1258,1175 1272,1176 1293,1176 1312,1177 1337,1177 1359,1178 1360,1178 1403,1173 1407,1174 1548,1174 1559,1175 1587,1175 1613,1187 1621,1187 1836,1190 1840,1196 1841,1203 1841,1212 1832,1230"/>
+                <Baseline points="733,1213 765,1214 1033,1216 1302,1217 1841,1217"/>
+                <TextEquiv>
+                    <Unicode>bey vielen alten vnd neuen Philoſophis vnd Medicis genug-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1010" custom="readingOrder {index:9;}">
+                <Coords points="238,1224 235,1225 234,1258 241,1274 311,1283 352,1275 1065,1286 1412,1288 1604,1288 1803,1284 1835,1275 1839,1257 1838,1250 1801,1238 1800,1238 1729,1237 1711,1237 1650,1228 1510,1228 1502,1227 1008,1227 999,1226 381,1226 378,1225 372,1225 367,1224 239,1224"/>
+                <Baseline points="234,1265 501,1267 768,1268 1035,1270 1302,1271 1839,1275"/>
+                <TextEquiv>
+                    <Unicode>ſam zu finden/ vnd keiner weitern vnd vnnoͤhtigern Wiederholung beduͤrfftig: ſondern al-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1011" custom="readingOrder {index:10;}">
+                <Coords points="266,1281 234,1297 234,1312 234,1314 245,1326 362,1337 420,1331 602,1343 707,1334 843,1333 1069,1332 1308,1340 1310,1345 1311,1347 1322,1345 1330,1355 1330,1356 1334,1355 1388,1337 1454,1347 1569,1335 1625,1343 1654,1341 1708,1349 1720,1338 1832,1343 1842,1332 1843,1327 1842,1306 1840,1300 1833,1291 1780,1291 1763,1290 1673,1290 1665,1289 1648,1289 1623,1288 1588,1288 1527,1287 1480,1287 1460,1286 1415,1289 1372,1289 1243,1283 552,1283 548,1282 355,1282 349,1281 267,1281"/>
+                <Baseline points="234,1318 501,1321 769,1322 1036,1324 1304,1327 1843,1330"/>
+                <TextEquiv>
+                    <Unicode>lein allhier vor mich genommen/ wie auß denſelben/ nach der allerbeſten Weiſe/ ihre von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1012" custom="readingOrder {index:11;}">
+                <Coords points="236,1332 234,1355 234,1371 235,1376 243,1387 326,1383 339,1389 625,1388 632,1395 671,1398 970,1388 1192,1396 1240,1389 1391,1396 1764,1397 1827,1394 1841,1385 1842,1362 1842,1358 1837,1348 1763,1338 1721,1339 1708,1350 1707,1350 1654,1342 1653,1342 1637,1341 1637,1342 1598,1342 1557,1339 1543,1339 1528,1338 1454,1347 1399,1338 1333,1357 1330,1357 1329,1352 1326,1347 1325,1347 1315,1346 1310,1346 1310,1343 1308,1340 1307,1340 1298,1339 1276,1339 1273,1338 1133,1338 1119,1337 1077,1337 1069,1333 834,1334 602,1344 595,1344 578,1343 571,1343 554,1335 427,1335 414,1334 265,1334 257,1333 254,1333 251,1332 237,1332"/>
+                <Baseline points="234,1372 501,1375 769,1378 1036,1379 1304,1383 1842,1384"/>
+                <TextEquiv>
+                    <Unicode>Gott gegebene vnd eingepflantzte Tugend/ Wuͤrckung vnd Krafft/ durch Geſchicklichkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1013" custom="readingOrder {index:12;}">
+                <Coords points="312,1386 228,1391 222,1404 222,1423 225,1431 317,1447 535,1442 586,1450 1026,1450 1139,1443 1485,1452 1771,1449 1820,1448 1844,1435 1850,1400 1850,1397 1847,1393 1842,1392 1764,1398 1718,1398 1713,1397 1650,1397 1644,1391 1524,1391 1523,1390 1419,1397 1418,1397 1393,1396 1364,1396 1203,1395 1181,1395 895,1394 888,1394 848,1393 829,1393 792,1392 772,1392 686,1391 672,1399 669,1399 625,1389 519,1389 508,1388 353,1388 350,1387 329,1387 313,1386"/>
+                <Baseline points="222,1427 493,1430 764,1432 1035,1433 1306,1436 1850,1441"/>
+                <TextEquiv>
+                    <Unicode>vnd Fleiß der Menſchen/ von den krafftloſen todten fecibus vnd Huͤlſen koͤnnen vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1014" custom="readingOrder {index:13;}">
+                <Coords points="234,1442 233,1450 235,1478 238,1487 505,1502 885,1496 1255,1506 1370,1505 1730,1507 1825,1503 1834,1495 1834,1474 1832,1465 1828,1458 1696,1457 1693,1457 1638,1450 1572,1450 1557,1449 1487,1454 1473,1454 1140,1444 1026,1451 1025,1451 588,1450 582,1450 536,1443 247,1443 235,1442"/>
+                <Baseline points="233,1482 499,1484 766,1485 1032,1488 1299,1492 1834,1495"/>
+                <TextEquiv>
+                    <Unicode>ſollen extrahirt, ſeparirt, concentrit, vnd in den Kranckheiten zu gebrauchen in bequeme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1015" custom="readingOrder {index:14;}">
+                <Coords points="236,1494 225,1499 223,1507 227,1544 228,1550 457,1550 705,1551 743,1563 875,1550 1020,1561 1287,1550 1486,1560 1720,1553 1744,1563 1821,1560 1833,1556 1839,1532 1839,1526 1836,1515 1831,1507 1724,1507 1706,1506 1646,1506 1633,1505 1495,1505 1477,1504 1464,1504 1439,1503 1421,1503 1421,1502 1420,1502 1404,1501 1255,1507 1252,1507 1067,1499 969,1499 961,1498 886,1498 881,1497 409,1497 403,1496 252,1496 251,1496 237,1494"/>
+                <Baseline points="223,1536 492,1539 761,1540 1030,1543 1299,1546 1839,1548"/>
+                <TextEquiv>
+                    <Unicode>Form/ liebliches vnd annehmliches Weſen gebracht werden. Moͤchte mancher ſagen/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1016" custom="readingOrder {index:15;}">
+                <Coords points="1283,1550 1275,1557 1268,1557 1259,1556 1245,1556 1242,1555 1142,1556 1137,1556 1128,1555 1089,1555 1088,1554 1026,1561 1019,1561 885,1551 744,1564 741,1564 722,1553 706,1553 704,1552 484,1552 479,1551 334,1551 230,1554 223,1560 221,1569 221,1588 222,1593 227,1601 525,1611 559,1611 647,1605 763,1611 1555,1611 1762,1611 1830,1610 1834,1609 1837,1591 1837,1585 1832,1571 1832,1570 1744,1564 1738,1564 1720,1554 1651,1561 1648,1561 1488,1560 1482,1560 1287,1551 1286,1550 1284,1550"/>
+                <Baseline points="221,1589 490,1593 759,1596 1028,1597 1297,1601 1837,1605"/>
+                <TextEquiv>
+                    <Unicode>wozu iſt es noͤhtig/ ſo viel Muͤh vnd Fleiß anzuwenden/ die beſte Krafft auß den Kraͤutern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1017" custom="readingOrder {index:16;}">
+                <Coords points="323,1604 233,1609 219,1632 219,1649 221,1655 225,1660 382,1657 611,1662 701,1673 936,1662 1048,1662 1060,1673 1073,1678 1074,1670 1074,1667 1076,1664 1229,1661 1424,1664 1447,1673 1542,1665 1565,1673 1763,1674 1821,1671 1828,1671 1840,1644 1841,1632 1841,1630 1833,1618 1769,1618 1752,1617 1672,1617 1672,1616 1642,1615 1490,1615 1487,1614 1442,1614 1442,1613 1439,1613 1430,1612 1324,1612 1308,1611 1239,1611 1230,1610 806,1610 791,1609 671,1609 636,1608 559,1612 557,1612 527,1611 519,1611 324,1604"/>
+                <Baseline points="219,1643 489,1649 759,1650 1029,1652 1299,1655 1841,1659"/>
+                <TextEquiv>
+                    <Unicode>zu ziehen/ ſelbige in die Enge zu bringen/ vnd als dann erſt in Kranckheiten zu gebrauchen/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1018" custom="readingOrder {index:17;}">
+                <Coords points="245,1660 221,1668 218,1677 219,1697 220,1704 224,1710 619,1719 1278,1717 1798,1724 1822,1724 1824,1724 1832,1719 1836,1690 1835,1683 1817,1671 1810,1671 1803,1670 1622,1670 1603,1669 1552,1669 1533,1668 1447,1674 1439,1665 1240,1665 1223,1664 1076,1665 1075,1676 1075,1677 1067,1677 1057,1666 1037,1665 970,1665 957,1664 943,1664 933,1663 807,1673 805,1673 713,1672 688,1672 611,1663 523,1663 513,1662 388,1662 374,1661 251,1661 246,1660"/>
+                <Baseline points="218,1696 487,1703 756,1708 1025,1708 1294,1708 1836,1715"/>
+                <TextEquiv>
+                    <Unicode>iſt es nicht eben ſo viel/ wann man derſelben Natur/ Krafft vnd Eigenſchafft nur weiß/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1019" custom="readingOrder {index:18;}">
+                <Coords points="299,1716 225,1720 222,1720 218,1732 218,1751 219,1756 225,1765 837,1778 904,1767 912,1767 915,1774 1080,1769 1315,1777 1703,1779 1831,1777 1836,1773 1836,1757 1833,1743 1827,1733 1815,1733 1809,1732 1789,1732 1754,1731 1747,1731 1740,1730 1724,1730 1501,1720 1320,1720 1315,1719 1282,1719 1271,1718 518,1718 417,1718 407,1717 304,1717 300,1716"/>
+                <Baseline points="218,1752 487,1758 756,1762 1025,1762 1294,1765 1836,1770"/>
+                <TextEquiv>
+                    <Unicode>wie dann in vielen der alten vnd jungen Medicorum Buͤchern weitlaͤufftig beſchrieben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1020" custom="readingOrder {index:19;}">
+                <Coords points="285,1767 247,1768 217,1780 216,1787 217,1807 229,1823 488,1823 860,1834 1184,1827 1214,1832 1475,1834 1654,1834 1818,1834 1822,1833 1832,1804 1832,1798 1831,1793 1722,1779 1603,1779 1591,1778 1524,1778 1519,1777 1484,1777 1474,1776 1433,1776 1430,1776 1423,1775 1226,1775 1209,1774 1090,1774 1067,1773 915,1773 913,1769 908,1768 837,1779 836,1779 760,1771 616,1771 579,1771 569,1770 502,1770 495,1769 337,1769 327,1768 291,1768 286,1767"/>
+                <Baseline points="216,1805 485,1812 754,1816 1023,1818 1292,1819 1832,1826"/>
+                <TextEquiv>
+                    <Unicode>iſt/ ſo kan man hernach die Kraͤuter gruͤn oder duͤrꝛ/ nach dem man ſie haben kan/ nehmen/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1021" custom="readingOrder {index:20;}">
+                <Coords points="479,1825 275,1826 225,1828 222,1828 217,1857 217,1861 224,1874 1103,1888 1198,1891 1256,1883 1410,1891 1698,1893 1818,1889 1824,1888 1830,1863 1830,1852 1829,1847 1773,1834 1684,1834 1682,1834 1678,1833 1537,1833 1528,1832 1476,1836 1472,1836 1468,1829 1188,1829 1177,1828 863,1835 859,1835 832,1828 744,1828 726,1827 524,1827 516,1826 495,1826 492,1825 480,1825"/>
+                <Baseline points="217,1862 485,1867 754,1871 1022,1872 1291,1876 1830,1880"/>
+                <TextEquiv>
+                    <Unicode>vnd entweder Wein/ Bier/ Waſſer/ oder andere gewoͤhnliche Tiſchtraͤnck darauff gieſſen/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1022" custom="readingOrder {index:21;}">
+                <Coords points="272,1883 221,1884 217,1886 216,1916 219,1924 225,1932 416,1928 468,1930 482,1937 727,1934 760,1943 1008,1935 1054,1946 1103,1937 1419,1949 1450,1940 1561,1949 1737,1945 1819,1944 1852,1927 1860,1903 1860,1901 1855,1893 1847,1892 1690,1892 1674,1891 1512,1891 1495,1890 1445,1890 1419,1889 1363,1889 1359,1888 1285,1888 1277,1887 1264,1887 1250,1886 1198,1892 1197,1892 1147,1886 971,1886 963,1885 717,1885 706,1884 418,1884 415,1883 273,1883"/>
+                <Baseline points="216,1916 489,1920 763,1926 1036,1927 1310,1931 1860,1934"/>
+                <TextEquiv>
+                    <Unicode>vnd entweder zuvor darin kochen/ oder alſo vngekocht daruͤber eine Zeitlang trincken/ vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1023" custom="readingOrder {index:22;}">
+                <Coords points="263,1932 246,1934 218,1939 207,1957 207,1963 213,1981 379,1993 567,1998 588,1992 634,1991 696,1991 866,1991 889,1996 906,1992 1265,1998 1806,1997 1827,1989 1830,1978 1830,1972 1819,1951 1817,1951 1803,1950 1799,1950 1749,1949 1695,1949 1686,1948 1676,1948 1672,1947 1620,1947 1608,1946 1590,1946 1584,1945 1562,1950 1560,1950 1455,1942 1453,1942 1448,1941 1425,1950 1416,1950 1338,1941 1335,1941 1327,1940 1261,1940 1258,1939 1107,1939 1100,1938 1054,1947 1053,1947 1008,1936 729,1936 725,1935 478,1935 468,1932 264,1932"/>
+                <Baseline points="207,1970 477,1974 747,1981 1017,1982 1287,1987 1830,1987"/>
+                <TextEquiv>
+                    <Unicode>alſo der Huͤlffe erwarten/ ob es nicht gleich ſo wol das jenige thun wuͤrde/ als eine wolbe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1024" custom="readingOrder {index:23;}">
+                <Coords points="631,1992 588,1993 567,1999 564,1999 305,1994 226,1994 211,1995 208,2004 208,2026 208,2028 213,2036 337,2035 354,2046 368,2037 483,2040 937,2049 1238,2047 1293,2064 1372,2050 1406,2061 1461,2050 1652,2048 1732,2052 1749,2062 1820,2060 1823,2060 1829,2040 1829,2019 1823,2002 1810,2001 1783,2001 1765,2000 1715,2000 1694,1999 1689,1999 1671,1998 1555,1998 1544,1997 1214,1997 1195,1996 1178,1995 1046,1995 1033,1994 910,1994 905,1993 890,1996 885,1996 883,1995 874,1995 857,1994 701,1994 688,1993 637,1993 632,1992"/>
+                <Baseline points="208,2027 477,2030 747,2035 1016,2036 1286,2041 1829,2043"/>
+                <TextEquiv>
+                    <Unicode>reitete/ zarte/ reine/ liebliche/ vnd kraͤfftige Eſſentia? Deme gib ich zu wiſſen/ daß freylich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1025" custom="readingOrder {index:24;}">
+                <Coords points="476,2041 368,2042 211,2044 207,2052 207,2081 208,2086 215,2094 379,2094 650,2097 776,2111 1064,2102 1223,2106 1450,2104 1632,2120 1668,2107 1761,2114 1803,2113 1825,2098 1827,2089 1827,2084 1827,2082 1804,2057 1799,2057 1789,2056 1749,2063 1748,2063 1732,2053 1718,2052 1662,2052 1630,2051 1471,2051 1465,2050 1431,2061 1426,2061 1382,2049 1293,2065 1292,2065 1238,2048 981,2048 969,2047 928,2047 919,2046 775,2046 768,2045 634,2045 604,2044 516,2044 477,2041"/>
+                <Baseline points="207,2082 476,2085 746,2092 1015,2092 1285,2097 1827,2098"/>
+                <TextEquiv>
+                    <Unicode>durch ſolches uͤbergieſſen deß Weins/ Biers/ oder dergleichen Getraͤnck/ die Krafft etli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1026" custom="readingOrder {index:25;}">
+                <Coords points="230,2096 217,2099 207,2112 207,2136 208,2145 231,2155 362,2149 778,2163 1517,2166 1815,2165 1821,2163 1830,2138 1830,2126 1829,2122 1668,2108 1636,2121 1630,2121 1451,2106 1447,2105 1245,2105 1232,2104 1213,2104 1194,2103 719,2103 717,2102 659,2102 650,2098 608,2098 600,2097 375,2097 236,2097 231,2096"/>
+                <Baseline points="207,2136 477,2140 747,2146 1017,2148 1287,2152 1830,2155"/>
+                <TextEquiv>
+                    <Unicode>cher maſſen auß den Kraͤutern gezogen/ vnd mit dem Wein in den Leib getruncken wird/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1027" custom="readingOrder {index:26;}">
+                <Coords points="360,2152 260,2154 211,2156 207,2165 207,2189 208,2198 211,2202 361,2212 404,2204 724,2214 978,2216 1300,2218 1551,2218 1818,2218 1828,2213 1831,2200 1831,2189 1829,2179 1823,2170 1791,2170 1769,2169 1731,2169 1701,2168 1689,2168 1655,2167 1629,2167 1612,2166 1582,2166 1550,2165 1473,2165 1452,2164 1256,2164 1250,2163 1214,2163 1210,2162 1198,2162 1178,2161 987,2161 967,2160 957,2160 931,2159 833,2159 820,2158 778,2164 775,2164 725,2156 563,2156 554,2155 498,2155 485,2154 369,2154 361,2152"/>
+                <Baseline points="207,2191 477,2195 747,2200 1017,2202 1287,2206 1831,2210"/>
+                <TextEquiv>
+                    <Unicode>vnd auch das ſeinige wol thut/ ſonderlich wann nicht viel zu verrichten iſt; daß aber die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1028" custom="readingOrder {index:27;}">
+                <Coords points="222,2204 212,2206 207,2221 207,2255 207,2257 210,2262 286,2272 636,2274 845,2275 1288,2275 1451,2275 1817,2273 1827,2269 1828,2245 1825,2234 1821,2228 1819,2227 1793,2227 1757,2226 1731,2226 1720,2225 1711,2225 1676,2224 1647,2224 1625,2223 1613,2223 1601,2222 1573,2222 1559,2221 1448,2221 1444,2220 1374,2220 1363,2219 1261,2219 1240,2212 1226,2212 1220,2211 978,2217 975,2217 648,2208 413,2208 401,2207 315,2207 306,2206 239,2206 223,2204"/>
+                <Baseline points="207,2251 476,2253 746,2259 1015,2260 1285,2262 1828,2266"/>
+                <TextEquiv>
+                    <Unicode>Krafft derſelben/ wann ſie zuvor außgezogen/ vnd in die Enge gebracht worden/ mit einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rſtlich iſt zu mereken/ daß vnter dem Namen Vege-
+tabile, alles dasjenige/ ſo auß der Erden ſich nehret/ waͤchſet/
+vnd zunimbt/ es ſeyen gleich Kraͤuter/ Hecken vnd groſſe
+Baͤum/ mit ihrem Anhang/ als Wurtzel/ Stamm/ Blaͤtter/
+Blumen/ Saamen vnd Fruͤchte derſelben/ ſo wol zahme als
+wilde/ inlaͤndiſche als außlaͤndiſche/ bekandte vnd heilſame/
+als vnbekandte vnd ſchaͤdliche/ wie ſie auch Namen haben
+moͤchten/ deren Geſtalt/ Form/ Eigenſchafft/ Tugend/ Kraft/
+bey vielen alten vnd neuen Philoſophis vnd Medicis genug-
+ſam zu finden/ vnd keiner weitern vnd vnnoͤhtigern Wiederholung beduͤrfftig: ſondern al-
+lein allhier vor mich genommen/ wie auß denſelben/ nach der allerbeſten Weiſe/ ihre von
+Gott gegebene vnd eingepflantzte Tugend/ Wuͤrckung vnd Krafft/ durch Geſchicklichkeit
+vnd Fleiß der Menſchen/ von den krafftloſen todten fecibus vnd Huͤlſen koͤnnen vnd
+ſollen extrahirt, ſeparirt, concentrit, vnd in den Kranckheiten zu gebrauchen in bequeme
+Form/ liebliches vnd annehmliches Weſen gebracht werden. Moͤchte mancher ſagen/
+wozu iſt es noͤhtig/ ſo viel Muͤh vnd Fleiß anzuwenden/ die beſte Krafft auß den Kraͤutern
+zu ziehen/ ſelbige in die Enge zu bringen/ vnd als dann erſt in Kranckheiten zu gebrauchen/
+iſt es nicht eben ſo viel/ wann man derſelben Natur/ Krafft vnd Eigenſchafft nur weiß/
+wie dann in vielen der alten vnd jungen Medicorum Buͤchern weitlaͤufftig beſchrieben
+iſt/ ſo kan man hernach die Kraͤuter gruͤn oder duͤrꝛ/ nach dem man ſie haben kan/ nehmen/
+vnd entweder Wein/ Bier/ Waſſer/ oder andere gewoͤhnliche Tiſchtraͤnck darauff gieſſen/
+vnd entweder zuvor darin kochen/ oder alſo vngekocht daruͤber eine Zeitlang trincken/ vnd
+alſo der Huͤlffe erwarten/ ob es nicht gleich ſo wol das jenige thun wuͤrde/ als eine wolbe-
+reitete/ zarte/ reine/ liebliche/ vnd kraͤfftige Eſſentia? Deme gib ich zu wiſſen/ daß freylich
+durch ſolches uͤbergieſſen deß Weins/ Biers/ oder dergleichen Getraͤnck/ die Krafft etli-
+cher maſſen auß den Kraͤutern gezogen/ vnd mit dem Wein in den Leib getruncken wird/
+vnd auch das ſeinige wol thut/ ſonderlich wann nicht viel zu verrichten iſt; daß aber die
+Krafft derſelben/ wann ſie zuvor außgezogen/ vnd in die Enge gebracht worden/ mit einem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="catch-word" id="region_1488292417382_19" custom="readingOrder {index:6;}">
+            <Coords points="1860,2354 1715,2354 1715,2268 1860,2268"/>
+            <TextLine id="r1030" custom="readingOrder {index:0;}">
+                <Coords points="1715,2266 1721,2312 1732,2329 1773,2334 1832,2330 1837,2325 1837,2285 1836,2281 1716,2266"/>
+                <Baseline points="1715,2314 1837,2324"/>
+                <TextEquiv>
+                    <Unicode>Loͤffel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Loͤffel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:DC="http://purl.org/dc/elements/1.1/"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:DV="http://dfg-viewer.de/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd">
+   <mets:metsHdr CREATEDATE="2018-05-17T16:12:59.068+02:00">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical Character Recognition (OCR-D)</mets:name>
+         <mets:note>OCR-D</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="dmdSec_0001">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:location>
+                  <mods:physicalLocation>Staatsbibliothek München</mods:physicalLocation>
+                  <mods:shelfLocator>BSB München, Res/Oecon. 2174 b</mods:shelfLocator>
+                  <mods:url/>
+               </mods:location>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Amberg</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1598</mods:dateIssued>
+                  <mods:publisher>
+                     Forster
+                  </mods:publisher>
+               </mods:originInfo>
+               <mods:originInfo>
+                  <mods:dateCaptured encoding="w3cdtf">2018-05-15T18:08:53Z</mods:dateCaptured>
+                  <mods:edition>[Electronic ed.]</mods:edition>
+               </mods:originInfo>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Kochbuch</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:kobv:b4-25000-7</mods:identifier>
+               <mods:identifier type="purl">http://www.deutschestextarchiv.de/wecker_kochbuch_1598</mods:identifier>
+               <mods:identifier type="dtaid">25000</mods:identifier>
+               <mods:titleInfo>
+                  <mods:title>Ein Köstlich new Kochbuch Von allerhand Speisen/ an Gemüsen/ Obs/ Fleisch/ Geflügel/ Wildpret/ Fischen vnd Gebachens</mods:title>
+                  <mods:subTitle>Nit allein vor Gesunde: sondern auch vnd fürnemlich vor Krancke/ in allerley Kranckheiten vnd Gebrästen auch Schwangere Weiber/ Kindbetterinnen/ vnnd alte schwache Leute/ künstlich vnd nützlich zuzurichten vnnd zugebrauchen</mods:subTitle>
+               </mods:titleInfo>
+               <mods:language>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
+               </mods:language>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title/>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+               <mods:name type="personal">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Wecker</mods:namePart>
+                  <mods:namePart type="given">Anna</mods:namePart>
+                  <mods:displayForm>Anna Wecker</mods:displayForm>
+               </mods:name>
+               <mods:physicalDescription>
+                  <mods:extent>[4] Bl., 155 [i.e. 255], [1] S., [2] Bl.</mods:extent>
+               </mods:physicalDescription>
+               <mods:extension>
+                  <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
+                     <zvdd:titleWord>Ein Köstlich new Kochbuch Von allerhand Speisen/ an Gemüsen/ Obs/ Fleisch/ Geflügel/ Wildpret/ Fischen vnd Gebachens Nit allein vor Gesunde: sondern auch vnd fürnemlich vor Krancke/ in allerley Kranckheiten vnd Gebrästen auch Schwangere Weiber/ Kindbetterinnen/ vnnd alte schwache Leute/ künstlich vnd nützlich zuzurichten vnnd zugebrauchen</zvdd:titleWord>
+                  </zvdd:zvddWrap>
+               </mods:extension>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="amdSec_0001">
+      <mets:rightsMD ID="rights_0001">
+         <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+            <mets:xmlData>
+               <DV:rights>
+                  <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die Optical-Character-Recognition OCR-D</DV:owner>
+                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
+                  <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
+               </DV:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:digiprovMD ID="digiprovMD_0001">
+         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+            <mets:xmlData>
+               <DV:links>
+                  <DV:reference/>
+                  <DV:presentation>http://www.deutschestextarchiv.de/wecker_kochbuch_1598</DV:presentation>
+               </DV:links>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-PAGE_0001"
+                    GROUPID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0007.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-PAGE_0002"
+                    GROUPID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0011.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-PAGE_0003"
+                    GROUPID="OCR-D-IMG_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0017.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-PAGE_0004"
+                    GROUPID="OCR-D-IMG_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0029.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-BLOCK_0001"
+                    GROUPID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0007.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-BLOCK_0002"
+                    GROUPID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0011.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-BLOCK_0003"
+                    GROUPID="OCR-D-IMG_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0017.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-BLOCK_0004"
+                    GROUPID="OCR-D-IMG_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0029.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-LINE_0001"
+                    GROUPID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0007.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-LINE_0002"
+                    GROUPID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0011.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-LINE_0003"
+                    GROUPID="OCR-D-IMG_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0017.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
+                    ID="OCR-D-GT-SEG-LINE_0004"
+                    GROUPID="OCR-D-IMG_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0029.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-IMG">
+         <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0007.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0011.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0017.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/wecker_kochbuch_1598_0029.tif"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div TYPE="Monograph"
+                DMDID="dmdSec_0001"
+                ADMID="amdSec_0001"
+                ID="loc_0001">
+         <mets:div ID="loc_d1e427" TYPE="Chapter" LABEL=""/>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div TYPE="physSequence" ID="phys_0000">
+         <mets:div TYPE="page" ORDER="1" ID="phys_0001">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0001"/>
+            <mets:fptr FILEID="OCR-D-IMG_0001"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="2" ID="phys_0002">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0002"/>
+            <mets:fptr FILEID="OCR-D-IMG_0002"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="3" ID="phys_0003">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0003"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0003"/>
+            <mets:fptr FILEID="OCR-D-IMG_0003"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="4" ID="phys_0004">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0004"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0004"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0004"/>
+            <mets:fptr FILEID="OCR-D-IMG_0004"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e427" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e427" xlink:to="phys_0001"/>
+      <mets:smLink xlink:from="loc_d1e427" xlink:to="phys_0002"/>
+      <mets:smLink xlink:from="loc_d1e427" xlink:to="phys_0003"/>
+   </mets:structLink>
+</mets:mets>
