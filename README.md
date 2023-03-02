@@ -36,13 +36,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>6104</td>
-            <td>181</td>
-            <td>1406</td>
-            <td>64</td>
-            <td>113</td>
+            <td>6180</td>
+            <td>185</td>
+            <td>1411</td>
+            <td>69</td>
+            <td>114</td>
             <td>4</td>
-            <td>18</td>
+            <td>17</td>
          </tr>
       </tbody>
    </table>
@@ -317,6 +317,25 @@
                   <td/>
                   <td/>
                   <td>89</td>
+                  <td>4</td>
+               </tr>
+               <tr>
+                  <td>nn_besuch_1780</td>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>76</td>
                   <td>4</td>
                </tr>
                <tr>
@@ -951,7 +970,7 @@
                   <td>20</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -959,7 +978,7 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td>101</td>
