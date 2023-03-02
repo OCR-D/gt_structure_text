@@ -1008,6 +1008,82 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>nn_besuch_1780_00002.xml</th>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>nn_besuch_1780_00003.xml</th>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>nn_besuch_1780_00004.xml</th>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>14</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>nn_besuch_1780_00001.xml</th>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>10</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>pinder_epiphanie_1506_0010.xml</th>
          <td>8</td>
          <td>0</td>
@@ -2760,6 +2836,7 @@
          <td>4</td>
          <td>0</td>
          <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2768,7 +2845,6 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>18</td>

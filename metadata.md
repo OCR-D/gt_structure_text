@@ -183,6 +183,11 @@ An image database</p>
          <strong>Description: </strong>Titles repeated each page</p>
    </details>
    <details>
+      <summary>data-attributes/document-related/visual/decorations</summary>
+      <p>
+         <strong>Description: </strong>Decorations of some kind</p>
+   </details>
+   <details>
       <summary>data-attributes/document-related/visual/illustrations</summary>
       <p>
          <strong>Description: </strong>Illustrations in content</p>
@@ -268,7 +273,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_text/releases/download/v2/bagitDump-v2.zip">Current version download: bagitDump-v2.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_text/releases/download/v3/bagitDump-v3.zip">Current version download: bagitDump-v3.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_text/releases">Version archive</a>
@@ -356,13 +361,13 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>6104</td>
-            <td>181</td>
-            <td>1406</td>
-            <td>64</td>
-            <td>113</td>
+            <td>6180</td>
+            <td>185</td>
+            <td>1411</td>
+            <td>69</td>
+            <td>114</td>
             <td>4</td>
-            <td>18</td>
+            <td>17</td>
          </tr>
       </tbody>
    </table>

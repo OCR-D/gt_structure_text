@@ -1796,6 +1796,139 @@
                </td>
             </tr>
             <tr>
+               <th>nn_besuch_1780</th>
+               <td>76</td>
+               <td>4</td>
+               <td>5</td>
+               <td>0</td>
+               <td>0</td>
+               <td>3</td>
+               <td>0</td>
+               <td>0</td>
+               <td>1</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_text/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00002.xml">nn_besuch_1780_00002.xml</a>
+                           </td>
+                           <td>26</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_text/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00003.xml">nn_besuch_1780_00003.xml</a>
+                           </td>
+                           <td>26</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_text/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00004.xml">nn_besuch_1780_00004.xml</a>
+                           </td>
+                           <td>14</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_text/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00001.xml">nn_besuch_1780_00001.xml</a>
+                           </td>
+                           <td>10</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
                <th>pinder_epiphanie_1506</th>
                <td>169</td>
                <td>4</td>
@@ -5330,7 +5463,7 @@
                <td>20</td>
                <td>0</td>
                <td>0</td>
-               <td>1</td>
+               <td>3</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -5338,7 +5471,7 @@
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>1</td>
+               <td>0</td>
                <td>0</td>
                <td>0</td>
             </tr>
@@ -5398,6 +5531,7 @@
                            <td>4</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -5406,7 +5540,6 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                         </tr>
