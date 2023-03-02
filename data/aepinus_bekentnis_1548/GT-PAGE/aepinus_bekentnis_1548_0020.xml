@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-aepinus_bekentnis_1548_0020">
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-aepinus_bekentnis_1548_0020">
 	<Metadata>
 	<Creator>OCR-D</Creator>
-	<Created>2016-09-22T16:02:36</Created>
-	<LastChange>2018-04-24T12:32:38</LastChange></Metadata>
-	<Page imageFilename="aepinus_bekentnis_1548_0020.tif" imageWidth="1706" imageHeight="2355" type="content">
+	<Created>2016-09-22T15:02:36</Created>
+	<LastChange>2023-03-02T10:59:11</LastChange></Metadata>
+	<Page imageFilename="aepinus_bekentnis_1548_0020.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1706" imageHeight="2355" type="content">
 	<PrintSpace>
 	<Coords points="70,69 1496,69 1496,2116 70,2116"/></PrintSpace>
 	<ReadingOrder>
@@ -710,5 +711,5 @@ vnd holden.
 	<TextEquiv>
 	<Unicode>Van</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter"/></TextRegion>
-	<GraphicRegion id="r_4" custom="readingOrder {index:4;}">
+	<GraphicRegion id="r_4" custom="readingOrder {index:4;}" type="decoration">
 	<Coords points="405,1523 1447,1523 1447,1813 405,1813"/></GraphicRegion></Page></PcGts>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:DC="http://purl.org/dc/elements/1.1/"
+  xmlns:mods="http://www.loc.gov/mods/v3"
+  xmlns:mets="http://www.loc.gov/METS/"
+  xmlns:DV="http://dfg-viewer.de/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+  xmlns:gt="http://www.ocr-d.de/GT/"
+  xmlns:pre="http://www.loc.gov/premis/v3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd http://www.loc.gov/standards/premis/premis.xsd">
+  <mets:metsHdr CREATEDATE="2019-11-25T16:15:28.000226">
+    <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+      <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
+        Character Recognition (OCR-D)</mets:name>
+      <mets:note>OCR-D</mets:note>
+    </mets:agent>
+  </mets:metsHdr>
+  
+  <mets:dmdSec ID="DMDLOG_0000">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods>
+          <mods:titleInfo>
+            <mods:nonSort>Der</mods:nonSort>
+            <mods:title>freudschaftliche Besuch</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="urn"
+            >urn:nbn:de:gbv:23-drucke/qun-95-7-8s4</mods:identifier>
+          <mods:identifier type="vd18">12815594</mods:identifier>
+          <mods:identifier type="fingerprint">t?d, t,t, u.u, h,h, C</mods:identifier>
+          <mods:identifier type="purl"
+            >http://diglib.hab.de/drucke/qun-95-7-8s/start.htm</mods:identifier>
+          <mods:originInfo>
+            <mods:dateIssued keyDate="yes" encoding="iso8601">1780</mods:dateIssued>
+            <mods:place>
+              <mods:placeTerm type="text">S.l.</mods:placeTerm>
+            </mods:place>
+          </mods:originInfo>
+          <mods:originInfo>
+            <mods:dateCaptured encoding="iso8601">2015</mods:dateCaptured>
+            <mods:publisher>HAB Wolfenbüttel</mods:publisher>
+            <mods:edition>[Electronic ed.]</mods:edition>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+          </mods:language>
+          <mods:relatedItem type="series">
+            <mods:titleInfo>
+              <mods:title>VD18 digital</mods:title>
+            </mods:titleInfo>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Erscheint auch als Druck-Ausgabe">
+            <mods:titleInfo>
+              <mods:title>Der freudschaftliche Besuch</mods:title>
+            </mods:titleInfo>
+            <mods:recordInfo>
+              <mods:recordIdentifier>GBV 150046804</mods:recordIdentifier>
+            </mods:recordInfo>
+          </mods:relatedItem>
+          <mods:genre authority="aad">Gelegenheitsschrift</mods:genre>
+          <mods:genre authority="aad">Lyrik</mods:genre>
+          <mods:physicalDescription>
+            <mods:extent>[2] Bl.</mods:extent>
+            <mods:extent>4°</mods:extent>
+          </mods:physicalDescription>
+          <mods:recordInfo>
+            <mods:recordIdentifier source="DE-23">855638559</mods:recordIdentifier>
+            <mods:recordOrigin xml:lang="en">Converted from PICA using a local XSL
+              transformation script</mods:recordOrigin>
+            <mods:recordContentSource authority="marcorg"
+              >DE-23</mods:recordContentSource>
+          </mods:recordInfo>
+          <mods:identifier type="oai">oai:diglib.hab.de:ppn_855638559</mods:identifier>
+          <mods:classification authority="zvdd.de">vd18.oai.hab.de</mods:classification>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  
+  <mets:dmdSec ID="DMDGT_0001">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+          <gt:state prop="condition/wear/additions/informative/annotations"/>
+          <gt:state prop="data-attributes/document-related/visual/decorations"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0002">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0003">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  
+  <mets:dmdSec ID="DMDGT_0004">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/word"/>
+          <gt:state prop="granularity/physical/document-related/text-line"/>
+          <gt:state prop="granularity/physical/document-related/region"/>
+          <gt:state prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+          <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+          <gt:state prop="condition/wear/medium-damage/stains"/>
+          <gt:state prop="data-attributes/document-related/visual/decorations"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  
+  
+  <mets:amdSec ID="amdSec_0001">
+    <mets:rightsMD ID="rights_0001">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+        <mets:xmlData>
+          <DV:rights>
+            <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
+              Optical-Character-Recognition OCR-D</DV:owner>
+            <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+            <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
+            <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
+          </DV:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="rights_0002">
+      <mets:mdWrap MDTYPE="PREMIS:RIGHTS">
+        <mets:xmlData>
+          <pre:rightsStatement>
+            <pre:rightsBasis>license</pre:rightsBasis>
+            <pre:licenseInformation>
+              <pre:licenseDocumentationIdentifier>
+                <pre:licenseDocumentationIdentifierValue>http://creativecommons.org/publicdomain/mark/1.0/</pre:licenseDocumentationIdentifierValue>
+              </pre:licenseDocumentationIdentifier>
+            </pre:licenseInformation>
+          </pre:rightsStatement>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:digiprovMD ID="digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+        <mets:xmlData>
+          <DV:links>
+            <DV:reference>http://opac.lbs-braunschweig.gbv.de/DB=2/PPN?PPN=855638559</DV:reference>
+            <DV:presentation>http://diglib.hab.de/drucke/qun-95-7-8s/start.htm</DV:presentation>
+          </DV:links>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="OCR-D-IMG">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_00001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00001.tif"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_00003">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00003.tif"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_00004">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00004.tif"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_00002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00002.tif"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_00001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00001.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_00003">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00003.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_00004">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00004.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_00002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00002.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_00001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00001.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_00003">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00003.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_00004">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00004.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_00002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00002.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_00001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00001.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_00003">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00003.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_00004">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00004.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_00002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00002.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="phys_00001" DMDID="DMDGT_0001">
+        <mets:fptr FILEID="OCR-D-IMG_00001"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_00001"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_00001"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_00001"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="phys_00003" DMDID="DMDGT_0003">
+        <mets:fptr FILEID="OCR-D-IMG_00003"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_00003"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_00003"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_00003"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="phys_00004" DMDID="DMDGT_0004">
+        <mets:fptr FILEID="OCR-D-IMG_00004"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_00004"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_00004"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_00004"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="phys_00002" DMDID="DMDGT_0002">
+        <mets:fptr FILEID="OCR-D-IMG_00002"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_00002"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_00002"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-LINE_00002"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>
