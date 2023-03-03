@@ -1,6 +1,6 @@
 <div>
    <h1 id="title">gt_structure_text</h1>
-   <p id="paragraph">The OCR-D Ground Truth text and structure corpus was created between 2015 -2017. In the years since 2017, this corpus has been further curated and supplemented with metadata where appropriate. The corpus includes page XML files within annotations of the text and structure include.</p>
+   <p id="paragraph">OCR-D Ground Truth with annotation for text and structure. </p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
