@@ -15,30 +15,30 @@
       <mets:mdWrap MDTYPE="MODS">
          <mets:xmlData>
             <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+               <mods:identifier type="oclc">1043031933</mods:identifier>
                <mods:location>
-                  <mods:physicalLocation/>
+                  <mods:physicalLocation>University of Illinois Urbana-Champaign</mods:physicalLocation>
                   <mods:shelfLocator/>
                   <mods:url/>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Zürich-Hottingen</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1879</mods:dateIssued>
+                  <mods:publisher>Verlag der Volksbuchhandlung</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
-                  <mods:dateCaptured encoding="w3cdtf"/>
+                  <mods:dateCaptured encoding="w3cdtf">2023-03-14T11:07:45Z</mods:dateCaptured>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Gesellschaft</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Die Frau und der Sozialismus</mods:title>
                </mods:titleInfo>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -49,12 +49,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Bebel</mods:namePart>
+                  <mods:namePart type="given">August </mods:namePart>
+                  <mods:displayForm>August Bebel</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>180 S.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -85,6 +85,7 @@
          <mets:xmlData>
             <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
                <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
             </gt:gt>
          </mets:xmlData>
       </mets:mdWrap>
@@ -94,6 +95,7 @@
          <mets:xmlData>
             <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
                <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
             </gt:gt>
          </mets:xmlData>
       </mets:mdWrap>
@@ -103,6 +105,7 @@
          <mets:xmlData>
             <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
                <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
             </gt:gt>
          </mets:xmlData>
       </mets:mdWrap>
