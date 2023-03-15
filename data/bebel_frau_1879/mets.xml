@@ -17,8 +17,8 @@
             <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
                <mods:identifier type="oclc">1043031933</mods:identifier>
                <mods:location>
-                  <mods:physicalLocation>University of Illinois Urbana-Champaign</mods:physicalLocation>
-                  <mods:shelfLocator/>
+                  <mods:physicalLocation>Oak Street Library</mods:physicalLocation>
+                  <mods:shelfLocator> 396 B38F1879</mods:shelfLocator>
                   <mods:url/>
                </mods:location>
                <mods:originInfo>
@@ -34,17 +34,13 @@
                </mods:originInfo>
                <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
                <mods:classification authority="DTA">Gesellschaft</mods:classification>
+               <mods:identifier type="urn">urn:oclc:record:1043031933</mods:identifier>
                <mods:titleInfo>
                   <mods:title>Die Frau und der Sozialismus</mods:title>
                </mods:titleInfo>
                <mods:language>
                   <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
-               <mods:relatedItem type="series">
-                  <mods:titleInfo>
-                     <mods:title/>
-                  </mods:titleInfo>
-               </mods:relatedItem>
                <mods:name type="personal">
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
@@ -62,11 +58,6 @@
                <mods:accessCondition displayLabel="Access Status"
                                      type="restriction on access"
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
-               <mods:extension>
-                  <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
-                  </zvdd:zvddWrap>
-               </mods:extension>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>

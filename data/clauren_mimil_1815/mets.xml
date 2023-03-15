@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:vls="http://semantics.de/vls"
+           xmlns:mets="http://www.loc.gov/METS/"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version18/mets.xsd">
+   <mets:metsHdr CREATEDATE="2019-02-13T17:17:20.012+01:00">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
+          Character Recognition (OCR-D)</mets:name>
+         <mets:note>OCR-D</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="dmdSec_0001">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+               <mods:identifier type="oclc">665155181</mods:identifier>
+               <mods:location>
+                  <mods:physicalLocation>UTL at Downsview</mods:physicalLocation>
+                  <mods:shelfLocator>PT2355 .H7 M5</mods:shelfLocator>
+                  <mods:url/>
+               </mods:location>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Dresden</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
+                  <mods:publisher>P. G. Hilscher</mods:publisher>
+               </mods:originInfo>
+               <mods:originInfo>
+                  <mods:dateCaptured encoding="w3cdtf">2023-03-15T10:07:45Z</mods:dateCaptured>
+                  <mods:edition>[Electronic ed.]</mods:edition>
+               </mods:originInfo>
+               <mods:classification authority="DTA">Belletristik</mods:classification>
+               <mods:classification authority="DTA">Prosa</mods:classification>
+               <mods:identifier type="urn">urn:oclc:record:665155181</mods:identifier>
+               <mods:titleInfo>
+                  <mods:title></mods:title>
+                  <mods:subTitle/>
+               </mods:titleInfo>
+               <mods:language>
+                  <mods:languageTerm authority="iso639-2b" type="code"/>
+               </mods:language>
+               <mods:relatedItem type="series">
+                  <mods:titleInfo>
+                     <mods:title>Mimili</mods:title>
+                     <mods:subtitle>eine Erzählung</mods:subtitle>
+                  </mods:titleInfo>
+                  <mods:language>
+                     <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
+                  </mods:language>
+               </mods:relatedItem>
+               <mods:name type="personal">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Heun</mods:namePart>
+                  <mods:namePart type="given">Karl Gottlob Samuel</mods:namePart>
+                  <mods:displayForm>Karl Gottlob Samuel Heun</mods:displayForm>
+               </mods:name>
+               <mods:physicalDescription>
+                  <mods:extent>138 S.</mods:extent>
+               </mods:physicalDescription>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition displayLabel="Access Status"
+                                     type="restriction on access"
+                                     xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
+               
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0001">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0002">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0003">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0004">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0005">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0006">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0007">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0008">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMGT_0009">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="amdSec_0001">
+      <mets:rightsMD ID="rights_0001">
+         <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+            <mets:xmlData>
+               <DV:rights xmlns:DV="http://dfg-viewer.de/">
+                  <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
+                Optical-Character-Recognition OCR-D</DV:owner>
+                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
+                  <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
+               </DV:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:digiprovMD ID="digiprovMD_0001">
+         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+            <mets:xmlData>
+               <DV:links xmlns:DV="http://dfg-viewer.de/">
+                  <DV:reference/>
+                  <DV:presentation/>
+               </DV:links>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="DEFAULT">
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0023_800px.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0031_800px.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0038_800px.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0040_800px.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0041_800px.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0043_800px.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0050_800px.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0008">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0122_800px.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0009">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/clauren_mimil_1815/clauren_mimil_1815_0146_800px.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-IMG">
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0023.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0031.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0038.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0040.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0041.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0043.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0050.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0008">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0122.jpg"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0009">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0146.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0023.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0031.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0038.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0040.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0005">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0041.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0006">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0043.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0007">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0050.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0008">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0122.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0009">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0146.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0023.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0031.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0038.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0040.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0005">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0041.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0006">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0043.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0007">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0050.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0008">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0122.xml"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0009">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/clauren_mimil_1815_0146.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div TYPE="Monograph"
+                DMDID="dmdSec_0001"
+                ADMID="amdSec_0001"
+                ID="loc_0001">
+         <mets:div ID="loc_d1e9" TYPE="Chapter" LABEL=""/>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div TYPE="physSequence" ID="physroot">
+         <mets:div ID="phys_0001" TYPE="page" DMDID="DMGT_0001" ORDER="1">
+            <mets:fptr FILEID="DEFAULT_0001"/>
+            <mets:fptr FILEID="OCR-D-IMG_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
+         </mets:div>
+         <mets:div ID="phys_0002" TYPE="page" DMDID="DMGT_0002" ORDER="2">
+            <mets:fptr FILEID="DEFAULT_0002"/>
+            <mets:fptr FILEID="OCR-D-IMG_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
+         </mets:div>
+         <mets:div ID="phys_0003" TYPE="page" DMDID="DMGT_0003" ORDER="3">
+            <mets:fptr FILEID="DEFAULT_0003"/>
+            <mets:fptr FILEID="OCR-D-IMG_0003"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0003"/>
+         </mets:div>
+         <mets:div ID="phys_0004" TYPE="page" DMDID="DMGT_0004" ORDER="4">
+            <mets:fptr FILEID="DEFAULT_0004"/>
+            <mets:fptr FILEID="OCR-D-IMG_0004"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0004"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0004"/>
+         </mets:div>
+         <mets:div ID="phys_0005" TYPE="page" DMDID="DMGT_0005" ORDER="5">
+            <mets:fptr FILEID="DEFAULT_0005"/>
+            <mets:fptr FILEID="OCR-D-IMG_0005"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0005"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0005"/>
+         </mets:div>
+         <mets:div ID="phys_0006" TYPE="page" DMDID="DMGT_0006" ORDER="6">
+            <mets:fptr FILEID="DEFAULT_0006"/>
+            <mets:fptr FILEID="OCR-D-IMG_0006"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0006"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0006"/>
+         </mets:div>
+         <mets:div ID="phys_0007" TYPE="page" DMDID="DMGT_0007" ORDER="7">
+            <mets:fptr FILEID="DEFAULT_0007"/>
+            <mets:fptr FILEID="OCR-D-IMG_0007"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0007"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0007"/>
+         </mets:div>
+         <mets:div ID="phys_0008" TYPE="page" DMDID="DMGT_0008" ORDER="8">
+            <mets:fptr FILEID="DEFAULT_0008"/>
+            <mets:fptr FILEID="OCR-D-IMG_0008"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0008"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0008"/>
+         </mets:div>
+         <mets:div ID="phys_0009" TYPE="page" DMDID="DMGT_0009" ORDER="9">
+            <mets:fptr FILEID="DEFAULT_0009"/>
+            <mets:fptr FILEID="OCR-D-IMG_0009"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0009"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0009"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0001"/>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0002"/>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0003"/>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0004"/>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0005"/>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0006"/>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0007"/>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0008"/>
+      <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0009"/>
+   </mets:structLink>
+</mets:mets>
