@@ -160,6 +160,13 @@ An image database</p>
                     </p>
    </details>
    <details>
+      <summary>contentOfInterest/visual/image</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
       <summary>contentOfInterest/visual/text</summary>
       <p>
          <strong>Description: </strong>
@@ -273,7 +280,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_text/releases/download/v11/bagitDump-v11.zip">Current version download: bagitDump-v11.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_text/releases/download/v12/bagitDump-v12.zip">Current version download: bagitDump-v12.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_text/releases">Version archive</a>
@@ -296,6 +303,11 @@ An image database</p>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
                         target="_blank">TextRegion</a>
+                  </dd>
+                  <dt>ImgRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyBildbereiche.html"
+                        target="_blank">ImageRegion</a>
                   </dd>
                   <dt>GraphRegion</dt>
                   <dd>
@@ -331,6 +343,9 @@ An image database</p>
                <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
                   <i>TxtRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide4')">
+                  <i>ImgRegion</i>
+               </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
                   <i>GraphRegion</i>
                </button>
@@ -353,6 +368,7 @@ An image database</p>
             <th>TextLine</th>
             <th>Page</th>
             <th>TxtRegion</th>
+            <th>ImgRegion</th>
             <th>GraphRegion</th>
             <th>SepRegion</th>
             <th>MusicRegion</th>
@@ -361,9 +377,10 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>6550</td>
-            <td>198</td>
-            <td>1475</td>
+            <td>6552</td>
+            <td>199</td>
+            <td>1477</td>
+            <td>1</td>
             <td>69</td>
             <td>118</td>
             <td>4</td>
