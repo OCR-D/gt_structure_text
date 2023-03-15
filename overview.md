@@ -1331,6 +1331,25 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>vischer_aesthetikregister_1858_0081.xml</th>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>nn_lied_1515_0006.xml</th>
          <td>6</td>
          <td>0</td>
