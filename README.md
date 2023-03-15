@@ -36,11 +36,11 @@
       </thead>
       <tbody>
          <tr>
-            <td>6344</td>
-            <td>189</td>
-            <td>1431</td>
+            <td>6550</td>
+            <td>198</td>
+            <td>1475</td>
             <td>69</td>
-            <td>117</td>
+            <td>118</td>
             <td>4</td>
             <td>17</td>
          </tr>
@@ -869,6 +869,25 @@
                   <td/>
                   <td>90</td>
                   <td>3</td>
+               </tr>
+               <tr>
+                  <td>clauren_mimil_1815</td>
+                  <td>44</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>206</td>
+                  <td>9</td>
                </tr>
                <tr>
                   <td>euler_rechenkunst01_1738</td>
