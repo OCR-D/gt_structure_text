@@ -37,12 +37,12 @@
       </thead>
       <tbody>
          <tr>
-            <td>6566</td>
-            <td>205</td>
-            <td>1528</td>
+            <td>6609</td>
+            <td>210</td>
+            <td>1543</td>
             <td>1</td>
-            <td>69</td>
-            <td>125</td>
+            <td>71</td>
+            <td>132</td>
             <td>4</td>
             <td>17</td>
          </tr>
@@ -890,6 +890,25 @@
                   <td/>
                   <td>90</td>
                   <td>3</td>
+               </tr>
+               <tr>
+                  <td>laube_europa0202_1837</td>
+                  <td>15</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>43</td>
+                  <td>5</td>
                </tr>
                <tr>
                   <td>clauren_mimil_1815</td>
