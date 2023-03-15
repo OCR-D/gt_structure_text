@@ -14,7 +14,7 @@
    <mets:dmdSec ID="dmdSec_0001">
       <mets:mdWrap MDTYPE="MODS">
          <mets:xmlData>
-            <mods:mods>
+            <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
                <mods:location>
                   <mods:physicalLocation>ÖNB Wien</mods:physicalLocation>
                   <mods:shelfLocator>5411-A.2,2</mods:shelfLocator>
