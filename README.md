@@ -38,10 +38,10 @@
       <tbody>
          <tr>
             <td>6609</td>
-            <td>210</td>
+            <td>211</td>
             <td>1543</td>
             <td>1</td>
-            <td>71</td>
+            <td>72</td>
             <td>132</td>
             <td>4</td>
             <td>17</td>
@@ -472,6 +472,25 @@
                   <td/>
                   <td>110</td>
                   <td>4</td>
+               </tr>
+               <tr>
+                  <td>vischer_aesthetikregister_1858</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                </tr>
                <tr>
                   <td>nn_lied_1515</td>
