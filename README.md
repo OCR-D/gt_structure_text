@@ -38,11 +38,11 @@
       <tbody>
          <tr>
             <td>6566</td>
-            <td>200</td>
-            <td>1482</td>
+            <td>205</td>
+            <td>1528</td>
             <td>1</td>
             <td>69</td>
-            <td>121</td>
+            <td>125</td>
             <td>4</td>
             <td>17</td>
          </tr>
@@ -719,6 +719,25 @@
                   <td/>
                   <td>87</td>
                   <td>3</td>
+               </tr>
+               <tr>
+                  <td>hilbert_zahlkoerper_1897</td>
+                  <td>46</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
                </tr>
                <tr>
                   <td>reinkingk_policey_1653_teil1</td>
