@@ -55,6 +55,19 @@ Related:
       </p>
    </details>
    <details>
+      <summary>activityDomain/computing/visual/analysisRecognition/tables</summary>
+      <p>
+         <strong>Description: </strong>The recognition of table/form structure and/or contents. 
+
+Examples:
+Stock exchange data in a newspaper,
+Filled in questionaire form
+
+Related:
+OCR
+Object / shape recognition (e.g. table separator detection)</p>
+   </details>
+   <details>
       <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
       <p>
          <strong>Description: </strong>Translation of any kind of depicted symbols to machine readable format
@@ -139,7 +152,21 @@ A text corpus,
 An image database</p>
    </details>
    <details>
+      <summary>contentOfInterest/visual/composite/maths</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
       <summary>contentOfInterest/visual/composite/music</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>contentOfInterest/visual/composite/tables</summary>
       <p>
          <strong>Description: </strong>
                         Description coming soon.
@@ -280,7 +307,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_text/releases/download/v18/bagitDump-v18.zip">Current version download: bagitDump-v18.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_text/releases/download/v19/bagitDump-v19.zip">Current version download: bagitDump-v19.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_text/releases">Version archive</a>
@@ -314,10 +341,20 @@ An image database</p>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
                         target="_blank">GraphicRegion</a>
                   </dd>
+                  <dt>TabRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyTabellen.html"
+                        target="_blank">TableRegion</a>
+                  </dd>
                   <dt>SepRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
                         target="_blank">SeperatorRegion</a>
+                  </dd>
+                  <dt>MathRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyMathematische_Zeichen.html"
+                        target="_blank">MathsRegion</a>
                   </dd>
                   <dt>MusicRegion</dt>
                   <dd>
@@ -349,8 +386,14 @@ An image database</p>
                <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
                   <i>GraphRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide7')">
+                  <i>TabRegion</i>
+               </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
                   <i>SepRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide10')">
+                  <i>MathRegion</i>
                </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide12')">
                   <i>MusicRegion</i>
@@ -370,7 +413,9 @@ An image database</p>
             <th>TxtRegion</th>
             <th>ImgRegion</th>
             <th>GraphRegion</th>
+            <th>TabRegion</th>
             <th>SepRegion</th>
+            <th>MathRegion</th>
             <th>MusicRegion</th>
             <th>NoiseRegion</th>
          </tr>
@@ -378,11 +423,13 @@ An image database</p>
       <tbody>
          <tr>
             <td>6609</td>
-            <td>211</td>
-            <td>1543</td>
+            <td>217</td>
+            <td>1648</td>
             <td>1</td>
-            <td>72</td>
-            <td>132</td>
+            <td>74</td>
+            <td>3</td>
+            <td>141</td>
+            <td>1</td>
             <td>4</td>
             <td>17</td>
          </tr>
