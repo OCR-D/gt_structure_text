@@ -1,13 +1,9 @@
 name: gtrepo
-
 on:  
   push:
-   branches:
-     - main
+    branches:
+      - main
   workflow_dispatch:
-
-
-
 
 
 
@@ -24,8 +20,15 @@ jobs:
     - name: Git checkout
       uses: actions/checkout@v3
       
+    - name: Git setup-node  
+      uses: actions/setup-node@v3
+      with:
+          node-version: 16
+    #    run: |
+    #      npm ci
+    #      npm test
 
-     # Installations Styles
+     # Installation Styles
       
     - name: install analyse xsl-styles
       run: | 
@@ -33,7 +36,7 @@ jobs:
         mv gt-repo-scripts/scripts scripts/
         rm -r gt-repo-scripts
 
-     # Installations GT-Labelling Documentation
+     # Installation GT-Labelling Documentation
 
     - name: install labeling
       run: |
@@ -119,9 +122,10 @@ jobs:
       shell: bash
       
       
-    - name: format json file
+    - name: format json file and copy to gh branch
       run: |
         jq '.' ocrdzip_out/metadata_l.json > ocrdzip_out/metadata.json
+        cp ocrdzip_out/metadata.json ghout/
         rm ocrdzip_out/metadata_l.json
       
       
@@ -172,40 +176,28 @@ jobs:
          path: 'ocrdzip_out'
       
     
-    #- name: Create GitHub release
-    #  id: create-new-release
-    #  uses: actions/create-release@latest
-    #  env:
-    #      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    #  with:
-    #      tag_name: v${{ github.run_number }}
-    #      release_name: Release ${{ github.run_number }}
-    #      body_path: CHANGELOG.md 
-    #      draft: false
-    #      prerelease: false
+    - name: Create GitHub release
+      id: create-new-release
+      uses: actions/create-release@latest
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          tag_name: v${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          body_path: CHANGELOG.md 
+          draft: false
+          prerelease: false
      
     
-    #- name: Upload asset to GitHub release
-    #  uses: actions/upload-release-asset@latest
-    #  env:
-    #      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    #  with:
-    #      upload_url: ${{ steps.create-new-release.outputs.upload_url }}
-    #      asset_path: ./site.zip
-    #      asset_name: bagitDump-v${{ github.run_number }}.zip
-    #      asset_content_type: application/zip
-          
-    - name: Automatic Releases
-      uses: marvinpinto/action-automatic-releases@latest
+    - name: Upload asset to GitHub release
+      uses: actions/upload-release-asset@latest
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "latest"
-          prerelease: true
-          title: "Development Build"
-          files: |
-            ./site.zip     
-          
-          
+          upload_url: ${{ steps.create-new-release.outputs.upload_url }}
+          asset_path: ./site.zip
+          asset_name: bagitDump-v${{ github.run_number }}.zip
+          asset_content_type: application/zip
           
     - name: Commit README
       run: |
