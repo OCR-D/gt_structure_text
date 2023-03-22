@@ -196,7 +196,7 @@ jobs:
       with:
           artifacts: "ocrdzip_out/*.zip"
           replacesArtifacts: false
-          token: ${{ secrets.TOKEN }}     
+          token: ${{ secrets.GITHUB_TOKEN }}     
           
           
           
