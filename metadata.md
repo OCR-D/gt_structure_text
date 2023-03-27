@@ -5,7 +5,7 @@
       <dt>Name:</dt>
       <dd>gt_structure_text</dd>
       <dt>Description:</dt>
-      <dd>OCR-D Ground Truth with annotation for text and structure. </dd>
+      <dd>The OCR-D Ground Truth text and structure corpus was created between 2015 -2017. In the years since 2017, this corpus has been further curated and supplemented with metadata where appropriate. The corpus includes page XML files within annotations of the text and structure include.</dd>
       <dt>Language:</dt>
       <dd>eng, fra, deu, heb, lat</dd>
       <dt>Format:</dt>
@@ -307,7 +307,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_text/releases/download/v1.0.1/bagitDump-v34.zip">Current version download: bagitDump-v34.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_text/releases/download/v1.0.2/bagitDump-v35.zip">Current version download: bagitDump-v35.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_text/releases">Version archive</a>
