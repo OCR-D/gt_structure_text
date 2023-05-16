@@ -22,14 +22,14 @@
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
           <mods:location>
             <mods:physicalLocation authority="marcorg" displayLabel="Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany">DE-1</mods:physicalLocation>
-            <mods:shelfLocator>Yd 8351</mods:shelfLocator>
+            <mods:shelfLocator>Yd 8061</mods:shelfLocator>
           </mods:location>
           <mods:originInfo eventType="publication">
             <mods:place>
-              <mods:placeTerm type="text">Straßburg</mods:placeTerm>
+              <mods:placeTerm type="text">Erfurt</mods:placeTerm>
             </mods:place>
-            <mods:dateIssued encoding="iso8601" keyDate="yes">1520</mods:dateIssued>
-            <mods:publisher>Matthias Schürer Erben</mods:publisher>
+            <mods:dateIssued encoding="iso8601" keyDate="yes">1515</mods:dateIssued>
+            <mods:publisher>Maler, Matthes</mods:publisher>
           </mods:originInfo>
           <mods:originInfo eventType="digitization">
             <mods:place>
@@ -43,27 +43,28 @@
           <mods:classification authority="ZVDD">Sprachen / Literaturen</mods:classification>
           <mods:classification authority="ZVDD">Musik</mods:classification>
           <mods:recordInfo>
-            <mods:recordIdentifier source="gbv-ppn">PPN746869266</mods:recordIdentifier>
+            <mods:recordIdentifier source="gbv-ppn">PPN746047215</mods:recordIdentifier>
           </mods:recordInfo>
-          <mods:identifier type="purl">http://resolver.staatsbibliothek-berlin.de/SBB0000DBD400000000</mods:identifier>
-          <mods:identifier type="vd16">H 5778</mods:identifier>
+          <mods:identifier type="purl">http://resolver.staatsbibliothek-berlin.de/SBB0000D7F600000000</mods:identifier>
+          <mods:identifier type="vd16">L 1705</mods:identifier>
           <mods:relatedItem type="original">
             <mods:recordInfo>
-              <mods:recordIdentifier source="gbv-ppn">PPN567287300</mods:recordIdentifier>
+              <mods:recordIdentifier source="gbv-ppn">PPN625875702</mods:recordIdentifier>
             </mods:recordInfo>
           </mods:relatedItem>
           <mods:titleInfo>
-            <mods:title>Ein hüpst schimpflichs || Lied von eim reichen Baur wie || er den orden an sich nam ||</mods:title>
+            <mods:title>Ein lied von der Fronica || wie sie von Jerusalem gen Rom ist kũmen || Jn dem brieff don des Regenbogens.||</mods:title>
           </mods:titleInfo>
           <mods:titleInfo type="alternative">
-            <mods:title>Ein hübsches schimpfliches Lied von einem reichen Bauern</mods:title>
+            <mods:title>Ein lied von der Fronica wie sie von Jerusalem gen Rom ist kũmen Jn dem brieff don des Regenbogens.</mods:title>
           </mods:titleInfo>
           <mods:titleInfo type="alternative">
-            <mods:title>Ein hüpst schimpflichs Lied von eim reichen Baur wie er den orden an sich nam</mods:title>
+            <mods:title>Ein Lied von der Veronika wie sie von Jerusalem gen Rom gekommen ist</mods:title>
           </mods:titleInfo>
           <mods:note type="source characteristics">P_SBB_Drucke_VDLiedDigital</mods:note>
-          <mods:note type="bibliography">VD16 H 5778</mods:note>
-          <mods:note type="bibliography">Nehlsen. BLF 1146</mods:note>
+          <mods:note type="bibliography">VD16 L 1705</mods:note>
+          <mods:note type="bibliography">Nehlsen. BLF 1105</mods:note>
+          <mods:note type="bibliography">Repertorium der Sangsprüche und Meisterlieder des 12. bis 18. Jahrhunderts. 73d</mods:note>
           <mods:genre authority="aad" type="class">Lied</mods:genre>
           <mods:language>
             <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
@@ -80,12 +81,12 @@
           </mods:relatedItem>
           <mods:physicalDescription>
             <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
-            <mods:extent>[4] Bl.</mods:extent>
+            <mods:extent>[24] Bl.</mods:extent>
             <mods:extent>8</mods:extent>
           </mods:physicalDescription>
           <mods:extension>
             <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-              <zvdd:titleWord>Hübsches</zvdd:titleWord>
+              <zvdd:titleWord>Veronika kommen gekommen in Brief von</zvdd:titleWord>
             </zvdd:zvddWrap>
           </mods:extension>
           <mods:accessCondition type="use and reproduction">Public Domain Mark 1.0</mods:accessCondition>
@@ -143,9 +144,9 @@
       <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
         <mets:xmlData>
           <dv:links xmlns:dv="http://dfg-viewer.de/">
-            <dv:reference>http://www.stabikat.de/DB=1/PPN?PPN=746869266 </dv:reference>
-            <dv:presentation>http://digital.staatsbibliothek-berlin.de/dms/werkansicht/?PPN=PPN746869266</dv:presentation>
-            <dv:iiif>https://content.staatsbibliothek-berlin.de/dc/PPN746869266/manifest</dv:iiif></dv:links>
+            <dv:reference>http://www.stabikat.de/DB=1/PPN?PPN=746047215 </dv:reference>
+            <dv:presentation>http://digital.staatsbibliothek-berlin.de/dms/werkansicht/?PPN=PPN746047215</dv:presentation>
+            <dv:iiif>https://content.staatsbibliothek-berlin.de/dc/PPN746047215/manifest</dv:iiif></dv:links>
         </mets:xmlData>
       </mets:mdWrap>
     </mets:digiprovMD>
@@ -153,22 +154,22 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0006">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1520_0006.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006.tif"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0006">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1520_0006.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0006">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1520_0006.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0006">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1520_0006.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
