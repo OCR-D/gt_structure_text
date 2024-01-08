@@ -27,13 +27,10 @@ jobs:
       
     - name: install analyse xsl-styles
       run: | 
-        mkdir scripts
         git clone https://github.com/tboenig/gt-repo-scripts.git
         mv gt-repo-scripts/scripts/* scripts/
         rm -r gt-repo-scripts
-        git clone https://github.com/tboenig/gt-LevelParser.git
-        mv gt-LevelParser/script/* scripts/
-        rm -r gt-LevelParser
+        
 
 
      # Installation GT-Labelling Documentation
