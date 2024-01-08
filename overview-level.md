@@ -27748,12 +27748,5 @@
             </table>
          </details>
       </div>
-      <footer>
-         <a href="https://ocr-d.de/">
-            <img src="https://ocr-d.de/assets/ocrd-logo-small.png"
-                 height="50"
-                 width="50"/>
-         </a>
-      </footer>
    </body>
 </html>

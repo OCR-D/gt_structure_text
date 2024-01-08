@@ -69,14 +69,20 @@ table {
 
 .volumelevel {
     margin-bottom: 1%;
+    width: 200%;
 }
 
 .pagelevel {
     border: 1px solid #ccc;
+    width: 300%;
 }
 
 table[class = volumelevel] tr td {
     padding: 5px;
+}
+
+.vname, .dname, .guidelines, .guidelines, .sumchar, .time, .description, .url {
+    background:local;
 }
 
 .vname::before {
@@ -119,6 +125,7 @@ td.l2,
 td.l3 {
     width: 120px;
     text-align: right;
+    background: local;
 }
 .ssl1::before,
 .sl1::before {
