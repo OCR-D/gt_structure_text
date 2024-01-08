@@ -51,7 +51,6 @@ jobs:
        cd core
        sudo make deps-ubuntu
        pip install "setuptools>=61"
-       make install
        cd ..
        rm -rf core
        
