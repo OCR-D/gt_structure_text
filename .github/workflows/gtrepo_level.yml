@@ -172,7 +172,9 @@ jobs:
     - name: copy css styles and yml files to ghout
       run: | 
         cp scripts/table_hide.css ghout/
-        cp scripts/_config.yml ghout/ 
+        cp scripts/_config.yml ghout/
+        cp scripts/levelparser.css ghout/
+        cp scripts/lang.js ghout/
 
 
     - name: archive the ocrdzip files from ocrdzip_out folder
