@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
    <head>
-      <script src="file:///E:/0_arbeit/OCR-D/LevelParserGT/script/lang.js"> </script><link rel="stylesheet" href="file:///E:/0_arbeit/OCR-D/LevelParserGT/script/levelparser.css">
+      <script src="lang.js"> </script><link rel="stylesheet" href="levelparser.css">
                 <title>Level Matrix Document Volume: gt_structure_text</title>
    </head>
    <body>
