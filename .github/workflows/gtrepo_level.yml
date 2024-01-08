@@ -50,6 +50,7 @@ jobs:
        git clone --depth 1 https://github.com/OCR-D/core
        cd core
        sudo make deps-ubuntu
+       pip install "setuptools>=61"
        make install
        cd ..
        rm -rf core
