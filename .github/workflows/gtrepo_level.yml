@@ -49,8 +49,8 @@ jobs:
     
     - name: upgrade setuptools
       run: |
-       sudo pip install --upgrade setuptools
-       
+       pip install --upgrade setuptools
+
     
     - name: install ocrd
       run: |
