@@ -47,12 +47,17 @@ jobs:
     - name: install jq
       run: sudo apt-get install jq
     
+    - name: upgrade setuptools
+      run: |
+       sudo pip install --upgrade setuptools
+       
+    
     - name: install ocrd
       run: |
        git clone --depth 1 https://github.com/OCR-D/core
        cd core
        sudo make deps-ubuntu
-       pip install "setuptools>=61"
+       make install
        cd ..
        rm -rf core
        
