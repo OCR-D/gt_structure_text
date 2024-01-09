@@ -24,7 +24,7 @@
             <tr>
                <td class="guidelines" colspan="2"> OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</td>
             </tr>
-            <tr>
+            <tr class="numchar">
                <td>
                   <p class="sumchar" colspan="2">221138</p>
                   <ul>
@@ -40,8 +40,8 @@
                           data-en="Deutsch"
                           data-de="English"> </button>
                   <p class="bilanguage"
-                     data-de="Die Transkription des Korpus entspricht dem Level h&#xA;            1, 2."
-                     data-en="The Transcription of volume corresponds to level h&#xA;            1, 2."/>
+                     data-de="Die Transkription des Korpus entspricht dem Level 1, 2."
+                     data-en="The Transcription of volume corresponds to level 1, 2."/>
                   <ul>
                      <li>
                         <a href="https://ocr-d.de/en/gt-guidelines/trans/trGrundsaetze.html">
@@ -53,8 +53,8 @@
                      <li>
                         <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
                            <span class="bilanguage"
-                                 data-de="Transkribieren im Level h&#xA;            1, 2"
-                                 data-en="Transcribe in Level h&#xA;            1, 2"/>
+                                 data-de="Transkribieren im Level 1, 2"
+                                 data-en="Transcribe in Level 1, 2"/>
                         </a>
                      </li>
                   </ul>
@@ -160,7 +160,7 @@
                   <td class="dname" colspan="2">arnold_ketzerhistorie01_1699_0115.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">5003</td>
+                  <td class="sumchar">5003</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">880</td>
@@ -320,7 +320,7 @@
                   <td class="dname" colspan="2">arnold_ketzerhistorie01_1699_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1738</td>
+                  <td class="sumchar">1738</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">319</td>
@@ -480,7 +480,7 @@
                   <td class="dname" colspan="2">arnold_ketzerhistorie01_1699_0010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">335</td>
+                  <td class="sumchar">335</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">69</td>
@@ -595,7 +595,7 @@
                   <td class="dname" colspan="2">arnold_ketzerhistorie01_1699_0114.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">4887</td>
+                  <td class="sumchar">4887</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">724</td>
@@ -780,7 +780,7 @@
                   <td class="dname" colspan="2">nn_historia_1500_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1050</td>
+                  <td class="sumchar">1050</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">135</td>
@@ -910,7 +910,7 @@
                   <td class="dname" colspan="2">nn_historia_1500_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">198</td>
+                  <td class="sumchar">198</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">24</td>
@@ -1015,7 +1015,7 @@
                   <td class="dname" colspan="2">nn_mirabilia_1500_0087.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">799</td>
+                  <td class="sumchar">799</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">134</td>
@@ -1140,7 +1140,7 @@
                   <td class="dname" colspan="2">nn_mirabilia_1500_0019.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">798</td>
+                  <td class="sumchar">798</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">125</td>
@@ -1270,7 +1270,7 @@
                   <td class="dname" colspan="2">nn_mirabilia_1500_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">303</td>
+                  <td class="sumchar">303</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">46</td>
@@ -1380,7 +1380,7 @@
                   <td class="dname" colspan="2">hohberg_georgica01_1682_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2730</td>
+                  <td class="sumchar">2730</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">496</td>
@@ -1580,7 +1580,7 @@
                   <td class="dname" colspan="2">hohberg_georgica01_1682_0601.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">4688</td>
+                  <td class="sumchar">4688</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">844</td>
@@ -1765,7 +1765,7 @@
                   <td class="dname" colspan="2">rollenhagen_reysen_1603_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">871</td>
+                  <td class="sumchar">871</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">156</td>
@@ -1890,7 +1890,7 @@
                   <td class="dname" colspan="2">rollenhagen_reysen_1603_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">603</td>
+                  <td class="sumchar">603</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">87</td>
@@ -2020,7 +2020,7 @@
                   <td class="dname" colspan="2">rollenhagen_reysen_1603_0012.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1118</td>
+                  <td class="sumchar">1118</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">213</td>
@@ -2165,7 +2165,7 @@
                   <td class="dname" colspan="2">pistoris_regiment_1506_0010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1602</td>
+                  <td class="sumchar">1602</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">334</td>
@@ -2330,7 +2330,7 @@
                   <td class="dname" colspan="2">pistoris_regiment_1506_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1152</td>
+                  <td class="sumchar">1152</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">206</td>
@@ -2465,7 +2465,7 @@
                   <td class="dname" colspan="2">pistoris_regiment_1506_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">961</td>
+                  <td class="sumchar">961</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">136</td>
@@ -2615,7 +2615,7 @@
                   <td class="dname" colspan="2">nn_lied_1520_0006.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">652</td>
+                  <td class="sumchar">652</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">103</td>
@@ -2750,7 +2750,7 @@
                   <td class="dname" colspan="2">nn_lied_1515_0006.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">796</td>
+                  <td class="sumchar">796</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">130</td>
@@ -2900,7 +2900,7 @@
                   <td class="dname" colspan="2">buerger_gedichte_1778_0066.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">188</td>
+                  <td class="sumchar">188</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">18</td>
@@ -2980,7 +2980,7 @@
                   <td class="dname" colspan="2">buerger_gedichte_1778_0039.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">760</td>
+                  <td class="sumchar">760</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">148</td>
@@ -3130,7 +3130,7 @@
                   <td class="dname" colspan="2">osiander_predigt_1553_0008.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1216</td>
+                  <td class="sumchar">1216</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">236</td>
@@ -3270,7 +3270,7 @@
                   <td class="dname" colspan="2">osiander_predigt_1553_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">640</td>
+                  <td class="sumchar">640</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">107</td>
@@ -3395,7 +3395,7 @@
                   <td class="dname" colspan="2">praetorius_syntagma02_1619_0031.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1053</td>
+                  <td class="sumchar">1053</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">120</td>
@@ -3530,7 +3530,7 @@
                   <td class="dname" colspan="2">praetorius_syntagma02_1619_0133.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2115</td>
+                  <td class="sumchar">2115</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">329</td>
@@ -3700,7 +3700,7 @@
                   <td class="dname" colspan="2">praetorius_syntagma02_1619_0132.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2227</td>
+                  <td class="sumchar">2227</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">361</td>
@@ -3855,7 +3855,7 @@
                   <td class="dname" colspan="2">praetorius_syntagma02_1619_0032.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">907</td>
+                  <td class="sumchar">907</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">78</td>
@@ -3985,7 +3985,7 @@
                   <td class="dname" colspan="2">luz_blitz_1784_0027.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1503</td>
+                  <td class="sumchar">1503</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">245</td>
@@ -4120,7 +4120,7 @@
                   <td class="dname" colspan="2">luz_blitz_1784_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">231</td>
+                  <td class="sumchar">231</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">16</td>
@@ -4190,7 +4190,7 @@
                   <td class="dname" colspan="2">luz_blitz_1784_0020.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1414</td>
+                  <td class="sumchar">1414</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">218</td>
@@ -4320,7 +4320,7 @@
                   <td class="dname" colspan="2">luz_blitz_1784_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">735</td>
+                  <td class="sumchar">735</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">112</td>
@@ -4455,7 +4455,7 @@
                   <td class="dname" colspan="2">kistler_kraeuter_1500_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1010</td>
+                  <td class="sumchar">1010</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">156</td>
@@ -4615,7 +4615,7 @@
                   <td class="dname" colspan="2">kistler_kraeuter_1500_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1043</td>
+                  <td class="sumchar">1043</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">189</td>
@@ -4750,7 +4750,7 @@
                   <td class="dname" colspan="2">alberti_pictura_1540_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">839</td>
+                  <td class="sumchar">839</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">91</td>
@@ -4875,7 +4875,7 @@
                   <td class="dname" colspan="2">alberti_pictura_1540_0008.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">831</td>
+                  <td class="sumchar">831</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">112</td>
@@ -5000,7 +5000,7 @@
                   <td class="dname" colspan="2">alberti_pictura_1540_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">654</td>
+                  <td class="sumchar">654</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">77</td>
@@ -5135,7 +5135,7 @@
                   <td class="dname" colspan="2">praetorius_verrichtung_1668_0109.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">898</td>
+                  <td class="sumchar">898</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">118</td>
@@ -5270,7 +5270,7 @@
                   <td class="dname" colspan="2">praetorius_verrichtung_1668_0026.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1283</td>
+                  <td class="sumchar">1283</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">208</td>
@@ -5430,7 +5430,7 @@
                   <td class="dname" colspan="2">praetorius_verrichtung_1668_0108.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">967</td>
+                  <td class="sumchar">967</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">171</td>
@@ -5570,7 +5570,7 @@
                   <td class="dname" colspan="2">praetorius_verrichtung_1668_0025.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">546</td>
+                  <td class="sumchar">546</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">79</td>
@@ -5695,7 +5695,7 @@
                   <td class="dname" colspan="2">praetorius_verrichtung_1668_0110.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">929</td>
+                  <td class="sumchar">929</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">149</td>
@@ -5855,7 +5855,7 @@
                   <td class="dname" colspan="2">valentinus_occulta_1603_0031.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">723</td>
+                  <td class="sumchar">723</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">131</td>
@@ -5995,7 +5995,7 @@
                   <td class="dname" colspan="2">valentinus_occulta_1603_0033.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">864</td>
+                  <td class="sumchar">864</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">154</td>
@@ -6145,7 +6145,7 @@
                   <td class="dname" colspan="2">valentinus_occulta_1603_0006.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">995</td>
+                  <td class="sumchar">995</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">182</td>
@@ -6275,7 +6275,7 @@
                   <td class="dname" colspan="2">valentinus_occulta_1603_0032.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">849</td>
+                  <td class="sumchar">849</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">165</td>
@@ -6420,7 +6420,7 @@
                   <td class="dname" colspan="2">valentinus_occulta_1603_0004.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">941</td>
+                  <td class="sumchar">941</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">169</td>
@@ -6565,7 +6565,7 @@
                   <td class="dname" colspan="2">valentinus_occulta_1603_0005.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">846</td>
+                  <td class="sumchar">846</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">138</td>
@@ -6695,7 +6695,7 @@
                   <td class="dname" colspan="2">loeber_heuschrecken_1693_0005.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">911</td>
+                  <td class="sumchar">911</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">164</td>
@@ -6840,7 +6840,7 @@
                   <td class="dname" colspan="2">loeber_heuschrecken_1693_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1477</td>
+                  <td class="sumchar">1477</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">270</td>
@@ -7000,7 +7000,7 @@
                   <td class="dname" colspan="2">loeber_heuschrecken_1693_0046.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">836</td>
+                  <td class="sumchar">836</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">127</td>
@@ -7140,7 +7140,7 @@
                   <td class="dname" colspan="2">reinkingk_policey_1653_0151.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2248</td>
+                  <td class="sumchar">2248</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">389</td>
@@ -7305,7 +7305,7 @@
                   <td class="dname" colspan="2">reinkingk_policey_1653_0144.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1823</td>
+                  <td class="sumchar">1823</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">263</td>
@@ -7460,7 +7460,7 @@
                   <td class="dname" colspan="2">aepinus_bekentnis_1548_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1386</td>
+                  <td class="sumchar">1386</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">232</td>
@@ -7605,7 +7605,7 @@
                   <td class="dname" colspan="2">aepinus_bekentnis_1548_0020.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">588</td>
+                  <td class="sumchar">588</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">73</td>
@@ -7730,7 +7730,7 @@
                   <td class="dname" colspan="2">aepinus_bekentnis_1548_0006.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">888</td>
+                  <td class="sumchar">888</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">129</td>
@@ -7870,7 +7870,7 @@
                   <td class="dname" colspan="2">aepinus_bekentnis_1548_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1208</td>
+                  <td class="sumchar">1208</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">169</td>
@@ -8005,7 +8005,7 @@
                   <td class="dname" colspan="2">nn_besuch_1780_00002.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">749</td>
+                  <td class="sumchar">749</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">105</td>
@@ -8135,7 +8135,7 @@
                   <td class="dname" colspan="2">nn_besuch_1780_00001.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">264</td>
+                  <td class="sumchar">264</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">45</td>
@@ -8240,7 +8240,7 @@
                   <td class="dname" colspan="2">nn_besuch_1780_00003.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">767</td>
+                  <td class="sumchar">767</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">115</td>
@@ -8370,7 +8370,7 @@
                   <td class="dname" colspan="2">nn_besuch_1780_00004.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">418</td>
+                  <td class="sumchar">418</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">66</td>
@@ -8485,7 +8485,7 @@
                   <td class="dname" colspan="2">reinkingk_policey_1653_0016.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1664</td>
+                  <td class="sumchar">1664</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">306</td>
@@ -8655,7 +8655,7 @@
                   <td class="dname" colspan="2">reinkingk_policey_1653_0017.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1488</td>
+                  <td class="sumchar">1488</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">219</td>
@@ -8820,7 +8820,7 @@
                   <td class="dname" colspan="2">reinkingk_policey_1653_0139.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1398</td>
+                  <td class="sumchar">1398</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">216</td>
@@ -8965,7 +8965,7 @@
                   <td class="dname" colspan="2">bebel_frau_1879_0146.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2642</td>
+                  <td class="sumchar">2642</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">501</td>
@@ -9110,7 +9110,7 @@
                   <td class="dname" colspan="2">bebel_frau_1879_0176.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2776</td>
+                  <td class="sumchar">2776</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">537</td>
@@ -9255,7 +9255,7 @@
                   <td class="dname" colspan="2">bebel_frau_1879_0168.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">3179</td>
+                  <td class="sumchar">3179</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">560</td>
@@ -9390,7 +9390,7 @@
                   <td class="dname" colspan="2">bebel_frau_1879_0186.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">358</td>
+                  <td class="sumchar">358</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">77</td>
@@ -9495,7 +9495,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0041.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">770</td>
+                  <td class="sumchar">770</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">124</td>
@@ -9625,7 +9625,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0040.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">823</td>
+                  <td class="sumchar">823</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">131</td>
@@ -9775,7 +9775,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0038.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">649</td>
+                  <td class="sumchar">649</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">108</td>
@@ -9920,7 +9920,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0050.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">787</td>
+                  <td class="sumchar">787</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">146</td>
@@ -10072,7 +10072,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0122.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">669</td>
+                  <td class="sumchar">669</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">108</td>
@@ -10217,7 +10217,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0146.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">823</td>
+                  <td class="sumchar">823</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">139</td>
@@ -10347,7 +10347,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0023.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">628</td>
+                  <td class="sumchar">628</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">105</td>
@@ -10487,7 +10487,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0031.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">618</td>
+                  <td class="sumchar">618</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">116</td>
@@ -10627,7 +10627,7 @@
                   <td class="dname" colspan="2">clauren_mimil_1815_0043.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">636</td>
+                  <td class="sumchar">636</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">96</td>
@@ -10774,7 +10774,7 @@
                   <td class="dname" colspan="2">boeschenstain_gedicht_1520_0002.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2623</td>
+                  <td class="sumchar">2623</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">484</td>
@@ -10954,7 +10954,7 @@
                   <td class="dname" colspan="2">silesius_seelenlust01_1657_0010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">483</td>
+                  <td class="sumchar">483</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">89</td>
@@ -11084,7 +11084,7 @@
                   <td class="dname" colspan="2">silesius_seelenlust01_1657_0423.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">601</td>
+                  <td class="sumchar">601</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">90</td>
@@ -11224,7 +11224,7 @@
                   <td class="dname" colspan="2">silesius_seelenlust01_1657_0022.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">546</td>
+                  <td class="sumchar">546</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">80</td>
@@ -11344,7 +11344,7 @@
                   <td class="dname" colspan="2">silesius_seelenlust01_1657_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">453</td>
+                  <td class="sumchar">453</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">65</td>
@@ -11464,7 +11464,7 @@
                   <td class="dname" colspan="2">silesius_seelenlust01_1657_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">352</td>
+                  <td class="sumchar">352</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">63</td>
@@ -11589,7 +11589,7 @@
                   <td class="dname" colspan="2">karlstadt_sermon_1523_0006.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1587</td>
+                  <td class="sumchar">1587</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">296</td>
@@ -11749,7 +11749,7 @@
                   <td class="dname" colspan="2">karlstadt_sermon_1523_0020.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1637</td>
+                  <td class="sumchar">1637</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">287</td>
@@ -11904,7 +11904,7 @@
                   <td class="dname" colspan="2">blumenbach_anatomie_1805_0048.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">800</td>
+                  <td class="sumchar">800</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">151</td>
@@ -12039,7 +12039,7 @@
                   <td class="dname" colspan="2">blumenbach_anatomie_1805_0049.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">718</td>
+                  <td class="sumchar">718</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">104</td>
@@ -12164,7 +12164,7 @@
                   <td class="dname" colspan="2">blumenbach_anatomie_1805_0047.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">792</td>
+                  <td class="sumchar">792</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">130</td>
@@ -12289,7 +12289,7 @@
                   <td class="dname" colspan="2">vespucci_insule_1506_0019.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1215</td>
+                  <td class="sumchar">1215</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">215</td>
@@ -12424,7 +12424,7 @@
                   <td class="dname" colspan="2">vespucci_insule_1506_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1348</td>
+                  <td class="sumchar">1348</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">190</td>
@@ -12594,7 +12594,7 @@
                   <td class="dname" colspan="2">bernd_lebensbeschreibung_1738_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">435</td>
+                  <td class="sumchar">435</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">63</td>
@@ -12714,7 +12714,7 @@
                   <td class="dname" colspan="2">bernd_lebensbeschreibung_1738_0066.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1092</td>
+                  <td class="sumchar">1092</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">198</td>
@@ -12849,7 +12849,7 @@
                   <td class="dname" colspan="2">bernd_lebensbeschreibung_1738_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">550</td>
+                  <td class="sumchar">550</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">83</td>
@@ -12974,7 +12974,7 @@
                   <td class="dname" colspan="2">petrarca_psalmi_1506_0012.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">921</td>
+                  <td class="sumchar">921</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">94</td>
@@ -13084,7 +13084,7 @@
                   <td class="dname" colspan="2">petrarca_psalmi_1506_0010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1432</td>
+                  <td class="sumchar">1432</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">152</td>
@@ -13224,7 +13224,7 @@
                   <td class="dname" colspan="2">petrarca_psalmi_1506_0016.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">137</td>
+                  <td class="sumchar">137</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">28</td>
@@ -13294,7 +13294,7 @@
                   <td class="dname" colspan="2">glauber_opera01_1658_0072.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2491</td>
+                  <td class="sumchar">2491</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">369</td>
@@ -13444,7 +13444,7 @@
                   <td class="dname" colspan="2">glauber_opera01_1658_0078.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2787</td>
+                  <td class="sumchar">2787</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">429</td>
@@ -13604,7 +13604,7 @@
                   <td class="dname" colspan="2">glauber_opera01_1658_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1791</td>
+                  <td class="sumchar">1791</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">244</td>
@@ -13759,7 +13759,7 @@
                   <td class="dname" colspan="2">glauber_opera01_1658_0029.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1182</td>
+                  <td class="sumchar">1182</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">182</td>
@@ -13899,7 +13899,7 @@
                   <td class="dname" colspan="2">glauber_opera01_1658_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1554</td>
+                  <td class="sumchar">1554</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">182</td>
@@ -14049,7 +14049,7 @@
                   <td class="dname" colspan="2">glauber_opera01_1658_0032.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1954</td>
+                  <td class="sumchar">1954</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">308</td>
@@ -14199,7 +14199,7 @@
                   <td class="dname" colspan="2">ballenstedt_delatio_1777_00010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1602</td>
+                  <td class="sumchar">1602</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">125</td>
@@ -14319,7 +14319,7 @@
                   <td class="dname" colspan="2">ballenstedt_delatio_1777_00003.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1509</td>
+                  <td class="sumchar">1509</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">142</td>
@@ -14441,7 +14441,7 @@
                   <td class="dname" colspan="2">ballenstedt_delatio_1777_00005.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1457</td>
+                  <td class="sumchar">1457</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">159</td>
@@ -14546,7 +14546,7 @@
                   <td class="dname" colspan="2">pinder_epiphanie_1506_0041.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1963</td>
+                  <td class="sumchar">1963</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">157</td>
@@ -14676,7 +14676,7 @@
                   <td class="dname" colspan="2">pinder_epiphanie_1506_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1521</td>
+                  <td class="sumchar">1521</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">161</td>
@@ -14806,7 +14806,7 @@
                   <td class="dname" colspan="2">pinder_epiphanie_1506_0010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1879</td>
+                  <td class="sumchar">1879</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">221</td>
@@ -14956,7 +14956,7 @@
                   <td class="dname" colspan="2">pinder_epiphanie_1506_0045.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2035</td>
+                  <td class="sumchar">2035</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">201</td>
@@ -15086,7 +15086,7 @@
                   <td class="dname" colspan="2">bohse_helicon_1696_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">738</td>
+                  <td class="sumchar">738</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">98</td>
@@ -15251,7 +15251,7 @@
                   <td class="dname" colspan="2">bohse_helicon_1696_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">321</td>
+                  <td class="sumchar">321</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">56</td>
@@ -15351,7 +15351,7 @@
                   <td class="dname" colspan="2">bohse_helicon_1696_0036.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1258</td>
+                  <td class="sumchar">1258</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">194</td>
@@ -15496,7 +15496,7 @@
                   <td class="dname" colspan="2">bohse_helicon_1696_0022.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">640</td>
+                  <td class="sumchar">640</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">103</td>
@@ -15626,7 +15626,7 @@
                   <td class="dname" colspan="2">bohse_helicon_1696_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">346</td>
+                  <td class="sumchar">346</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">69</td>
@@ -15741,7 +15741,7 @@
                   <td class="dname" colspan="2">lessing_menschengeschlecht_1780_0084.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">342</td>
+                  <td class="sumchar">342</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">52</td>
@@ -15856,7 +15856,7 @@
                   <td class="dname" colspan="2">luther_babstum_1526_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">494</td>
+                  <td class="sumchar">494</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">87</td>
@@ -15991,7 +15991,7 @@
                   <td class="dname" colspan="2">luther_babstum_1526_0010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">864</td>
+                  <td class="sumchar">864</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">164</td>
@@ -16121,7 +16121,7 @@
                   <td class="dname" colspan="2">wecker_kochbuch_1598_0029.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1666</td>
+                  <td class="sumchar">1666</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">345</td>
@@ -16281,7 +16281,7 @@
                   <td class="dname" colspan="2">wecker_kochbuch_1598_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1446</td>
+                  <td class="sumchar">1446</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">244</td>
@@ -16431,7 +16431,7 @@
                   <td class="dname" colspan="2">wecker_kochbuch_1598_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2897</td>
+                  <td class="sumchar">2897</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">440</td>
@@ -16581,7 +16581,7 @@
                   <td class="dname" colspan="2">wecker_kochbuch_1598_0017.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1660</td>
+                  <td class="sumchar">1660</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">305</td>
@@ -16741,7 +16741,7 @@
                   <td class="dname" colspan="2">huebner_handbuch_1696_0005.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">277</td>
+                  <td class="sumchar">277</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">63</td>
@@ -16861,7 +16861,7 @@
                   <td class="dname" colspan="2">huebner_handbuch_1696_0015.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">551</td>
+                  <td class="sumchar">551</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">96</td>
@@ -16986,7 +16986,7 @@
                   <td class="dname" colspan="2">huebner_handbuch_1696_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">910</td>
+                  <td class="sumchar">910</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">150</td>
@@ -17121,7 +17121,7 @@
                   <td class="dname" colspan="2">nn_vertrag_1525_0005.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">116</td>
+                  <td class="sumchar">116</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">19</td>
@@ -17213,7 +17213,7 @@
                   <td class="dname" colspan="2">nn_vertrag_1525_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1076</td>
+                  <td class="sumchar">1076</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">169</td>
@@ -17383,7 +17383,7 @@
                   <td class="dname" colspan="2">aventinus_grammatica_1515_0008.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1246</td>
+                  <td class="sumchar">1246</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">127</td>
@@ -17523,7 +17523,7 @@
                   <td class="dname" colspan="2">aventinus_grammatica_1515_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">679</td>
+                  <td class="sumchar">679</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">80</td>
@@ -17658,7 +17658,7 @@
                   <td class="dname" colspan="2">aventinus_grammatica_1515_0006.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1472</td>
+                  <td class="sumchar">1472</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">160</td>
@@ -17798,7 +17798,7 @@
                   <td class="dname" colspan="2">oesterreicher_sachsen_1548_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">748</td>
+                  <td class="sumchar">748</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">169</td>
@@ -17943,7 +17943,7 @@
                   <td class="dname" colspan="2">oesterreicher_sachsen_1548_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">641</td>
+                  <td class="sumchar">641</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">122</td>
@@ -18073,7 +18073,7 @@
                   <td class="dname" colspan="2">benner_herrnhuterey04_1748_0014.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1097</td>
+                  <td class="sumchar">1097</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">185</td>
@@ -18213,7 +18213,7 @@
                   <td class="dname" colspan="2">benner_herrnhuterey04_1748_0015.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1025</td>
+                  <td class="sumchar">1025</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">170</td>
@@ -18343,7 +18343,7 @@
                   <td class="dname" colspan="2">benner_herrnhuterey04_1748_0016.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1043</td>
+                  <td class="sumchar">1043</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">144</td>
@@ -18473,7 +18473,7 @@
                   <td class="dname" colspan="2">benner_herrnhuterey04_1748_0013.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">769</td>
+                  <td class="sumchar">769</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">166</td>
@@ -18598,7 +18598,7 @@
                   <td class="dname" colspan="2">weigel_gnothi02_1618_0004.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1280</td>
+                  <td class="sumchar">1280</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">245</td>
@@ -18763,7 +18763,7 @@
                   <td class="dname" colspan="2">weigel_gnothi02_1618_0003.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">917</td>
+                  <td class="sumchar">917</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">154</td>
@@ -18933,7 +18933,7 @@
                   <td class="dname" colspan="2">weigel_gnothi02_1618_0112.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1206</td>
+                  <td class="sumchar">1206</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">224</td>
@@ -19068,7 +19068,7 @@
                   <td class="dname" colspan="2">weigel_gnothi02_1618_0016.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1222</td>
+                  <td class="sumchar">1222</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">222</td>
@@ -19218,7 +19218,7 @@
                   <td class="dname" colspan="2">witzstat_buchszbaum_1540_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">665</td>
+                  <td class="sumchar">665</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">151</td>
@@ -19353,7 +19353,7 @@
                   <td class="dname" colspan="2">witzstat_buchszbaum_1540_0018.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">614</td>
+                  <td class="sumchar">614</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">117</td>
@@ -19478,7 +19478,7 @@
                   <td class="dname" colspan="2">gerstner_mechaniktafeln01_1831_0019.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">24</td>
+                  <td class="sumchar">24</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">0</td>
@@ -19523,7 +19523,7 @@
                   <td class="dname" colspan="2">trota_mordtbrenner_1540_0013.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">526</td>
+                  <td class="sumchar">526</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">77</td>
@@ -19648,7 +19648,7 @@
                   <td class="dname" colspan="2">trota_mordtbrenner_1540_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">552</td>
+                  <td class="sumchar">552</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">80</td>
@@ -19768,7 +19768,7 @@
                   <td class="dname" colspan="2">hohberg_georgica01_1682_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1564</td>
+                  <td class="sumchar">1564</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">274</td>
@@ -19928,7 +19928,7 @@
                   <td class="dname" colspan="2">hohberg_georgica01_1682_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1651</td>
+                  <td class="sumchar">1651</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">309</td>
@@ -20088,7 +20088,7 @@
                   <td class="dname" colspan="2">dannhauer_catechismus10_1673_0121.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2102</td>
+                  <td class="sumchar">2102</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">341</td>
@@ -20253,7 +20253,7 @@
                   <td class="dname" colspan="2">dannhauer_catechismus10_1673_0113.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1552</td>
+                  <td class="sumchar">1552</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">255</td>
@@ -20398,7 +20398,7 @@
                   <td class="dname" colspan="2">dannhauer_catechismus10_1673_0016.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1493</td>
+                  <td class="sumchar">1493</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">205</td>
@@ -20548,7 +20548,7 @@
                   <td class="dname" colspan="2">dannhauer_catechismus10_1673_0108.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2276</td>
+                  <td class="sumchar">2276</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">350</td>
@@ -20758,7 +20758,7 @@
                   <td class="dname" colspan="2">calvi_beutelschneider01_1627_0020.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">980</td>
+                  <td class="sumchar">980</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">191</td>
@@ -20923,7 +20923,7 @@
                   <td class="dname" colspan="2">calvi_beutelschneider01_1627_0013.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">726</td>
+                  <td class="sumchar">726</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">139</td>
@@ -21063,7 +21063,7 @@
                   <td class="dname" colspan="2">calvi_beutelschneider01_1627_0010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">802</td>
+                  <td class="sumchar">802</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">141</td>
@@ -21193,7 +21193,7 @@
                   <td class="dname" colspan="2">lohenstein_agrippina_1665_0019.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">921</td>
+                  <td class="sumchar">921</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">139</td>
@@ -21328,7 +21328,7 @@
                   <td class="dname" colspan="2">lohenstein_agrippina_1665_0018.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1011</td>
+                  <td class="sumchar">1011</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">159</td>
@@ -21458,7 +21458,7 @@
                   <td class="dname" colspan="2">lohenstein_agrippina_1665_0121.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1291</td>
+                  <td class="sumchar">1291</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">265</td>
@@ -21598,7 +21598,7 @@
                   <td class="dname" colspan="2">meyfart_rhetorica_1634_0022.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">920</td>
+                  <td class="sumchar">920</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">194</td>
@@ -21733,7 +21733,7 @@
                   <td class="dname" colspan="2">meyfart_rhetorica_1634_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">549</td>
+                  <td class="sumchar">549</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">84</td>
@@ -21843,7 +21843,7 @@
                   <td class="dname" colspan="2">meyfart_rhetorica_1634_0122.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">717</td>
+                  <td class="sumchar">717</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">118</td>
@@ -21968,7 +21968,7 @@
                   <td class="dname" colspan="2">meyfart_rhetorica_1634_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">362</td>
+                  <td class="sumchar">362</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">44</td>
@@ -22073,7 +22073,7 @@
                   <td class="dname" colspan="2">justi_abhandlung01_1758_0133.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1357</td>
+                  <td class="sumchar">1357</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">199</td>
@@ -22213,7 +22213,7 @@
                   <td class="dname" colspan="2">justi_abhandlung01_1758_0134.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1301</td>
+                  <td class="sumchar">1301</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">167</td>
@@ -22348,7 +22348,7 @@
                   <td class="dname" colspan="2">justi_abhandlung01_1758_0026.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">866</td>
+                  <td class="sumchar">866</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">167</td>
@@ -22463,7 +22463,7 @@
                   <td class="dname" colspan="2">justi_abhandlung01_1758_0031.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">802</td>
+                  <td class="sumchar">802</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">129</td>
@@ -22613,7 +22613,7 @@
                   <td class="dname" colspan="2">herder_geschichte03_1787_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">349</td>
+                  <td class="sumchar">349</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">55</td>
@@ -22713,7 +22713,7 @@
                   <td class="dname" colspan="2">basilius_legendi_1515_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1364</td>
+                  <td class="sumchar">1364</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">138</td>
@@ -22863,7 +22863,7 @@
                   <td class="dname" colspan="2">basilius_legendi_1515_0023.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">479</td>
+                  <td class="sumchar">479</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">50</td>
@@ -22963,7 +22963,7 @@
                   <td class="dname" colspan="2">basilius_legendi_1515_0008.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1396</td>
+                  <td class="sumchar">1396</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">133</td>
@@ -23098,7 +23098,7 @@
                   <td class="dname" colspan="2">praetorius_syntagma02_1619_0021.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1321</td>
+                  <td class="sumchar">1321</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">107</td>
@@ -23238,7 +23238,7 @@
                   <td class="dname" colspan="2">praetorius_syntagma02_1619_0017.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">2014</td>
+                  <td class="sumchar">2014</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">329</td>
@@ -23388,7 +23388,7 @@
                   <td class="dname" colspan="2">praetorius_syntagma02_1619_0020.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1296</td>
+                  <td class="sumchar">1296</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">176</td>
@@ -23548,7 +23548,7 @@
                   <td class="dname" colspan="2">praetorius_syntagma02_1619_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1324</td>
+                  <td class="sumchar">1324</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">150</td>
@@ -23793,7 +23793,7 @@
                   <td class="dname" colspan="2">kant_aufklaerung_1784_0017.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">702</td>
+                  <td class="sumchar">702</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">126</td>
@@ -23908,7 +23908,7 @@
                   <td class="dname" colspan="2">kant_aufklaerung_1784_0020.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1203</td>
+                  <td class="sumchar">1203</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">186</td>
@@ -24053,7 +24053,7 @@
                   <td class="dname" colspan="2">arnimb_goethe03_1835_0029.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">868</td>
+                  <td class="sumchar">868</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">149</td>
@@ -24183,7 +24183,7 @@
                   <td class="dname" colspan="2">rhegius_artzney_1529_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">799</td>
+                  <td class="sumchar">799</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">162</td>
@@ -24343,7 +24343,7 @@
                   <td class="dname" colspan="2">rhegius_artzney_1529_0014.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">811</td>
+                  <td class="sumchar">811</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">148</td>
@@ -24493,7 +24493,7 @@
                   <td class="dname" colspan="2">rhegius_artzney_1529_0019.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">863</td>
+                  <td class="sumchar">863</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">163</td>
@@ -24640,7 +24640,7 @@
                   <td class="dname" colspan="2">schiller_raeuber_1781_0024.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">987</td>
+                  <td class="sumchar">987</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">155</td>
@@ -24790,7 +24790,7 @@
                   <td class="dname" colspan="2">schiller_raeuber_1781_0009.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">361</td>
+                  <td class="sumchar">361</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">50</td>
@@ -24900,7 +24900,7 @@
                   <td class="dname" colspan="2">sachs_drey_1553_0010.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">681</td>
+                  <td class="sumchar">681</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">109</td>
@@ -25010,7 +25010,7 @@
                   <td class="dname" colspan="2">sachs_drey_1553_0011.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">774</td>
+                  <td class="sumchar">774</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">145</td>
@@ -25150,7 +25150,7 @@
                   <td class="dname" colspan="2">estor_rechtsgelehrsamkeit02_1758_0119.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1513</td>
+                  <td class="sumchar">1513</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">259</td>
@@ -25285,7 +25285,7 @@
                   <td class="dname" colspan="2">estor_rechtsgelehrsamkeit02_1758_0819.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1034</td>
+                  <td class="sumchar">1034</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">212</td>
@@ -25425,7 +25425,7 @@
                   <td class="dname" colspan="2">estor_rechtsgelehrsamkeit02_1758_0117.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1514</td>
+                  <td class="sumchar">1514</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">311</td>
@@ -25565,7 +25565,7 @@
                   <td class="dname" colspan="2">estor_rechtsgelehrsamkeit02_1758_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">629</td>
+                  <td class="sumchar">629</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">118</td>
@@ -25685,7 +25685,7 @@
                   <td class="dname" colspan="2">brenz_abentmal_1550_0043.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">317</td>
+                  <td class="sumchar">317</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">108</td>
@@ -25805,7 +25805,7 @@
                   <td class="dname" colspan="2">brenz_abentmal_1550_0046.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">499</td>
+                  <td class="sumchar">499</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">151</td>
@@ -25920,7 +25920,7 @@
                   <td class="dname" colspan="2">brenz_abentmal_1550_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">275</td>
+                  <td class="sumchar">275</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">58</td>
@@ -26040,7 +26040,7 @@
                   <td class="dname" colspan="2">brenz_abentmal_1550_0158.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">288</td>
+                  <td class="sumchar">288</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">59</td>
@@ -26175,7 +26175,7 @@
                   <td class="dname" colspan="2">heyden_paedono_1548_0013.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">587</td>
+                  <td class="sumchar">587</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">73</td>
@@ -26305,7 +26305,7 @@
                   <td class="dname" colspan="2">heyden_paedono_1548_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">559</td>
+                  <td class="sumchar">559</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">74</td>
@@ -26430,7 +26430,7 @@
                   <td class="dname" colspan="2">heyden_paedono_1548_0014.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">683</td>
+                  <td class="sumchar">683</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">96</td>
@@ -26530,7 +26530,7 @@
                   <td class="dname" colspan="2">euler_rechenkunst01_1738_0026.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1079</td>
+                  <td class="sumchar">1079</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">187</td>
@@ -26647,7 +26647,7 @@
                   <td class="dname" colspan="2">euler_rechenkunst01_1738_0033.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">947</td>
+                  <td class="sumchar">947</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">140</td>
@@ -26762,7 +26762,7 @@
                   <td class="dname" colspan="2">euler_rechenkunst01_1738_0024.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">974</td>
+                  <td class="sumchar">974</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">147</td>
@@ -26887,7 +26887,7 @@
                   <td class="dname" colspan="2">euler_rechenkunst01_1738_0025.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">743</td>
+                  <td class="sumchar">743</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">165</td>
@@ -26994,7 +26994,7 @@
                   <td class="dname" colspan="2">euler_rechenkunst01_1738_0041.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">728</td>
+                  <td class="sumchar">728</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">84</td>
@@ -27119,7 +27119,7 @@
                   <td class="dname" colspan="2">euler_rechenkunst01_1738_0031.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">842</td>
+                  <td class="sumchar">842</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">125</td>
@@ -27249,7 +27249,7 @@
                   <td class="dname" colspan="2">luther_auszlegunge_1520_0029.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1027</td>
+                  <td class="sumchar">1027</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">190</td>
@@ -27369,7 +27369,7 @@
                   <td class="dname" colspan="2">luther_auszlegunge_1520_0003.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">1369</td>
+                  <td class="sumchar">1369</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">205</td>
@@ -27499,7 +27499,7 @@
                   <td class="dname" colspan="2">laube_europa0202_1837_0006.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">123</td>
+                  <td class="sumchar">123</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">12</td>
@@ -27569,7 +27569,7 @@
                   <td class="dname" colspan="2">laube_europa0202_1837_0007.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">83</td>
+                  <td class="sumchar">83</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">10</td>
@@ -27634,7 +27634,7 @@
                   <td class="dname" colspan="2">laube_europa0202_1837_0105.xml</td>
                </tr>
                <tr>
-                  <td class="sumchar" colspan="2">753</td>
+                  <td class="sumchar">753</td>
                </tr>
                <tr class="suml">
                   <td class="sl1">102</td>
