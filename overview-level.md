@@ -40,8 +40,8 @@
                           data-en="Deutsch"
                           data-de="English"> </button>
                   <p class="bilanguage"
-                     data-de="Die Transkription des Korpus entspricht dem Level 21."
-                     data-en="The Transcription of volume corresponds to level 21."/>
+                     data-de="Die Transkription des Korpus entspricht dem Level 2, 1."
+                     data-en="The Transcription of volume corresponds to level 2, 1."/>
                   <ul>
                      <li>
                         <a href="https://ocr-d.de/en/gt-guidelines/trans/trGrundsaetze.html">
@@ -53,8 +53,8 @@
                      <li>
                         <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
                            <span class="bilanguage"
-                                 data-de="Transkribieren im Level 21"
-                                 data-en="Transcribe in Level 21"/>
+                                 data-de="Transkribieren im Level 2, 1"
+                                 data-en="Transcribe in Level 2, 1"/>
                         </a>
                      </li>
                   </ul>
