@@ -50,8 +50,13 @@
                <li>
                   <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
                      <span class="bilanguage"
-                           data-de="Transkribieren im Level 1, 2"
-                           data-en="Transcribe in Level 1, 2"/>
+                           data-de="Transkribieren im Level 1."
+                           data-en="Transcribe in Level 1."/>
+                  </a>
+                  <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_2_4.html">
+                     <span class="bilanguage"
+                           data-de="Transkribieren im Level 2."
+                           data-en="Transcribe in Level 2."/>
                   </a>
                </li>
             </ul>
