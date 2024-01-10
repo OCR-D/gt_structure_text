@@ -75,7 +75,7 @@ table {
 
 .pagelevel {
     border: 1px solid #ccc;
-    width: 200%;
+    width: 161.5%;
 }
 
 table[class = volumelevel] tr td {
@@ -110,11 +110,7 @@ table[class = volumelevel] tr td {
 
 .ssl1,
 .ssl2,
-.ssl3 {
-    display: block;
-    text-indent: -30px;
-}
-
+.ssl3, 
 .sl1,
 .sl2,
 .sl3 {

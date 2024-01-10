@@ -23,8 +23,8 @@
       </tr>
       <tr>
          <td class="char">
-            <p class="sumchar" colspan="2">221138</p>
             <ul>
+               <li class="sumchar">221138</li>
                <li class="ssl1">35350</li>
                <li class="ssl2">42228</li>
                <li class="ssl3">11269</li>
