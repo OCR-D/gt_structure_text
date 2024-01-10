@@ -1,4 +1,5 @@
 <script type="text/javascript" charset="utf8" src="lang.js"> </script>
+<link rel="stylesheet" href="table_hide.css"/>
 <link rel="stylesheet" href="levelparser.css"/>
 <div>
    <h2>Level Matrix Document Volume: gt_structure_text</h2>
