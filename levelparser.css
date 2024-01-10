@@ -74,7 +74,7 @@ table {
 
 .pagelevel {
     border: 1px solid #ccc;
-    width: 300%;
+    width: 200%;
 }
 
 table[class = volumelevel] tr td {
@@ -272,6 +272,7 @@ td.infolegend {
 details {
     line-height: 40px;
     margin-left: 40px;
+    width: 120%;
 }
 
 summary::-webkit-details-marker {
