@@ -155,14 +155,14 @@
             <td class="dname" colspan="2">arnold_ketzerhistorie01_1699_0115.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">5003</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">880</td>
-            <td class="sl2">1061</td>
-            <td class="sl3">248</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">5003</li>
+                  <li class="sl1">880</li>
+                  <li class="sl2">1061</li>
+                  <li class="sl3">248</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -315,14 +315,14 @@
             <td class="dname" colspan="2">arnold_ketzerhistorie01_1699_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1738</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">319</td>
-            <td class="sl2">396</td>
-            <td class="sl3">84</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1738</li>
+                  <li class="sl1">319</li>
+                  <li class="sl2">396</li>
+                  <li class="sl3">84</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -475,14 +475,14 @@
             <td class="dname" colspan="2">arnold_ketzerhistorie01_1699_0010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">335</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">69</td>
-            <td class="sl2">105</td>
-            <td class="sl3">25</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">335</li>
+                  <li class="sl1">69</li>
+                  <li class="sl2">105</li>
+                  <li class="sl3">25</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -590,14 +590,14 @@
             <td class="dname" colspan="2">arnold_ketzerhistorie01_1699_0114.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">4887</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">724</td>
-            <td class="sl2">905</td>
-            <td class="sl3">237</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">4887</li>
+                  <li class="sl1">724</li>
+                  <li class="sl2">905</li>
+                  <li class="sl3">237</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -775,14 +775,14 @@
             <td class="dname" colspan="2">nn_historia_1500_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1050</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">135</td>
-            <td class="sl2">188</td>
-            <td class="sl3">67</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1050</li>
+                  <li class="sl1">135</li>
+                  <li class="sl2">188</li>
+                  <li class="sl3">67</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -905,14 +905,14 @@
             <td class="dname" colspan="2">nn_historia_1500_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">198</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">24</td>
-            <td class="sl2">32</td>
-            <td class="sl3">19</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">198</li>
+                  <li class="sl1">24</li>
+                  <li class="sl2">32</li>
+                  <li class="sl3">19</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -1010,14 +1010,14 @@
             <td class="dname" colspan="2">nn_mirabilia_1500_0087.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">799</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">134</td>
-            <td class="sl2">161</td>
-            <td class="sl3">58</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">799</li>
+                  <li class="sl1">134</li>
+                  <li class="sl2">161</li>
+                  <li class="sl3">58</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -1135,14 +1135,14 @@
             <td class="dname" colspan="2">nn_mirabilia_1500_0019.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">798</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">125</td>
-            <td class="sl2">137</td>
-            <td class="sl3">39</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">798</li>
+                  <li class="sl1">125</li>
+                  <li class="sl2">137</li>
+                  <li class="sl3">39</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -1265,14 +1265,14 @@
             <td class="dname" colspan="2">nn_mirabilia_1500_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">303</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">46</td>
-            <td class="sl2">56</td>
-            <td class="sl3">19</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">303</li>
+                  <li class="sl1">46</li>
+                  <li class="sl2">56</li>
+                  <li class="sl3">19</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -1375,14 +1375,14 @@
             <td class="dname" colspan="2">hohberg_georgica01_1682_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2730</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">496</td>
-            <td class="sl2">591</td>
-            <td class="sl3">137</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2730</li>
+                  <li class="sl1">496</li>
+                  <li class="sl2">591</li>
+                  <li class="sl3">137</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -1575,14 +1575,14 @@
             <td class="dname" colspan="2">hohberg_georgica01_1682_0601.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">4688</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">844</td>
-            <td class="sl2">1082</td>
-            <td class="sl3">274</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">4688</li>
+                  <li class="sl1">844</li>
+                  <li class="sl2">1082</li>
+                  <li class="sl3">274</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -1760,14 +1760,14 @@
             <td class="dname" colspan="2">rollenhagen_reysen_1603_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">871</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">156</td>
-            <td class="sl2">185</td>
-            <td class="sl3">39</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">871</li>
+                  <li class="sl1">156</li>
+                  <li class="sl2">185</li>
+                  <li class="sl3">39</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -1885,14 +1885,14 @@
             <td class="dname" colspan="2">rollenhagen_reysen_1603_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">603</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">87</td>
-            <td class="sl2">107</td>
-            <td class="sl3">27</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">603</li>
+                  <li class="sl1">87</li>
+                  <li class="sl2">107</li>
+                  <li class="sl3">27</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -2015,14 +2015,14 @@
             <td class="dname" colspan="2">rollenhagen_reysen_1603_0012.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1118</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">213</td>
-            <td class="sl2">249</td>
-            <td class="sl3">60</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1118</li>
+                  <li class="sl1">213</li>
+                  <li class="sl2">249</li>
+                  <li class="sl3">60</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -2160,14 +2160,14 @@
             <td class="dname" colspan="2">pistoris_regiment_1506_0010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1602</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">334</td>
-            <td class="sl2">431</td>
-            <td class="sl3">102</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1602</li>
+                  <li class="sl1">334</li>
+                  <li class="sl2">431</li>
+                  <li class="sl3">102</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -2325,14 +2325,14 @@
             <td class="dname" colspan="2">pistoris_regiment_1506_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1152</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">206</td>
-            <td class="sl2">264</td>
-            <td class="sl3">81</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1152</li>
+                  <li class="sl1">206</li>
+                  <li class="sl2">264</li>
+                  <li class="sl3">81</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -2460,14 +2460,14 @@
             <td class="dname" colspan="2">pistoris_regiment_1506_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">961</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">136</td>
-            <td class="sl2">179</td>
-            <td class="sl3">58</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">961</li>
+                  <li class="sl1">136</li>
+                  <li class="sl2">179</li>
+                  <li class="sl3">58</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -2610,14 +2610,14 @@
             <td class="dname" colspan="2">nn_lied_1520_0006.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">652</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">103</td>
-            <td class="sl2">149</td>
-            <td class="sl3">53</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">652</li>
+                  <li class="sl1">103</li>
+                  <li class="sl2">149</li>
+                  <li class="sl3">53</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -2745,14 +2745,14 @@
             <td class="dname" colspan="2">nn_lied_1515_0006.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">796</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">130</td>
-            <td class="sl2">157</td>
-            <td class="sl3">49</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">796</li>
+                  <li class="sl1">130</li>
+                  <li class="sl2">157</li>
+                  <li class="sl3">49</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -2895,14 +2895,14 @@
             <td class="dname" colspan="2">buerger_gedichte_1778_0066.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">188</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">18</td>
-            <td class="sl2">23</td>
-            <td class="sl3">4</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">188</li>
+                  <li class="sl1">18</li>
+                  <li class="sl2">23</li>
+                  <li class="sl3">4</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -2975,14 +2975,14 @@
             <td class="dname" colspan="2">buerger_gedichte_1778_0039.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">760</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">148</td>
-            <td class="sl2">177</td>
-            <td class="sl3">52</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">760</li>
+                  <li class="sl1">148</li>
+                  <li class="sl2">177</li>
+                  <li class="sl3">52</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -3125,14 +3125,14 @@
             <td class="dname" colspan="2">osiander_predigt_1553_0008.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1216</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">236</td>
-            <td class="sl2">272</td>
-            <td class="sl3">65</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1216</li>
+                  <li class="sl1">236</li>
+                  <li class="sl2">272</li>
+                  <li class="sl3">65</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -3265,14 +3265,14 @@
             <td class="dname" colspan="2">osiander_predigt_1553_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">640</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">107</td>
-            <td class="sl2">134</td>
-            <td class="sl3">29</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">640</li>
+                  <li class="sl1">107</li>
+                  <li class="sl2">134</li>
+                  <li class="sl3">29</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -3390,14 +3390,14 @@
             <td class="dname" colspan="2">praetorius_syntagma02_1619_0031.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1053</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">120</td>
-            <td class="sl2">131</td>
-            <td class="sl3">41</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1053</li>
+                  <li class="sl1">120</li>
+                  <li class="sl2">131</li>
+                  <li class="sl3">41</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -3525,14 +3525,14 @@
             <td class="dname" colspan="2">praetorius_syntagma02_1619_0133.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2115</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">329</td>
-            <td class="sl2">391</td>
-            <td class="sl3">106</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2115</li>
+                  <li class="sl1">329</li>
+                  <li class="sl2">391</li>
+                  <li class="sl3">106</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -3695,14 +3695,14 @@
             <td class="dname" colspan="2">praetorius_syntagma02_1619_0132.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2227</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">361</td>
-            <td class="sl2">438</td>
-            <td class="sl3">102</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2227</li>
+                  <li class="sl1">361</li>
+                  <li class="sl2">438</li>
+                  <li class="sl3">102</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -3850,14 +3850,14 @@
             <td class="dname" colspan="2">praetorius_syntagma02_1619_0032.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">907</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">78</td>
-            <td class="sl2">81</td>
-            <td class="sl3">39</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">907</li>
+                  <li class="sl1">78</li>
+                  <li class="sl2">81</li>
+                  <li class="sl3">39</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -3980,14 +3980,14 @@
             <td class="dname" colspan="2">luz_blitz_1784_0027.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1503</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">245</td>
-            <td class="sl2">329</td>
-            <td class="sl3">79</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1503</li>
+                  <li class="sl1">245</li>
+                  <li class="sl2">329</li>
+                  <li class="sl3">79</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -4115,14 +4115,14 @@
             <td class="dname" colspan="2">luz_blitz_1784_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">231</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">16</td>
-            <td class="sl2">11</td>
-            <td class="sl3">0</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">231</li>
+                  <li class="sl1">16</li>
+                  <li class="sl2">11</li>
+                  <li class="sl3">0</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -4185,14 +4185,14 @@
             <td class="dname" colspan="2">luz_blitz_1784_0020.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1414</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">218</td>
-            <td class="sl2">257</td>
-            <td class="sl3">52</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1414</li>
+                  <li class="sl1">218</li>
+                  <li class="sl2">257</li>
+                  <li class="sl3">52</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -4315,14 +4315,14 @@
             <td class="dname" colspan="2">luz_blitz_1784_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">735</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">112</td>
-            <td class="sl2">159</td>
-            <td class="sl3">37</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">735</li>
+                  <li class="sl1">112</li>
+                  <li class="sl2">159</li>
+                  <li class="sl3">37</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -4450,14 +4450,14 @@
             <td class="dname" colspan="2">kistler_kraeuter_1500_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1010</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">156</td>
-            <td class="sl2">221</td>
-            <td class="sl3">82</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1010</li>
+                  <li class="sl1">156</li>
+                  <li class="sl2">221</li>
+                  <li class="sl3">82</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -4610,14 +4610,14 @@
             <td class="dname" colspan="2">kistler_kraeuter_1500_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1043</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">189</td>
-            <td class="sl2">266</td>
-            <td class="sl3">91</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1043</li>
+                  <li class="sl1">189</li>
+                  <li class="sl2">266</li>
+                  <li class="sl3">91</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -4745,14 +4745,14 @@
             <td class="dname" colspan="2">alberti_pictura_1540_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">839</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">91</td>
-            <td class="sl2">94</td>
-            <td class="sl3">36</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">839</li>
+                  <li class="sl1">91</li>
+                  <li class="sl2">94</li>
+                  <li class="sl3">36</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -4870,14 +4870,14 @@
             <td class="dname" colspan="2">alberti_pictura_1540_0008.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">831</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">112</td>
-            <td class="sl2">145</td>
-            <td class="sl3">48</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">831</li>
+                  <li class="sl1">112</li>
+                  <li class="sl2">145</li>
+                  <li class="sl3">48</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -4995,14 +4995,14 @@
             <td class="dname" colspan="2">alberti_pictura_1540_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">654</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">77</td>
-            <td class="sl2">86</td>
-            <td class="sl3">30</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">654</li>
+                  <li class="sl1">77</li>
+                  <li class="sl2">86</li>
+                  <li class="sl3">30</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -5130,14 +5130,14 @@
             <td class="dname" colspan="2">praetorius_verrichtung_1668_0109.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">898</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">118</td>
-            <td class="sl2">128</td>
-            <td class="sl3">35</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">898</li>
+                  <li class="sl1">118</li>
+                  <li class="sl2">128</li>
+                  <li class="sl3">35</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -5265,14 +5265,14 @@
             <td class="dname" colspan="2">praetorius_verrichtung_1668_0026.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1283</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">208</td>
-            <td class="sl2">268</td>
-            <td class="sl3">74</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1283</li>
+                  <li class="sl1">208</li>
+                  <li class="sl2">268</li>
+                  <li class="sl3">74</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -5425,14 +5425,14 @@
             <td class="dname" colspan="2">praetorius_verrichtung_1668_0108.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">967</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">171</td>
-            <td class="sl2">196</td>
-            <td class="sl3">40</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">967</li>
+                  <li class="sl1">171</li>
+                  <li class="sl2">196</li>
+                  <li class="sl3">40</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -5565,14 +5565,14 @@
             <td class="dname" colspan="2">praetorius_verrichtung_1668_0025.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">546</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">79</td>
-            <td class="sl2">97</td>
-            <td class="sl3">31</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">546</li>
+                  <li class="sl1">79</li>
+                  <li class="sl2">97</li>
+                  <li class="sl3">31</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -5690,14 +5690,14 @@
             <td class="dname" colspan="2">praetorius_verrichtung_1668_0110.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">929</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">149</td>
-            <td class="sl2">175</td>
-            <td class="sl3">44</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">929</li>
+                  <li class="sl1">149</li>
+                  <li class="sl2">175</li>
+                  <li class="sl3">44</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -5850,14 +5850,14 @@
             <td class="dname" colspan="2">valentinus_occulta_1603_0031.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">723</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">131</td>
-            <td class="sl2">149</td>
-            <td class="sl3">39</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">723</li>
+                  <li class="sl1">131</li>
+                  <li class="sl2">149</li>
+                  <li class="sl3">39</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -5990,14 +5990,14 @@
             <td class="dname" colspan="2">valentinus_occulta_1603_0033.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">864</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">154</td>
-            <td class="sl2">181</td>
-            <td class="sl3">37</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">864</li>
+                  <li class="sl1">154</li>
+                  <li class="sl2">181</li>
+                  <li class="sl3">37</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -6140,14 +6140,14 @@
             <td class="dname" colspan="2">valentinus_occulta_1603_0006.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">995</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">182</td>
-            <td class="sl2">205</td>
-            <td class="sl3">45</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">995</li>
+                  <li class="sl1">182</li>
+                  <li class="sl2">205</li>
+                  <li class="sl3">45</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -6270,14 +6270,14 @@
             <td class="dname" colspan="2">valentinus_occulta_1603_0032.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">849</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">165</td>
-            <td class="sl2">190</td>
-            <td class="sl3">41</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">849</li>
+                  <li class="sl1">165</li>
+                  <li class="sl2">190</li>
+                  <li class="sl3">41</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -6415,14 +6415,14 @@
             <td class="dname" colspan="2">valentinus_occulta_1603_0004.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">941</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">169</td>
-            <td class="sl2">208</td>
-            <td class="sl3">47</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">941</li>
+                  <li class="sl1">169</li>
+                  <li class="sl2">208</li>
+                  <li class="sl3">47</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -6560,14 +6560,14 @@
             <td class="dname" colspan="2">valentinus_occulta_1603_0005.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">846</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">138</td>
-            <td class="sl2">164</td>
-            <td class="sl3">38</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">846</li>
+                  <li class="sl1">138</li>
+                  <li class="sl2">164</li>
+                  <li class="sl3">38</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -6690,14 +6690,14 @@
             <td class="dname" colspan="2">loeber_heuschrecken_1693_0005.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">911</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">164</td>
-            <td class="sl2">205</td>
-            <td class="sl3">46</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">911</li>
+                  <li class="sl1">164</li>
+                  <li class="sl2">205</li>
+                  <li class="sl3">46</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -6835,14 +6835,14 @@
             <td class="dname" colspan="2">loeber_heuschrecken_1693_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1477</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">270</td>
-            <td class="sl2">341</td>
-            <td class="sl3">84</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1477</li>
+                  <li class="sl1">270</li>
+                  <li class="sl2">341</li>
+                  <li class="sl3">84</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -6995,14 +6995,14 @@
             <td class="dname" colspan="2">loeber_heuschrecken_1693_0046.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">836</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">127</td>
-            <td class="sl2">168</td>
-            <td class="sl3">44</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">836</li>
+                  <li class="sl1">127</li>
+                  <li class="sl2">168</li>
+                  <li class="sl3">44</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -7135,14 +7135,14 @@
             <td class="dname" colspan="2">reinkingk_policey_1653_0151.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2248</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">389</td>
-            <td class="sl2">459</td>
-            <td class="sl3">114</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2248</li>
+                  <li class="sl1">389</li>
+                  <li class="sl2">459</li>
+                  <li class="sl3">114</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -7300,14 +7300,14 @@
             <td class="dname" colspan="2">reinkingk_policey_1653_0144.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1823</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">263</td>
-            <td class="sl2">333</td>
-            <td class="sl3">93</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1823</li>
+                  <li class="sl1">263</li>
+                  <li class="sl2">333</li>
+                  <li class="sl3">93</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -7455,14 +7455,14 @@
             <td class="dname" colspan="2">aepinus_bekentnis_1548_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1386</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">232</td>
-            <td class="sl2">293</td>
-            <td class="sl3">72</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1386</li>
+                  <li class="sl1">232</li>
+                  <li class="sl2">293</li>
+                  <li class="sl3">72</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -7600,14 +7600,14 @@
             <td class="dname" colspan="2">aepinus_bekentnis_1548_0020.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">588</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">73</td>
-            <td class="sl2">91</td>
-            <td class="sl3">20</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">588</li>
+                  <li class="sl1">73</li>
+                  <li class="sl2">91</li>
+                  <li class="sl3">20</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -7725,14 +7725,14 @@
             <td class="dname" colspan="2">aepinus_bekentnis_1548_0006.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">888</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">129</td>
-            <td class="sl2">168</td>
-            <td class="sl3">45</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">888</li>
+                  <li class="sl1">129</li>
+                  <li class="sl2">168</li>
+                  <li class="sl3">45</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -7865,14 +7865,14 @@
             <td class="dname" colspan="2">aepinus_bekentnis_1548_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1208</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">169</td>
-            <td class="sl2">234</td>
-            <td class="sl3">57</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1208</li>
+                  <li class="sl1">169</li>
+                  <li class="sl2">234</li>
+                  <li class="sl3">57</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -8000,14 +8000,14 @@
             <td class="dname" colspan="2">nn_besuch_1780_00002.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">749</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">105</td>
-            <td class="sl2">153</td>
-            <td class="sl3">39</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">749</li>
+                  <li class="sl1">105</li>
+                  <li class="sl2">153</li>
+                  <li class="sl3">39</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -8130,14 +8130,14 @@
             <td class="dname" colspan="2">nn_besuch_1780_00001.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">264</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">45</td>
-            <td class="sl2">54</td>
-            <td class="sl3">13</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">264</li>
+                  <li class="sl1">45</li>
+                  <li class="sl2">54</li>
+                  <li class="sl3">13</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -8235,14 +8235,14 @@
             <td class="dname" colspan="2">nn_besuch_1780_00003.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">767</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">115</td>
-            <td class="sl2">165</td>
-            <td class="sl3">45</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">767</li>
+                  <li class="sl1">115</li>
+                  <li class="sl2">165</li>
+                  <li class="sl3">45</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -8365,14 +8365,14 @@
             <td class="dname" colspan="2">nn_besuch_1780_00004.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">418</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">66</td>
-            <td class="sl2">96</td>
-            <td class="sl3">21</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">418</li>
+                  <li class="sl1">66</li>
+                  <li class="sl2">96</li>
+                  <li class="sl3">21</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -8480,14 +8480,14 @@
             <td class="dname" colspan="2">reinkingk_policey_1653_0016.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1664</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">306</td>
-            <td class="sl2">348</td>
-            <td class="sl3">88</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1664</li>
+                  <li class="sl1">306</li>
+                  <li class="sl2">348</li>
+                  <li class="sl3">88</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -8650,14 +8650,14 @@
             <td class="dname" colspan="2">reinkingk_policey_1653_0017.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1488</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">219</td>
-            <td class="sl2">254</td>
-            <td class="sl3">68</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1488</li>
+                  <li class="sl1">219</li>
+                  <li class="sl2">254</li>
+                  <li class="sl3">68</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -8815,14 +8815,14 @@
             <td class="dname" colspan="2">reinkingk_policey_1653_0139.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1398</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">216</td>
-            <td class="sl2">287</td>
-            <td class="sl3">77</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1398</li>
+                  <li class="sl1">216</li>
+                  <li class="sl2">287</li>
+                  <li class="sl3">77</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -8960,14 +8960,14 @@
             <td class="dname" colspan="2">bebel_frau_1879_0146.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2642</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">501</td>
-            <td class="sl2">340</td>
-            <td class="sl3">45</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2642</li>
+                  <li class="sl1">501</li>
+                  <li class="sl2">340</li>
+                  <li class="sl3">45</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -9105,14 +9105,14 @@
             <td class="dname" colspan="2">bebel_frau_1879_0176.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2776</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">537</td>
-            <td class="sl2">389</td>
-            <td class="sl3">64</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2776</li>
+                  <li class="sl1">537</li>
+                  <li class="sl2">389</li>
+                  <li class="sl3">64</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -9250,14 +9250,14 @@
             <td class="dname" colspan="2">bebel_frau_1879_0168.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">3179</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">560</td>
-            <td class="sl2">369</td>
-            <td class="sl3">60</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">3179</li>
+                  <li class="sl1">560</li>
+                  <li class="sl2">369</li>
+                  <li class="sl3">60</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -9385,14 +9385,14 @@
             <td class="dname" colspan="2">bebel_frau_1879_0186.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">358</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">77</td>
-            <td class="sl2">55</td>
-            <td class="sl3">8</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">358</li>
+                  <li class="sl1">77</li>
+                  <li class="sl2">55</li>
+                  <li class="sl3">8</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -9490,14 +9490,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0041.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">770</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">124</td>
-            <td class="sl2">132</td>
-            <td class="sl3">48</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">770</li>
+                  <li class="sl1">124</li>
+                  <li class="sl2">132</li>
+                  <li class="sl3">48</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -9620,14 +9620,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0040.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">823</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">131</td>
-            <td class="sl2">139</td>
-            <td class="sl3">43</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">823</li>
+                  <li class="sl1">131</li>
+                  <li class="sl2">139</li>
+                  <li class="sl3">43</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -9770,14 +9770,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0038.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">649</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">108</td>
-            <td class="sl2">114</td>
-            <td class="sl3">40</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">649</li>
+                  <li class="sl1">108</li>
+                  <li class="sl2">114</li>
+                  <li class="sl3">40</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -9915,14 +9915,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0050.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">787</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">146</td>
-            <td class="sl2">135</td>
-            <td class="sl3">33</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">787</li>
+                  <li class="sl1">146</li>
+                  <li class="sl2">135</li>
+                  <li class="sl3">33</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -10067,14 +10067,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0122.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">669</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">108</td>
-            <td class="sl2">139</td>
-            <td class="sl3">38</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">669</li>
+                  <li class="sl1">108</li>
+                  <li class="sl2">139</li>
+                  <li class="sl3">38</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -10212,14 +10212,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0146.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">823</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">139</td>
-            <td class="sl2">166</td>
-            <td class="sl3">52</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">823</li>
+                  <li class="sl1">139</li>
+                  <li class="sl2">166</li>
+                  <li class="sl3">52</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -10342,14 +10342,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0023.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">628</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">105</td>
-            <td class="sl2">130</td>
-            <td class="sl3">50</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">628</li>
+                  <li class="sl1">105</li>
+                  <li class="sl2">130</li>
+                  <li class="sl3">50</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -10482,14 +10482,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0031.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">618</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">116</td>
-            <td class="sl2">136</td>
-            <td class="sl3">35</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">618</li>
+                  <li class="sl1">116</li>
+                  <li class="sl2">136</li>
+                  <li class="sl3">35</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -10622,14 +10622,14 @@
             <td class="dname" colspan="2">clauren_mimil_1815_0043.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">636</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">96</td>
-            <td class="sl2">89</td>
-            <td class="sl3">32</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">636</li>
+                  <li class="sl1">96</li>
+                  <li class="sl2">89</li>
+                  <li class="sl3">32</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -10769,14 +10769,14 @@
             <td class="dname" colspan="2">boeschenstain_gedicht_1520_0002.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2623</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">484</td>
-            <td class="sl2">598</td>
-            <td class="sl3">144</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2623</li>
+                  <li class="sl1">484</li>
+                  <li class="sl2">598</li>
+                  <li class="sl3">144</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -10949,14 +10949,14 @@
             <td class="dname" colspan="2">silesius_seelenlust01_1657_0010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">483</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">89</td>
-            <td class="sl2">114</td>
-            <td class="sl3">29</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">483</li>
+                  <li class="sl1">89</li>
+                  <li class="sl2">114</li>
+                  <li class="sl3">29</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -11079,14 +11079,14 @@
             <td class="dname" colspan="2">silesius_seelenlust01_1657_0423.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">601</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">90</td>
-            <td class="sl2">119</td>
-            <td class="sl3">30</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">601</li>
+                  <li class="sl1">90</li>
+                  <li class="sl2">119</li>
+                  <li class="sl3">30</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -11219,14 +11219,14 @@
             <td class="dname" colspan="2">silesius_seelenlust01_1657_0022.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">546</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">80</td>
-            <td class="sl2">120</td>
-            <td class="sl3">32</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">546</li>
+                  <li class="sl1">80</li>
+                  <li class="sl2">120</li>
+                  <li class="sl3">32</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -11339,14 +11339,14 @@
             <td class="dname" colspan="2">silesius_seelenlust01_1657_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">453</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">65</td>
-            <td class="sl2">98</td>
-            <td class="sl3">22</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">453</li>
+                  <li class="sl1">65</li>
+                  <li class="sl2">98</li>
+                  <li class="sl3">22</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -11459,14 +11459,14 @@
             <td class="dname" colspan="2">silesius_seelenlust01_1657_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">352</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">63</td>
-            <td class="sl2">92</td>
-            <td class="sl3">24</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">352</li>
+                  <li class="sl1">63</li>
+                  <li class="sl2">92</li>
+                  <li class="sl3">24</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -11584,14 +11584,14 @@
             <td class="dname" colspan="2">karlstadt_sermon_1523_0006.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1587</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">296</td>
-            <td class="sl2">370</td>
-            <td class="sl3">99</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1587</li>
+                  <li class="sl1">296</li>
+                  <li class="sl2">370</li>
+                  <li class="sl3">99</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -11744,14 +11744,14 @@
             <td class="dname" colspan="2">karlstadt_sermon_1523_0020.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1637</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">287</td>
-            <td class="sl2">340</td>
-            <td class="sl3">94</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1637</li>
+                  <li class="sl1">287</li>
+                  <li class="sl2">340</li>
+                  <li class="sl3">94</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -11899,14 +11899,14 @@
             <td class="dname" colspan="2">blumenbach_anatomie_1805_0048.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">800</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">151</td>
-            <td class="sl2">110</td>
-            <td class="sl3">19</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">800</li>
+                  <li class="sl1">151</li>
+                  <li class="sl2">110</li>
+                  <li class="sl3">19</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -12034,14 +12034,14 @@
             <td class="dname" colspan="2">blumenbach_anatomie_1805_0049.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">718</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">104</td>
-            <td class="sl2">67</td>
-            <td class="sl3">18</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">718</li>
+                  <li class="sl1">104</li>
+                  <li class="sl2">67</li>
+                  <li class="sl3">18</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -12159,14 +12159,14 @@
             <td class="dname" colspan="2">blumenbach_anatomie_1805_0047.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">792</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">130</td>
-            <td class="sl2">94</td>
-            <td class="sl3">15</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">792</li>
+                  <li class="sl1">130</li>
+                  <li class="sl2">94</li>
+                  <li class="sl3">15</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -12284,14 +12284,14 @@
             <td class="dname" colspan="2">vespucci_insule_1506_0019.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1215</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">215</td>
-            <td class="sl2">353</td>
-            <td class="sl3">122</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1215</li>
+                  <li class="sl1">215</li>
+                  <li class="sl2">353</li>
+                  <li class="sl3">122</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -12419,14 +12419,14 @@
             <td class="dname" colspan="2">vespucci_insule_1506_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1348</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">190</td>
-            <td class="sl2">236</td>
-            <td class="sl3">78</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1348</li>
+                  <li class="sl1">190</li>
+                  <li class="sl2">236</li>
+                  <li class="sl3">78</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -12589,14 +12589,14 @@
             <td class="dname" colspan="2">bernd_lebensbeschreibung_1738_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">435</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">63</td>
-            <td class="sl2">77</td>
-            <td class="sl3">15</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">435</li>
+                  <li class="sl1">63</li>
+                  <li class="sl2">77</li>
+                  <li class="sl3">15</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -12709,14 +12709,14 @@
             <td class="dname" colspan="2">bernd_lebensbeschreibung_1738_0066.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1092</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">198</td>
-            <td class="sl2">210</td>
-            <td class="sl3">42</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1092</li>
+                  <li class="sl1">198</li>
+                  <li class="sl2">210</li>
+                  <li class="sl3">42</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -12844,14 +12844,14 @@
             <td class="dname" colspan="2">bernd_lebensbeschreibung_1738_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">550</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">83</td>
-            <td class="sl2">102</td>
-            <td class="sl3">27</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">550</li>
+                  <li class="sl1">83</li>
+                  <li class="sl2">102</li>
+                  <li class="sl3">27</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -12969,14 +12969,14 @@
             <td class="dname" colspan="2">petrarca_psalmi_1506_0012.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">921</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">94</td>
-            <td class="sl2">106</td>
-            <td class="sl3">59</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">921</li>
+                  <li class="sl1">94</li>
+                  <li class="sl2">106</li>
+                  <li class="sl3">59</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -13079,14 +13079,14 @@
             <td class="dname" colspan="2">petrarca_psalmi_1506_0010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1432</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">152</td>
-            <td class="sl2">170</td>
-            <td class="sl3">100</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1432</li>
+                  <li class="sl1">152</li>
+                  <li class="sl2">170</li>
+                  <li class="sl3">100</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -13219,14 +13219,14 @@
             <td class="dname" colspan="2">petrarca_psalmi_1506_0016.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">137</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">28</td>
-            <td class="sl2">32</td>
-            <td class="sl3">10</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">137</li>
+                  <li class="sl1">28</li>
+                  <li class="sl2">32</li>
+                  <li class="sl3">10</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -13289,14 +13289,14 @@
             <td class="dname" colspan="2">glauber_opera01_1658_0072.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2491</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">369</td>
-            <td class="sl2">456</td>
-            <td class="sl3">110</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2491</li>
+                  <li class="sl1">369</li>
+                  <li class="sl2">456</li>
+                  <li class="sl3">110</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -13439,14 +13439,14 @@
             <td class="dname" colspan="2">glauber_opera01_1658_0078.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2787</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">429</td>
-            <td class="sl2">524</td>
-            <td class="sl3">127</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2787</li>
+                  <li class="sl1">429</li>
+                  <li class="sl2">524</li>
+                  <li class="sl3">127</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -13599,14 +13599,14 @@
             <td class="dname" colspan="2">glauber_opera01_1658_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1791</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">244</td>
-            <td class="sl2">311</td>
-            <td class="sl3">86</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1791</li>
+                  <li class="sl1">244</li>
+                  <li class="sl2">311</li>
+                  <li class="sl3">86</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -13754,14 +13754,14 @@
             <td class="dname" colspan="2">glauber_opera01_1658_0029.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1182</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">182</td>
-            <td class="sl2">235</td>
-            <td class="sl3">49</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1182</li>
+                  <li class="sl1">182</li>
+                  <li class="sl2">235</li>
+                  <li class="sl3">49</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -13894,14 +13894,14 @@
             <td class="dname" colspan="2">glauber_opera01_1658_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1554</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">182</td>
-            <td class="sl2">202</td>
-            <td class="sl3">47</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1554</li>
+                  <li class="sl1">182</li>
+                  <li class="sl2">202</li>
+                  <li class="sl3">47</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -14044,14 +14044,14 @@
             <td class="dname" colspan="2">glauber_opera01_1658_0032.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1954</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">308</td>
-            <td class="sl2">430</td>
-            <td class="sl3">102</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1954</li>
+                  <li class="sl1">308</li>
+                  <li class="sl2">430</li>
+                  <li class="sl3">102</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -14194,14 +14194,14 @@
             <td class="dname" colspan="2">ballenstedt_delatio_1777_00010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1602</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">125</td>
-            <td class="sl2">101</td>
-            <td class="sl3">3</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1602</li>
+                  <li class="sl1">125</li>
+                  <li class="sl2">101</li>
+                  <li class="sl3">3</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -14314,14 +14314,14 @@
             <td class="dname" colspan="2">ballenstedt_delatio_1777_00003.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1509</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">142</td>
-            <td class="sl2">140</td>
-            <td class="sl3">45</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1509</li>
+                  <li class="sl1">142</li>
+                  <li class="sl2">140</li>
+                  <li class="sl3">45</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -14436,14 +14436,14 @@
             <td class="dname" colspan="2">ballenstedt_delatio_1777_00005.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1457</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">159</td>
-            <td class="sl2">180</td>
-            <td class="sl3">64</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1457</li>
+                  <li class="sl1">159</li>
+                  <li class="sl2">180</li>
+                  <li class="sl3">64</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -14541,14 +14541,14 @@
             <td class="dname" colspan="2">pinder_epiphanie_1506_0041.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1963</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">157</td>
-            <td class="sl2">238</td>
-            <td class="sl3">129</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1963</li>
+                  <li class="sl1">157</li>
+                  <li class="sl2">238</li>
+                  <li class="sl3">129</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -14671,14 +14671,14 @@
             <td class="dname" colspan="2">pinder_epiphanie_1506_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1521</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">161</td>
-            <td class="sl2">218</td>
-            <td class="sl3">117</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1521</li>
+                  <li class="sl1">161</li>
+                  <li class="sl2">218</li>
+                  <li class="sl3">117</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -14801,14 +14801,14 @@
             <td class="dname" colspan="2">pinder_epiphanie_1506_0010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1879</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">221</td>
-            <td class="sl2">283</td>
-            <td class="sl3">132</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1879</li>
+                  <li class="sl1">221</li>
+                  <li class="sl2">283</li>
+                  <li class="sl3">132</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -14951,14 +14951,14 @@
             <td class="dname" colspan="2">pinder_epiphanie_1506_0045.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2035</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">201</td>
-            <td class="sl2">275</td>
-            <td class="sl3">138</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2035</li>
+                  <li class="sl1">201</li>
+                  <li class="sl2">275</li>
+                  <li class="sl3">138</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -15081,14 +15081,14 @@
             <td class="dname" colspan="2">bohse_helicon_1696_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">738</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">98</td>
-            <td class="sl2">116</td>
-            <td class="sl3">35</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">738</li>
+                  <li class="sl1">98</li>
+                  <li class="sl2">116</li>
+                  <li class="sl3">35</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -15246,14 +15246,14 @@
             <td class="dname" colspan="2">bohse_helicon_1696_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">321</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">56</td>
-            <td class="sl2">76</td>
-            <td class="sl3">19</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">321</li>
+                  <li class="sl1">56</li>
+                  <li class="sl2">76</li>
+                  <li class="sl3">19</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -15346,14 +15346,14 @@
             <td class="dname" colspan="2">bohse_helicon_1696_0036.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1258</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">194</td>
-            <td class="sl2">223</td>
-            <td class="sl3">63</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1258</li>
+                  <li class="sl1">194</li>
+                  <li class="sl2">223</li>
+                  <li class="sl3">63</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -15491,14 +15491,14 @@
             <td class="dname" colspan="2">bohse_helicon_1696_0022.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">640</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">103</td>
-            <td class="sl2">111</td>
-            <td class="sl3">25</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">640</li>
+                  <li class="sl1">103</li>
+                  <li class="sl2">111</li>
+                  <li class="sl3">25</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -15621,14 +15621,14 @@
             <td class="dname" colspan="2">bohse_helicon_1696_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">346</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">69</td>
-            <td class="sl2">90</td>
-            <td class="sl3">20</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">346</li>
+                  <li class="sl1">69</li>
+                  <li class="sl2">90</li>
+                  <li class="sl3">20</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -15736,14 +15736,14 @@
             <td class="dname" colspan="2">lessing_menschengeschlecht_1780_0084.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">342</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">52</td>
-            <td class="sl2">59</td>
-            <td class="sl3">17</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">342</li>
+                  <li class="sl1">52</li>
+                  <li class="sl2">59</li>
+                  <li class="sl3">17</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -15851,14 +15851,14 @@
             <td class="dname" colspan="2">luther_babstum_1526_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">494</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">87</td>
-            <td class="sl2">119</td>
-            <td class="sl3">32</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">494</li>
+                  <li class="sl1">87</li>
+                  <li class="sl2">119</li>
+                  <li class="sl3">32</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -15986,14 +15986,14 @@
             <td class="dname" colspan="2">luther_babstum_1526_0010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">864</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">164</td>
-            <td class="sl2">218</td>
-            <td class="sl3">58</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">864</li>
+                  <li class="sl1">164</li>
+                  <li class="sl2">218</li>
+                  <li class="sl3">58</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -16116,14 +16116,14 @@
             <td class="dname" colspan="2">wecker_kochbuch_1598_0029.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1666</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">345</td>
-            <td class="sl2">439</td>
-            <td class="sl3">103</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1666</li>
+                  <li class="sl1">345</li>
+                  <li class="sl2">439</li>
+                  <li class="sl3">103</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -16276,14 +16276,14 @@
             <td class="dname" colspan="2">wecker_kochbuch_1598_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1446</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">244</td>
-            <td class="sl2">328</td>
-            <td class="sl3">79</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1446</li>
+                  <li class="sl1">244</li>
+                  <li class="sl2">328</li>
+                  <li class="sl3">79</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -16426,14 +16426,14 @@
             <td class="dname" colspan="2">wecker_kochbuch_1598_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2897</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">440</td>
-            <td class="sl2">566</td>
-            <td class="sl3">131</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2897</li>
+                  <li class="sl1">440</li>
+                  <li class="sl2">566</li>
+                  <li class="sl3">131</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -16576,14 +16576,14 @@
             <td class="dname" colspan="2">wecker_kochbuch_1598_0017.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1660</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">305</td>
-            <td class="sl2">360</td>
-            <td class="sl3">102</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1660</li>
+                  <li class="sl1">305</li>
+                  <li class="sl2">360</li>
+                  <li class="sl3">102</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -16736,14 +16736,14 @@
             <td class="dname" colspan="2">huebner_handbuch_1696_0005.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">277</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">63</td>
-            <td class="sl2">79</td>
-            <td class="sl3">18</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">277</li>
+                  <li class="sl1">63</li>
+                  <li class="sl2">79</li>
+                  <li class="sl3">18</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -16856,14 +16856,14 @@
             <td class="dname" colspan="2">huebner_handbuch_1696_0015.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">551</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">96</td>
-            <td class="sl2">111</td>
-            <td class="sl3">20</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">551</li>
+                  <li class="sl1">96</li>
+                  <li class="sl2">111</li>
+                  <li class="sl3">20</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -16981,14 +16981,14 @@
             <td class="dname" colspan="2">huebner_handbuch_1696_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">910</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">150</td>
-            <td class="sl2">189</td>
-            <td class="sl3">43</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">910</li>
+                  <li class="sl1">150</li>
+                  <li class="sl2">189</li>
+                  <li class="sl3">43</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -17116,14 +17116,14 @@
             <td class="dname" colspan="2">nn_vertrag_1525_0005.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">116</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">19</td>
-            <td class="sl2">17</td>
-            <td class="sl3">6</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">116</li>
+                  <li class="sl1">19</li>
+                  <li class="sl2">17</li>
+                  <li class="sl3">6</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -17208,14 +17208,14 @@
             <td class="dname" colspan="2">nn_vertrag_1525_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1076</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">169</td>
-            <td class="sl2">236</td>
-            <td class="sl3">82</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1076</li>
+                  <li class="sl1">169</li>
+                  <li class="sl2">236</li>
+                  <li class="sl3">82</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -17378,14 +17378,14 @@
             <td class="dname" colspan="2">aventinus_grammatica_1515_0008.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1246</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">127</td>
-            <td class="sl2">148</td>
-            <td class="sl3">56</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1246</li>
+                  <li class="sl1">127</li>
+                  <li class="sl2">148</li>
+                  <li class="sl3">56</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -17518,14 +17518,14 @@
             <td class="dname" colspan="2">aventinus_grammatica_1515_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">679</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">80</td>
-            <td class="sl2">93</td>
-            <td class="sl3">28</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">679</li>
+                  <li class="sl1">80</li>
+                  <li class="sl2">93</li>
+                  <li class="sl3">28</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -17653,14 +17653,14 @@
             <td class="dname" colspan="2">aventinus_grammatica_1515_0006.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1472</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">160</td>
-            <td class="sl2">183</td>
-            <td class="sl3">93</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1472</li>
+                  <li class="sl1">160</li>
+                  <li class="sl2">183</li>
+                  <li class="sl3">93</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -17793,14 +17793,14 @@
             <td class="dname" colspan="2">oesterreicher_sachsen_1548_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">748</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">169</td>
-            <td class="sl2">196</td>
-            <td class="sl3">35</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">748</li>
+                  <li class="sl1">169</li>
+                  <li class="sl2">196</li>
+                  <li class="sl3">35</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -17938,14 +17938,14 @@
             <td class="dname" colspan="2">oesterreicher_sachsen_1548_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">641</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">122</td>
-            <td class="sl2">152</td>
-            <td class="sl3">33</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">641</li>
+                  <li class="sl1">122</li>
+                  <li class="sl2">152</li>
+                  <li class="sl3">33</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -18068,14 +18068,14 @@
             <td class="dname" colspan="2">benner_herrnhuterey04_1748_0014.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1097</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">185</td>
-            <td class="sl2">241</td>
-            <td class="sl3">57</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1097</li>
+                  <li class="sl1">185</li>
+                  <li class="sl2">241</li>
+                  <li class="sl3">57</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -18208,14 +18208,14 @@
             <td class="dname" colspan="2">benner_herrnhuterey04_1748_0015.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1025</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">170</td>
-            <td class="sl2">224</td>
-            <td class="sl3">56</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1025</li>
+                  <li class="sl1">170</li>
+                  <li class="sl2">224</li>
+                  <li class="sl3">56</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -18338,14 +18338,14 @@
             <td class="dname" colspan="2">benner_herrnhuterey04_1748_0016.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1043</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">144</td>
-            <td class="sl2">171</td>
-            <td class="sl3">46</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1043</li>
+                  <li class="sl1">144</li>
+                  <li class="sl2">171</li>
+                  <li class="sl3">46</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -18468,14 +18468,14 @@
             <td class="dname" colspan="2">benner_herrnhuterey04_1748_0013.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">769</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">166</td>
-            <td class="sl2">188</td>
-            <td class="sl3">42</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">769</li>
+                  <li class="sl1">166</li>
+                  <li class="sl2">188</li>
+                  <li class="sl3">42</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -18593,14 +18593,14 @@
             <td class="dname" colspan="2">weigel_gnothi02_1618_0004.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1280</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">245</td>
-            <td class="sl2">280</td>
-            <td class="sl3">78</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1280</li>
+                  <li class="sl1">245</li>
+                  <li class="sl2">280</li>
+                  <li class="sl3">78</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -18758,14 +18758,14 @@
             <td class="dname" colspan="2">weigel_gnothi02_1618_0003.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">917</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">154</td>
-            <td class="sl2">165</td>
-            <td class="sl3">42</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">917</li>
+                  <li class="sl1">154</li>
+                  <li class="sl2">165</li>
+                  <li class="sl3">42</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -18928,14 +18928,14 @@
             <td class="dname" colspan="2">weigel_gnothi02_1618_0112.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1206</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">224</td>
-            <td class="sl2">247</td>
-            <td class="sl3">65</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1206</li>
+                  <li class="sl1">224</li>
+                  <li class="sl2">247</li>
+                  <li class="sl3">65</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -19063,14 +19063,14 @@
             <td class="dname" colspan="2">weigel_gnothi02_1618_0016.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1222</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">222</td>
-            <td class="sl2">255</td>
-            <td class="sl3">57</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1222</li>
+                  <li class="sl1">222</li>
+                  <li class="sl2">255</li>
+                  <li class="sl3">57</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -19213,14 +19213,14 @@
             <td class="dname" colspan="2">witzstat_buchszbaum_1540_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">665</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">151</td>
-            <td class="sl2">166</td>
-            <td class="sl3">29</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">665</li>
+                  <li class="sl1">151</li>
+                  <li class="sl2">166</li>
+                  <li class="sl3">29</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -19348,14 +19348,14 @@
             <td class="dname" colspan="2">witzstat_buchszbaum_1540_0018.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">614</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">117</td>
-            <td class="sl2">149</td>
-            <td class="sl3">37</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">614</li>
+                  <li class="sl1">117</li>
+                  <li class="sl2">149</li>
+                  <li class="sl3">37</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -19473,14 +19473,14 @@
             <td class="dname" colspan="2">gerstner_mechaniktafeln01_1831_0019.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">24</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">0</td>
-            <td class="sl2">0</td>
-            <td class="sl3">0</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">24</li>
+                  <li class="sl1">0</li>
+                  <li class="sl2">0</li>
+                  <li class="sl3">0</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -19518,14 +19518,14 @@
             <td class="dname" colspan="2">trota_mordtbrenner_1540_0013.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">526</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">77</td>
-            <td class="sl2">84</td>
-            <td class="sl3">21</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">526</li>
+                  <li class="sl1">77</li>
+                  <li class="sl2">84</li>
+                  <li class="sl3">21</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -19643,14 +19643,14 @@
             <td class="dname" colspan="2">trota_mordtbrenner_1540_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">552</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">80</td>
-            <td class="sl2">95</td>
-            <td class="sl3">17</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">552</li>
+                  <li class="sl1">80</li>
+                  <li class="sl2">95</li>
+                  <li class="sl3">17</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -19763,14 +19763,14 @@
             <td class="dname" colspan="2">hohberg_georgica01_1682_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1564</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">274</td>
-            <td class="sl2">347</td>
-            <td class="sl3">75</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1564</li>
+                  <li class="sl1">274</li>
+                  <li class="sl2">347</li>
+                  <li class="sl3">75</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -19923,14 +19923,14 @@
             <td class="dname" colspan="2">hohberg_georgica01_1682_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1651</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">309</td>
-            <td class="sl2">397</td>
-            <td class="sl3">93</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1651</li>
+                  <li class="sl1">309</li>
+                  <li class="sl2">397</li>
+                  <li class="sl3">93</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -20083,14 +20083,14 @@
             <td class="dname" colspan="2">dannhauer_catechismus10_1673_0121.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2102</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">341</td>
-            <td class="sl2">417</td>
-            <td class="sl3">102</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2102</li>
+                  <li class="sl1">341</li>
+                  <li class="sl2">417</li>
+                  <li class="sl3">102</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -20248,14 +20248,14 @@
             <td class="dname" colspan="2">dannhauer_catechismus10_1673_0113.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1552</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">255</td>
-            <td class="sl2">359</td>
-            <td class="sl3">97</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1552</li>
+                  <li class="sl1">255</li>
+                  <li class="sl2">359</li>
+                  <li class="sl3">97</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -20393,14 +20393,14 @@
             <td class="dname" colspan="2">dannhauer_catechismus10_1673_0016.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1493</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">205</td>
-            <td class="sl2">291</td>
-            <td class="sl3">79</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1493</li>
+                  <li class="sl1">205</li>
+                  <li class="sl2">291</li>
+                  <li class="sl3">79</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -20543,14 +20543,14 @@
             <td class="dname" colspan="2">dannhauer_catechismus10_1673_0108.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2276</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">350</td>
-            <td class="sl2">472</td>
-            <td class="sl3">117</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2276</li>
+                  <li class="sl1">350</li>
+                  <li class="sl2">472</li>
+                  <li class="sl3">117</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -20753,14 +20753,14 @@
             <td class="dname" colspan="2">calvi_beutelschneider01_1627_0020.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">980</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">191</td>
-            <td class="sl2">216</td>
-            <td class="sl3">52</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">980</li>
+                  <li class="sl1">191</li>
+                  <li class="sl2">216</li>
+                  <li class="sl3">52</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -20918,14 +20918,14 @@
             <td class="dname" colspan="2">calvi_beutelschneider01_1627_0013.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">726</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">139</td>
-            <td class="sl2">172</td>
-            <td class="sl3">44</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">726</li>
+                  <li class="sl1">139</li>
+                  <li class="sl2">172</li>
+                  <li class="sl3">44</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -21058,14 +21058,14 @@
             <td class="dname" colspan="2">calvi_beutelschneider01_1627_0010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">802</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">141</td>
-            <td class="sl2">156</td>
-            <td class="sl3">42</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">802</li>
+                  <li class="sl1">141</li>
+                  <li class="sl2">156</li>
+                  <li class="sl3">42</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -21188,14 +21188,14 @@
             <td class="dname" colspan="2">lohenstein_agrippina_1665_0019.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">921</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">139</td>
-            <td class="sl2">211</td>
-            <td class="sl3">71</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">921</li>
+                  <li class="sl1">139</li>
+                  <li class="sl2">211</li>
+                  <li class="sl3">71</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -21323,14 +21323,14 @@
             <td class="dname" colspan="2">lohenstein_agrippina_1665_0018.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1011</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">159</td>
-            <td class="sl2">174</td>
-            <td class="sl3">41</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1011</li>
+                  <li class="sl1">159</li>
+                  <li class="sl2">174</li>
+                  <li class="sl3">41</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -21453,14 +21453,14 @@
             <td class="dname" colspan="2">lohenstein_agrippina_1665_0121.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1291</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">265</td>
-            <td class="sl2">361</td>
-            <td class="sl3">94</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1291</li>
+                  <li class="sl1">265</li>
+                  <li class="sl2">361</li>
+                  <li class="sl3">94</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -21593,14 +21593,14 @@
             <td class="dname" colspan="2">meyfart_rhetorica_1634_0022.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">920</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">194</td>
-            <td class="sl2">230</td>
-            <td class="sl3">47</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">920</li>
+                  <li class="sl1">194</li>
+                  <li class="sl2">230</li>
+                  <li class="sl3">47</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -21728,14 +21728,14 @@
             <td class="dname" colspan="2">meyfart_rhetorica_1634_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">549</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">84</td>
-            <td class="sl2">119</td>
-            <td class="sl3">30</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">549</li>
+                  <li class="sl1">84</li>
+                  <li class="sl2">119</li>
+                  <li class="sl3">30</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -21838,14 +21838,14 @@
             <td class="dname" colspan="2">meyfart_rhetorica_1634_0122.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">717</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">118</td>
-            <td class="sl2">153</td>
-            <td class="sl3">39</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">717</li>
+                  <li class="sl1">118</li>
+                  <li class="sl2">153</li>
+                  <li class="sl3">39</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -21963,14 +21963,14 @@
             <td class="dname" colspan="2">meyfart_rhetorica_1634_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">362</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">44</td>
-            <td class="sl2">60</td>
-            <td class="sl3">17</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">362</li>
+                  <li class="sl1">44</li>
+                  <li class="sl2">60</li>
+                  <li class="sl3">17</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -22068,14 +22068,14 @@
             <td class="dname" colspan="2">justi_abhandlung01_1758_0133.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1357</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">199</td>
-            <td class="sl2">219</td>
-            <td class="sl3">59</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1357</li>
+                  <li class="sl1">199</li>
+                  <li class="sl2">219</li>
+                  <li class="sl3">59</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -22208,14 +22208,14 @@
             <td class="dname" colspan="2">justi_abhandlung01_1758_0134.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1301</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">167</td>
-            <td class="sl2">231</td>
-            <td class="sl3">65</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1301</li>
+                  <li class="sl1">167</li>
+                  <li class="sl2">231</li>
+                  <li class="sl3">65</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -22343,14 +22343,14 @@
             <td class="dname" colspan="2">justi_abhandlung01_1758_0026.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">866</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">167</td>
-            <td class="sl2">213</td>
-            <td class="sl3">39</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">866</li>
+                  <li class="sl1">167</li>
+                  <li class="sl2">213</li>
+                  <li class="sl3">39</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -22458,14 +22458,14 @@
             <td class="dname" colspan="2">justi_abhandlung01_1758_0031.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">802</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">129</td>
-            <td class="sl2">157</td>
-            <td class="sl3">32</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">802</li>
+                  <li class="sl1">129</li>
+                  <li class="sl2">157</li>
+                  <li class="sl3">32</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -22608,14 +22608,14 @@
             <td class="dname" colspan="2">herder_geschichte03_1787_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">349</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">55</td>
-            <td class="sl2">55</td>
-            <td class="sl3">14</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">349</li>
+                  <li class="sl1">55</li>
+                  <li class="sl2">55</li>
+                  <li class="sl3">14</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -22708,14 +22708,14 @@
             <td class="dname" colspan="2">basilius_legendi_1515_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1364</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">138</td>
-            <td class="sl2">180</td>
-            <td class="sl3">93</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1364</li>
+                  <li class="sl1">138</li>
+                  <li class="sl2">180</li>
+                  <li class="sl3">93</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -22858,14 +22858,14 @@
             <td class="dname" colspan="2">basilius_legendi_1515_0023.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">479</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">50</td>
-            <td class="sl2">50</td>
-            <td class="sl3">22</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">479</li>
+                  <li class="sl1">50</li>
+                  <li class="sl2">50</li>
+                  <li class="sl3">22</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -22958,14 +22958,14 @@
             <td class="dname" colspan="2">basilius_legendi_1515_0008.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1396</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">133</td>
-            <td class="sl2">144</td>
-            <td class="sl3">72</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1396</li>
+                  <li class="sl1">133</li>
+                  <li class="sl2">144</li>
+                  <li class="sl3">72</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -23093,14 +23093,14 @@
             <td class="dname" colspan="2">praetorius_syntagma02_1619_0021.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1321</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">107</td>
-            <td class="sl2">130</td>
-            <td class="sl3">33</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1321</li>
+                  <li class="sl1">107</li>
+                  <li class="sl2">130</li>
+                  <li class="sl3">33</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -23233,14 +23233,14 @@
             <td class="dname" colspan="2">praetorius_syntagma02_1619_0017.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">2014</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">329</td>
-            <td class="sl2">406</td>
-            <td class="sl3">93</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">2014</li>
+                  <li class="sl1">329</li>
+                  <li class="sl2">406</li>
+                  <li class="sl3">93</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -23383,14 +23383,14 @@
             <td class="dname" colspan="2">praetorius_syntagma02_1619_0020.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1296</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">176</td>
-            <td class="sl2">224</td>
-            <td class="sl3">52</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1296</li>
+                  <li class="sl1">176</li>
+                  <li class="sl2">224</li>
+                  <li class="sl3">52</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -23543,14 +23543,14 @@
             <td class="dname" colspan="2">praetorius_syntagma02_1619_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1324</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">150</td>
-            <td class="sl2">205</td>
-            <td class="sl3">80</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1324</li>
+                  <li class="sl1">150</li>
+                  <li class="sl2">205</li>
+                  <li class="sl3">80</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -23788,14 +23788,14 @@
             <td class="dname" colspan="2">kant_aufklaerung_1784_0017.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">702</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">126</td>
-            <td class="sl2">162</td>
-            <td class="sl3">44</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">702</li>
+                  <li class="sl1">126</li>
+                  <li class="sl2">162</li>
+                  <li class="sl3">44</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -23903,14 +23903,14 @@
             <td class="dname" colspan="2">kant_aufklaerung_1784_0020.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1203</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">186</td>
-            <td class="sl2">270</td>
-            <td class="sl3">69</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1203</li>
+                  <li class="sl1">186</li>
+                  <li class="sl2">270</li>
+                  <li class="sl3">69</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -24048,14 +24048,14 @@
             <td class="dname" colspan="2">arnimb_goethe03_1835_0029.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">868</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">149</td>
-            <td class="sl2">171</td>
-            <td class="sl3">50</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">868</li>
+                  <li class="sl1">149</li>
+                  <li class="sl2">171</li>
+                  <li class="sl3">50</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -24178,14 +24178,14 @@
             <td class="dname" colspan="2">rhegius_artzney_1529_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">799</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">162</td>
-            <td class="sl2">199</td>
-            <td class="sl3">59</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">799</li>
+                  <li class="sl1">162</li>
+                  <li class="sl2">199</li>
+                  <li class="sl3">59</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -24338,14 +24338,14 @@
             <td class="dname" colspan="2">rhegius_artzney_1529_0014.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">811</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">148</td>
-            <td class="sl2">200</td>
-            <td class="sl3">68</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">811</li>
+                  <li class="sl1">148</li>
+                  <li class="sl2">200</li>
+                  <li class="sl3">68</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -24488,14 +24488,14 @@
             <td class="dname" colspan="2">rhegius_artzney_1529_0019.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">863</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">163</td>
-            <td class="sl2">153</td>
-            <td class="sl3">59</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">863</li>
+                  <li class="sl1">163</li>
+                  <li class="sl2">153</li>
+                  <li class="sl3">59</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -24635,14 +24635,14 @@
             <td class="dname" colspan="2">schiller_raeuber_1781_0024.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">987</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">155</td>
-            <td class="sl2">213</td>
-            <td class="sl3">58</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">987</li>
+                  <li class="sl1">155</li>
+                  <li class="sl2">213</li>
+                  <li class="sl3">58</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -24785,14 +24785,14 @@
             <td class="dname" colspan="2">schiller_raeuber_1781_0009.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">361</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">50</td>
-            <td class="sl2">51</td>
-            <td class="sl3">11</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">361</li>
+                  <li class="sl1">50</li>
+                  <li class="sl2">51</li>
+                  <li class="sl3">11</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -24895,14 +24895,14 @@
             <td class="dname" colspan="2">sachs_drey_1553_0010.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">681</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">109</td>
-            <td class="sl2">131</td>
-            <td class="sl3">33</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">681</li>
+                  <li class="sl1">109</li>
+                  <li class="sl2">131</li>
+                  <li class="sl3">33</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -25005,14 +25005,14 @@
             <td class="dname" colspan="2">sachs_drey_1553_0011.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">774</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">145</td>
-            <td class="sl2">196</td>
-            <td class="sl3">45</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">774</li>
+                  <li class="sl1">145</li>
+                  <li class="sl2">196</li>
+                  <li class="sl3">45</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -25145,14 +25145,14 @@
             <td class="dname" colspan="2">estor_rechtsgelehrsamkeit02_1758_0119.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1513</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">259</td>
-            <td class="sl2">284</td>
-            <td class="sl3">77</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1513</li>
+                  <li class="sl1">259</li>
+                  <li class="sl2">284</li>
+                  <li class="sl3">77</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -25280,14 +25280,14 @@
             <td class="dname" colspan="2">estor_rechtsgelehrsamkeit02_1758_0819.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1034</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">212</td>
-            <td class="sl2">232</td>
-            <td class="sl3">63</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1034</li>
+                  <li class="sl1">212</li>
+                  <li class="sl2">232</li>
+                  <li class="sl3">63</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -25420,14 +25420,14 @@
             <td class="dname" colspan="2">estor_rechtsgelehrsamkeit02_1758_0117.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1514</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">311</td>
-            <td class="sl2">377</td>
-            <td class="sl3">93</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1514</li>
+                  <li class="sl1">311</li>
+                  <li class="sl2">377</li>
+                  <li class="sl3">93</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -25560,14 +25560,14 @@
             <td class="dname" colspan="2">estor_rechtsgelehrsamkeit02_1758_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">629</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">118</td>
-            <td class="sl2">132</td>
-            <td class="sl3">11</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">629</li>
+                  <li class="sl1">118</li>
+                  <li class="sl2">132</li>
+                  <li class="sl3">11</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -25680,14 +25680,14 @@
             <td class="dname" colspan="2">brenz_abentmal_1550_0043.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">317</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">108</td>
-            <td class="sl2">117</td>
-            <td class="sl3">24</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">317</li>
+                  <li class="sl1">108</li>
+                  <li class="sl2">117</li>
+                  <li class="sl3">24</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -25800,14 +25800,14 @@
             <td class="dname" colspan="2">brenz_abentmal_1550_0046.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">499</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">151</td>
-            <td class="sl2">160</td>
-            <td class="sl3">34</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">499</li>
+                  <li class="sl1">151</li>
+                  <li class="sl2">160</li>
+                  <li class="sl3">34</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -25915,14 +25915,14 @@
             <td class="dname" colspan="2">brenz_abentmal_1550_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">275</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">58</td>
-            <td class="sl2">63</td>
-            <td class="sl3">18</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">275</li>
+                  <li class="sl1">58</li>
+                  <li class="sl2">63</li>
+                  <li class="sl3">18</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26035,14 +26035,14 @@
             <td class="dname" colspan="2">brenz_abentmal_1550_0158.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">288</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">59</td>
-            <td class="sl2">67</td>
-            <td class="sl3">17</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">288</li>
+                  <li class="sl1">59</li>
+                  <li class="sl2">67</li>
+                  <li class="sl3">17</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26170,14 +26170,14 @@
             <td class="dname" colspan="2">heyden_paedono_1548_0013.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">587</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">73</td>
-            <td class="sl2">80</td>
-            <td class="sl3">33</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">587</li>
+                  <li class="sl1">73</li>
+                  <li class="sl2">80</li>
+                  <li class="sl3">33</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26300,14 +26300,14 @@
             <td class="dname" colspan="2">heyden_paedono_1548_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">559</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">74</td>
-            <td class="sl2">75</td>
-            <td class="sl3">36</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">559</li>
+                  <li class="sl1">74</li>
+                  <li class="sl2">75</li>
+                  <li class="sl3">36</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26425,14 +26425,14 @@
             <td class="dname" colspan="2">heyden_paedono_1548_0014.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">683</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">96</td>
-            <td class="sl2">100</td>
-            <td class="sl3">36</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">683</li>
+                  <li class="sl1">96</li>
+                  <li class="sl2">100</li>
+                  <li class="sl3">36</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26525,14 +26525,14 @@
             <td class="dname" colspan="2">euler_rechenkunst01_1738_0026.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1079</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">187</td>
-            <td class="sl2">180</td>
-            <td class="sl3">34</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1079</li>
+                  <li class="sl1">187</li>
+                  <li class="sl2">180</li>
+                  <li class="sl3">34</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26642,14 +26642,14 @@
             <td class="dname" colspan="2">euler_rechenkunst01_1738_0033.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">947</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">140</td>
-            <td class="sl2">128</td>
-            <td class="sl3">5</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">947</li>
+                  <li class="sl1">140</li>
+                  <li class="sl2">128</li>
+                  <li class="sl3">5</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26757,14 +26757,14 @@
             <td class="dname" colspan="2">euler_rechenkunst01_1738_0024.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">974</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">147</td>
-            <td class="sl2">156</td>
-            <td class="sl3">34</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">974</li>
+                  <li class="sl1">147</li>
+                  <li class="sl2">156</li>
+                  <li class="sl3">34</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26882,14 +26882,14 @@
             <td class="dname" colspan="2">euler_rechenkunst01_1738_0025.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">743</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">165</td>
-            <td class="sl2">152</td>
-            <td class="sl3">34</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">743</li>
+                  <li class="sl1">165</li>
+                  <li class="sl2">152</li>
+                  <li class="sl3">34</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -26989,14 +26989,14 @@
             <td class="dname" colspan="2">euler_rechenkunst01_1738_0041.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">728</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">84</td>
-            <td class="sl2">102</td>
-            <td class="sl3">24</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">728</li>
+                  <li class="sl1">84</li>
+                  <li class="sl2">102</li>
+                  <li class="sl3">24</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -27114,14 +27114,14 @@
             <td class="dname" colspan="2">euler_rechenkunst01_1738_0031.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">842</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">125</td>
-            <td class="sl2">149</td>
-            <td class="sl3">35</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">842</li>
+                  <li class="sl1">125</li>
+                  <li class="sl2">149</li>
+                  <li class="sl3">35</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -27244,14 +27244,14 @@
             <td class="dname" colspan="2">luther_auszlegunge_1520_0029.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1027</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">190</td>
-            <td class="sl2">222</td>
-            <td class="sl3">66</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1027</li>
+                  <li class="sl1">190</li>
+                  <li class="sl2">222</li>
+                  <li class="sl3">66</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -27364,14 +27364,14 @@
             <td class="dname" colspan="2">luther_auszlegunge_1520_0003.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">1369</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">205</td>
-            <td class="sl2">261</td>
-            <td class="sl3">88</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">1369</li>
+                  <li class="sl1">205</li>
+                  <li class="sl2">261</li>
+                  <li class="sl3">88</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -27494,14 +27494,14 @@
             <td class="dname" colspan="2">laube_europa0202_1837_0006.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">123</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">12</td>
-            <td class="sl2">8</td>
-            <td class="sl3">0</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">123</li>
+                  <li class="sl1">12</li>
+                  <li class="sl2">8</li>
+                  <li class="sl3">0</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -27564,14 +27564,14 @@
             <td class="dname" colspan="2">laube_europa0202_1837_0007.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">83</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">10</td>
-            <td class="sl2">8</td>
-            <td class="sl3">0</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">83</li>
+                  <li class="sl1">10</li>
+                  <li class="sl2">8</li>
+                  <li class="sl3">0</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
@@ -27629,14 +27629,14 @@
             <td class="dname" colspan="2">laube_europa0202_1837_0105.xml</td>
          </tr>
          <tr>
-            <td class="sumchar">753</td>
-         </tr>
-         <tr class="suml">
-            <td class="sl1">102</td>
-            <td class="sl2">112</td>
-            <td class="sl3">30</td>
-         </tr>
-         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">753</li>
+                  <li class="sl1">102</li>
+                  <li class="sl2">112</li>
+                  <li class="sl3">30</li>
+               </ul>
+            </td>
             <td class="leveldesc">
                <button type="button"
                        class="bilanguage"
