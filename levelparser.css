@@ -8,7 +8,7 @@
     font-style: normal;
 }
 
-button {
+button.bilanguage {
     background-color: #c8ab37;
     border: none;
     border-radius: 6px;
@@ -19,6 +19,7 @@ button {
     margin-left: auto;
     margin-right: 0;
     cursor: pointer;
+    float: none;
 }
 
 :root {
@@ -297,17 +298,6 @@ summary {
     padding: 5px;
 }
 
-footer {
-    position: sticky;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
-
-footer p {
-    float: right;
-    margin: 0;
-}
 
 .main {
     display: block;
