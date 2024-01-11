@@ -24,10 +24,13 @@
    <h2>Details</h2>
    <ul>
       <li>
-         <a href="metadata">Metadata</a>
+         <a href="metadata">Metadata about Ground Truth</a>
       </li>
       <li>
-         <a href="table">Compressed table view</a>
+         <a href="table">Compressed table view about regions</a>
+      </li>
+      <li>
+         <a href="overview-level">Level Matrix</a>
       </li>
    </ul>
 </div>
