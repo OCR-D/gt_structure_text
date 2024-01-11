@@ -173,7 +173,7 @@
       </tr>
    </table>
    <details>
-      <summary>Level Matrix Volume: gt_structure_text</summary>
+      <summary class="volume">Level Matrix Volume: gt_structure_text</summary>
       <table class="volumelevel">
          <tr title="LATIN SMALL LIGATURE FF">
             <td class="l1" char="ff">1254</td>

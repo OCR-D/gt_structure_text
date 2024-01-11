@@ -47,19 +47,6 @@ body {
     line-height: 1.8em;
 }
 
-caption::before {
-    content: "\1F4DA  ";
-    font-size: 50px;
-}
-
-caption {
-    text-align: left;
-    font-size: 20px;
-    letter-spacing: 1px;
-    padding: 13px;
-}
-
-
 table {
     border-top-left-radius: 15px;
     padding: 8px;
@@ -275,6 +262,12 @@ details {
 summary::-webkit-details-marker {
     display: none;
 }
+
+summary.volume:before {
+    content: "\1F4DA ";
+    font-size: 20px;
+}
+
 
 summary:before {
     content: "\1F4DC ";
