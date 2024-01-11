@@ -9,10 +9,10 @@
          <a href="metadata">Metadata</a>
       </li>
       <li>
-         <a href="table">Compressed table view about Regions</a>
+         <a href="table">Compressed table view about regions</a>
       </li>
       <li>
-         <a href="overview">Detailed table view about Regions</a>
+         <a href="overview">Detailed table view about regions</a>
       </li>
    </ul>
 </div>
