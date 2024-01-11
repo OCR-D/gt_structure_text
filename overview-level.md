@@ -3,6 +3,21 @@
 <link rel="stylesheet" href="levelparser.css"/>
 <div>
    <h2>Level Matrix Document Volume: gt_structure_text</h2>
+   <h3>Details about Ground Truth</h3>
+   <ul>
+      <li>
+         <a href="metadata">Metadata</a>
+      </li>
+      <li>
+         <a href="table">Compressed table view about Regions</a>
+      </li>
+      <li>
+         <a href="overview">Detailed table view about Regions</a>
+      </li>
+   </ul>
+</div>
+<div>
+   <h3>Level Matrix</h3>
    <table class="volumelevel">
       <tr>
          <td class="vname" colspan="2">gt_structure_text</td>
