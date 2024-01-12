@@ -57,13 +57,13 @@ jobs:
        git clone --depth 1 https://github.com/OCR-D/core
        cd core
        sudo make deps-ubuntu
+       sudo apt-get install -y python3 imagemagick libgeos-dev
        python3 -m venv $HOME/venv         
        source $HOME/venv/bin/activate     
        pip install -U pip 'setuptools>=61'
-       pip install ocrd
-       make install
-       cd ..
-       rm -rf core
+       pip install ocrd 
+       
+       
        
           
     - name: Download and install saxon
