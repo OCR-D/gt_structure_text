@@ -128,21 +128,17 @@
    </mets:amdSec>
    <mets:fileSec>
       <mets:fileGrp USE="DEFAULT">
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001">
-            <mets:FLocat LOCTYPE="URL"
-                         xlink:href="http://media.dwds.de/dta/images/bebel_frau_1879/bebel_frau_1879_0146_800px.jpg"/>
+         <mets:file MIMETYPE="image/tiff" ID="DEFAULT_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/bebel_frau_1879_0146.tif"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002">
-            <mets:FLocat LOCTYPE="URL"
-                         xlink:href="http://media.dwds.de/dta/images/bebel_frau_1879/bebel_frau_1879_0168_800px.jpg"/>
+         <mets:file MIMETYPE="image/tiff" ID="DEFAULT_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/bebel_frau_1879_0168.tif"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003">
-            <mets:FLocat LOCTYPE="URL"
-                         xlink:href="http://media.dwds.de/dta/images/bebel_frau_1879/bebel_frau_1879_0176_800px.jpg"/>
+         <mets:file MIMETYPE="image/tiff" ID="DEFAULT_0003">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/bebel_frau_1879_0176.tif"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004">
-            <mets:FLocat LOCTYPE="URL"
-                         xlink:href="http://media.dwds.de/dta/images/bebel_frau_1879/bebel_frau_1879_0186_800px.jpg"/>
+         <mets:file MIMETYPE="image/tiff" ID="DEFAULT_0004">
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/bebel_frau_1879_0186.tif"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
