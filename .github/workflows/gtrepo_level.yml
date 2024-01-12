@@ -63,6 +63,10 @@ jobs:
        pip install -U pip 'setuptools>=61'
        pip install ocrd
        ls
+       pwd
+       cd ..
+       ls
+       pwd
        
        
        
