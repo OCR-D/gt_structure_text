@@ -47,10 +47,7 @@ jobs:
     - name: install jq
       run: sudo apt-get install jq
     
-    - name: upgrade setuptools
-      run: |
-       pip install --upgrade setuptools
-
+    
     
     - name: install ocrd
       run: |
