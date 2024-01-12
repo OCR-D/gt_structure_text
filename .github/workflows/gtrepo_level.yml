@@ -46,21 +46,7 @@ jobs:
       
     - name: install jq
       run: sudo apt-get install jq
-    
-    
-    
-    - name: install ocrd
-      run: |
-       sudo apt-get install -y python3 imagemagick libgeos-dev
-       python3 -m venv venv         
-       source venv/bin/activate     
-       pip install -U pip 'setuptools>=61'
-       pip install ocrd
-       ocrd --version
-       
-       
-       
-          
+                 
     - name: Download and install saxon
       run: |
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download 
@@ -166,11 +152,20 @@ jobs:
          ln -s metadata.md index.md
 
          
-   # Bagit
+   # Bagit and Install OCR-D
 
-    - name: make bagit
-      run: sh scripts/data_structure.sh
-      shell: bash
+    - name: install ocrd and bagit
+      run: |
+       sudo apt-get install -y python3 imagemagick libgeos-dev
+       python3 -m venv venv         
+       source venv/bin/activate     
+       pip install -U pip 'setuptools>=61'
+       pip install ocrd
+       ocrd --version
+       sh $HOME/scripts/data_structure.sh     
+
+
+
 
 
     - name: copy css styles and yml files to ghout
