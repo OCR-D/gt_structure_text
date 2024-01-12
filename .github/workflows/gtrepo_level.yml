@@ -164,8 +164,7 @@ jobs:
        ocrd --version
        ls
        pwd
-    
-       # sh $HOME/scripts/data_structure.sh     
+       sh scripts/data_structure.sh     
 
 
 
