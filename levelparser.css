@@ -57,12 +57,12 @@ table {
 
 .volumelevel {
     margin-bottom: 1%;
-    width: 150%;
+    width: 120%;
 }
 
 .pagelevel {
     border: 1px solid #ccc;
-    width: 161.5%;
+    width: 120%;
 }
 
 table[class = volumelevel] tr td {
