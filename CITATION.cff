@@ -1,0 +1,22 @@
+
+cff-version: 1.2.0
+title: gt_structure_text
+message: If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+    - given-names: Boenig
+      family-names: Matthias
+repository-code: 'https://github.com/tboenig/gt_structure_text'
+url: 'https://github.com/tboenig/gt_structure_text'
+abstract: |-
+    The OCR-D Ground Truth text and structure corpus was created between 2015 -2017. In the years since 2017, this corpus has been further curated and supplemented with metadata where appropriate. The corpus includes page XML files within annotations of the text and structure include.
+keywords:
+    - ocr-d
+    - repository
+    - segmentation
+    - ground-truth
+    - data_structure_and_text
+license: CC0 1.0
+commit: l1.1.17
+version: 90_l1.1.17
+date-released: '2024-1-16'
