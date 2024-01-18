@@ -83,7 +83,7 @@ table[class = volumelevel] tr td {
     content: "Transcription Guidelines: ";
 }
 .sumchar::before {
-    content: "Number of characters: ";
+    content: "Number of characters and space: ";
 }
 .time::before {
     content: "Time: "
