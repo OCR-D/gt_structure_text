@@ -5,7 +5,7 @@
       <dt>Name:</dt>
       <dd>gt_structure_text</dd>
       <dt>Description:</dt>
-      <dd>The OCR-D Ground Truth text and structure corpus was created between 2015 -2017. In the years since 2017, this corpus has been further curated and supplemented with metadata where appropriate. The corpus includes page XML files within annotations of the text and structure include.</dd>
+      <dd>The OCR-D Ground Truth text and structure corpus was created between 2015 -2017. In the years since 2017, this corpus has been further curated and supplemented with metadata where appropriate. The corpus includes page XML files within annotations of the text and structure include. The data is based on transcription data stored in the German Text Archive (DTA) (https://www.deutschestextarchiv.de/).</dd>
       <dt>Language:</dt>
       <dd>eng, fra, deu, heb, lat</dd>
       <dt>Format:</dt>
@@ -307,7 +307,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_text/releases/tag/l1.1.20">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 93_l1.1.20</a>
+         <a href="https://github.com/tboenig/gt_structure_text/releases/tag/v1.1.0">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 43_v1.1.0</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_text/releases">Version archive</a>

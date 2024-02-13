@@ -16,7 +16,7 @@
       ]
     }
   ],
-  "description": "The OCR-D Ground Truth text and structure corpus was created between 2015 -2017. In the years since 2017, this corpus has been further curated and supplemented with metadata where appropriate. The corpus includes page XML files within annotations of the text and structure include.",
+  "description": "The OCR-D Ground Truth text and structure corpus was created between 2015 -2017. In the years since 2017, this corpus has been further curated and supplemented with metadata where appropriate. The corpus includes page XML files within annotations of the text and structure include. The data is based on transcription data stored in the German Text Archive (DTA) (https://www.deutschestextarchiv.de/).",
   "project-name": "OCR-D",
   "project-website": "https://ocr-d.de/",
   "language": [
@@ -48,7 +48,7 @@
   "gtTyp": "data_structure_and_text",
   "format": "Page-XML",
   "transcription-guidelines": " OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/",
-  "volume": {
+  "gtvolume": {
     "TxtRegion": "1647",
     "ImgRegion": "1",
     "GraphRegion": "75",
@@ -64,17 +64,11 @@
     "granularity/physical/document-related/word",
     "granularity/physical/document-related/text-line",
     "granularity/physical/document-related/region",
-    "data-attributes/document-related/visual/text/font/multi-font/typefaces",
     "data-attributes/document-related/visual/text/font/multi-font/font-sizes",
-    "data-attributes/language/mixed",
     "condition/production-related/document-faults/ink-from-facing",
-    "condition/acquisition/geometric/perspective-distortions",
-    "condition/acquisition/geometric/page-curl",
-    "condition/wear/additions/informative/annotations",
-    "condition/production-related/document-characteristics/low-contrast",
-    "condition/acquisition/method-flaws/imaging/uneven-illumination",
-    "condition/ageing/warping",
-    "condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding",
+    "condition/wear/medium-damage/stains",
+    "condition/wear/additions/informative/stamps",
+    "data-attributes/document-related/visual/illustrations",
     "content-type/corpus",
     "platform/platform-independent",
     "content-encoding/structured",
@@ -94,14 +88,20 @@
     "data-attributes/document-related/structural/footnotes",
     "data-attributes/document-related/structural/footnote-continued",
     "data-attributes/document-related/structural/running-titles",
-    "condition/wear/additions/informative/stamps",
     "data-attributes/document-related/visual/text/drop-caps",
     "data-attributes/document-related/visual/text/font/typeface/blackletter",
     "data-attributes/document-related/visual/text/font/typeface/antiqua",
-    "condition/wear/medium-damage/stains",
-    "data-attributes/document-related/visual/illustrations",
-    "condition/wear/additions/repairs/paper-repairs",
+    "data-attributes/document-related/visual/text/font/multi-font/typefaces",
+    "condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding",
+    "data-attributes/language/mixed",
+    "condition/acquisition/geometric/perspective-distortions",
+    "condition/acquisition/geometric/page-curl",
+    "condition/wear/additions/informative/annotations",
+    "condition/production-related/document-characteristics/low-contrast",
+    "condition/acquisition/method-flaws/imaging/uneven-illumination",
+    "condition/ageing/warping",
     "data-attributes/document-related/visual/decorations",
+    "condition/wear/additions/repairs/paper-repairs",
     "data-attributes/document-related/visual/illustrations/multi-colour"
   ]
 }
