@@ -39,10 +39,10 @@
       <tr>
          <td class="char">
             <ul>
-               <li class="sumchar">221357</li>
-               <li class="ssl1">28663</li>
-               <li class="ssl2">35079</li>
-               <li class="ssl3">8158</li>
+               <li class="sumchar">221412</li>
+               <li class="ssl1">28718</li>
+               <li class="ssl2">35134</li>
+               <li class="ssl3">8103</li>
             </ul>
          </td>
          <td class="leveldesc">
@@ -321,19 +321,19 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="oͤ">452</td>
-            <td class="l2" char="oͤ">452</td>
-            <td class="l3" char="">14</td>
+            <td class="l1" char="oͤ">466</td>
+            <td class="l2" char="oͤ">466</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="aͤ">423</td>
-            <td class="l2" char="aͤ">423</td>
-            <td class="l3" char="">18</td>
+            <td class="l1" char="aͤ">441</td>
+            <td class="l2" char="aͤ">441</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="uͤ">788</td>
-            <td class="l2" char="uͤ">788</td>
-            <td class="l3" char="">23</td>
+            <td class="l1" char="uͤ">811</td>
+            <td class="l2" char="uͤ">811</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="DOUBLE OBLIQUE HYPHEN">
             <td class="l1" char="-">1583</td>
@@ -32444,10 +32444,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">770</li>
-                  <li class="sl1">85</li>
-                  <li class="sl2">106</li>
-                  <li class="sl3">43</li>
+                  <li class="sumchar">780</li>
+                  <li class="sl1">95</li>
+                  <li class="sl2">116</li>
+                  <li class="sl3">33</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -32564,19 +32564,19 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="aͤ">0</td>
-            <td class="l2" char="aͤ">0</td>
-            <td class="l3" char="">2</td>
+            <td class="l1" char="aͤ">2</td>
+            <td class="l2" char="aͤ">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="oͤ">0</td>
-            <td class="l2" char="oͤ">0</td>
-            <td class="l3" char="">5</td>
+            <td class="l1" char="oͤ">5</td>
+            <td class="l2" char="oͤ">5</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="uͤ">0</td>
-            <td class="l2" char="uͤ">0</td>
-            <td class="l3" char="">3</td>
+            <td class="l1" char="uͤ">3</td>
+            <td class="l2" char="uͤ">3</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
             <td class="l1" char="an">6</td>
@@ -32609,10 +32609,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">636</li>
-                  <li class="sl1">68</li>
-                  <li class="sl2">73</li>
-                  <li class="sl3">23</li>
+                  <li class="sumchar">646</li>
+                  <li class="sl1">78</li>
+                  <li class="sl2">83</li>
+                  <li class="sl3">13</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -32739,19 +32739,19 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="aͤ">0</td>
-            <td class="l2" char="aͤ">0</td>
-            <td class="l3" char="">2</td>
+            <td class="l1" char="aͤ">2</td>
+            <td class="l2" char="aͤ">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="oͤ">0</td>
-            <td class="l2" char="oͤ">0</td>
-            <td class="l3" char="">2</td>
+            <td class="l1" char="oͤ">2</td>
+            <td class="l2" char="oͤ">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="uͤ">0</td>
-            <td class="l2" char="uͤ">0</td>
-            <td class="l3" char="">6</td>
+            <td class="l1" char="uͤ">6</td>
+            <td class="l2" char="uͤ">6</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
             <td class="l1" char="an">6</td>
@@ -32784,10 +32784,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">628</li>
-                  <li class="sl1">65</li>
-                  <li class="sl2">83</li>
-                  <li class="sl3">30</li>
+                  <li class="sumchar">636</li>
+                  <li class="sl1">73</li>
+                  <li class="sl2">91</li>
+                  <li class="sl3">22</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -32889,19 +32889,19 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="aͤ">0</td>
-            <td class="l2" char="aͤ">0</td>
-            <td class="l3" char="">1</td>
+            <td class="l1" char="aͤ">1</td>
+            <td class="l2" char="aͤ">1</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="oͤ">0</td>
-            <td class="l2" char="oͤ">0</td>
-            <td class="l3" char="">4</td>
+            <td class="l1" char="oͤ">4</td>
+            <td class="l2" char="oͤ">4</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="uͤ">0</td>
-            <td class="l2" char="uͤ">0</td>
-            <td class="l3" char="">3</td>
+            <td class="l1" char="uͤ">3</td>
+            <td class="l2" char="uͤ">3</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
             <td class="l1" char="an">5</td>
@@ -33084,10 +33084,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">787</li>
-                  <li class="sl1">103</li>
-                  <li class="sl2">121</li>
-                  <li class="sl3">29</li>
+                  <li class="sumchar">791</li>
+                  <li class="sl1">107</li>
+                  <li class="sl2">125</li>
+                  <li class="sl3">25</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -33229,14 +33229,14 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="aͤ">0</td>
-            <td class="l2" char="aͤ">0</td>
-            <td class="l3" char="">2</td>
+            <td class="l1" char="aͤ">2</td>
+            <td class="l2" char="aͤ">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="uͤ">0</td>
-            <td class="l2" char="uͤ">0</td>
-            <td class="l3" char="">2</td>
+            <td class="l1" char="uͤ">2</td>
+            <td class="l2" char="uͤ">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
             <td class="l1" char="an">13</td>
@@ -33444,10 +33444,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">649</li>
-                  <li class="sl1">86</li>
-                  <li class="sl2">100</li>
-                  <li class="sl3">28</li>
+                  <li class="sumchar">654</li>
+                  <li class="sl1">91</li>
+                  <li class="sl2">105</li>
+                  <li class="sl3">23</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -33579,19 +33579,19 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="aͤ">0</td>
-            <td class="l2" char="aͤ">0</td>
-            <td class="l3" char="">1</td>
+            <td class="l1" char="aͤ">1</td>
+            <td class="l2" char="aͤ">1</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="oͤ">0</td>
-            <td class="l2" char="oͤ">0</td>
-            <td class="l3" char="">2</td>
+            <td class="l1" char="oͤ">2</td>
+            <td class="l2" char="oͤ">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="uͤ">0</td>
-            <td class="l2" char="uͤ">0</td>
-            <td class="l3" char="">2</td>
+            <td class="l1" char="uͤ">2</td>
+            <td class="l2" char="uͤ">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
             <td class="l1" char="an">9</td>
@@ -33624,10 +33624,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">823</li>
-                  <li class="sl1">98</li>
-                  <li class="sl2">116</li>
-                  <li class="sl3">34</li>
+                  <li class="sumchar">832</li>
+                  <li class="sl1">107</li>
+                  <li class="sl2">125</li>
+                  <li class="sl3">25</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -33749,19 +33749,19 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="aͤ">0</td>
-            <td class="l2" char="aͤ">0</td>
-            <td class="l3" char="">4</td>
+            <td class="l1" char="aͤ">4</td>
+            <td class="l2" char="aͤ">4</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="oͤ">0</td>
-            <td class="l2" char="oͤ">0</td>
-            <td class="l3" char="">1</td>
+            <td class="l1" char="oͤ">1</td>
+            <td class="l2" char="oͤ">1</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="uͤ">0</td>
-            <td class="l2" char="uͤ">0</td>
-            <td class="l3" char="">4</td>
+            <td class="l1" char="uͤ">4</td>
+            <td class="l2" char="uͤ">4</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
             <td class="l1" char="an">3</td>
@@ -33794,10 +33794,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">823</li>
-                  <li class="sl1">106</li>
-                  <li class="sl2">143</li>
-                  <li class="sl3">50</li>
+                  <li class="sumchar">832</li>
+                  <li class="sl1">115</li>
+                  <li class="sl2">152</li>
+                  <li class="sl3">41</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -33949,14 +33949,14 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="aͤ">0</td>
-            <td class="l2" char="aͤ">0</td>
-            <td class="l3" char="">6</td>
+            <td class="l1" char="aͤ">6</td>
+            <td class="l2" char="aͤ">6</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="uͤ">0</td>
-            <td class="l2" char="uͤ">0</td>
-            <td class="l3" char="">3</td>
+            <td class="l1" char="uͤ">3</td>
+            <td class="l2" char="uͤ">3</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
             <td class="l1" char="an">4</td>
