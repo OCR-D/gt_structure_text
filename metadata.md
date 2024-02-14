@@ -10,6 +10,8 @@
       <dd>eng, fra, deu, heb, lat</dd>
       <dt>Format:</dt>
       <dd>Page-XML</dd>
+      <dt>Production software:</dt>
+      <dd>Aletheia</dd>
       <dt>Time:</dt>
       <dd>1500-1900</dd>
       <dt>GT Type:</dt>
@@ -19,9 +21,9 @@
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd> OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
+         <dd>OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
          <dt>License:</dt>
-         <dd>CC0 1.0</dd>
+         <dd>CC-BY-SA 4.0</dd>
          <dt>Project:</dt>
          <dd>OCR-D</dd>
          <dt>Project-URL:</dt>
@@ -307,10 +309,10 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_text/releases/tag/v1.1.3">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 46_v1.1.3</a>
+         <a href="https://github.com/OCR-D/gt_structure_text/releases/tag/v1.1.5">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 48_v1.1.5</a>
       </li>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_text/releases">Version archive</a>
+         <a href="https://github.com/OCR-D/gt_structure_text/releases">Version archive</a>
       </li>
    </ul>
 </div>

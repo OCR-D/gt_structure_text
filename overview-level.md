@@ -24,7 +24,7 @@
       </tr>
       <tr>
          <td class="url" colspan="2">
-            <a href="https://github.com/tboenig/gt_structure_text">https://github.com/tboenig/gt_structure_text</a>
+            <a href="https://github.com/OCR-D/gt_structure_text">https://github.com/OCR-D/gt_structure_text</a>
          </td>
       </tr>
       <tr>
@@ -34,7 +34,7 @@
          <td class="time" colspan="2">1500 - 1900</td>
       </tr>
       <tr>
-         <td class="guidelines" colspan="2"> OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</td>
+         <td class="guidelines" colspan="2">OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</td>
       </tr>
       <tr>
          <td class="char">
