@@ -135,70 +135,70 @@
    <mets:fileSec>
       <mets:fileGrp USE="DEFAULT">
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0370.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0370.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0379.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0379.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0380.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0380.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0383.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0383.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0386.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0386.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0370.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0370.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0379.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0379.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0380.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0380.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0383.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0383.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0386.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0386.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0370.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0370.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0379.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0379.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0380.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0380.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0383.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0383.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0386.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0386.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0370.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0370.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0379.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0379.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0380.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0380.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0383.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0383.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0386.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hilbert_zahlkoerper_1897_0386.xml"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

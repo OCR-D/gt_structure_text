@@ -150,75 +150,75 @@
    <mets:fileSec>
       <mets:fileGrp USE="DEFAULT">
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                xlink:href="GT-PAGE/laube_europa0202_1837_0006.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                xlink:href="GT-PAGE/laube_europa0202_1837_0007.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                xlink:href="GT-PAGE/laube_europa0202_1837_0105.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                xlink:href="GT-PAGE/laube_europa0202_1837_0309.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                xlink:href="GT-PAGE/laube_europa0202_1837_0310.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0006.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0006.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0007.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0007.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0105.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0105.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0309.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0309.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0310.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0310.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0006.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0007.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0105.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0105.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0309.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0309.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0310.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0310.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0006.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0007.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0105.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0105.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0309.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0309.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/laube_europa0202_1837_0310.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0310.xml"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

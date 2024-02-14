@@ -96,7 +96,7 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/boeschenstain_gedicht_1520_0002.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -104,7 +104,7 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/boeschenstain_gedicht_1520_0002.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -112,13 +112,13 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/boeschenstain_gedicht_1520_0002.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/boeschenstain_gedicht_1520_0002.tif"/>
          </mets:file>
       </mets:fileGrp>
