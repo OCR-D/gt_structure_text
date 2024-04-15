@@ -12,7 +12,7 @@
       <dt id="GTT">GT Type:</dt>
       <dd>data_structure_and_text</dd>
       <dt id="License">License:</dt>
-      <dd>CC-BY-SA 4.0</dd>
+      <dd>CC-BY-SA-4.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
       <dd>OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
       <dt id="Project">Project:</dt>
