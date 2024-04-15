@@ -23,7 +23,7 @@
          <dt>Transcription Guidelines:</dt>
          <dd>OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
          <dt>License:</dt>
-         <dd>CC-BY-SA 4.0</dd>
+         <dd>CC-BY-SA-4.0</dd>
          <dt>Project:</dt>
          <dd>OCR-D</dd>
          <dt>Project-URL:</dt>
@@ -309,7 +309,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/OCR-D/gt_structure_text/releases/tag/v1.2.0">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 53_v1.2.0</a>
+         <a href="https://github.com/OCR-D/gt_structure_text/releases/tag/v1.2.1">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 54_v1.2.1</a>
       </li>
       <li>
          <a href="https://github.com/OCR-D/gt_structure_text/releases">Version archive</a>
