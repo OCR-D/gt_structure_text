@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:vls="http://semantics.de/vls"
-           xmlns:mets="http://www.loc.gov/METS/"
-           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version18/mets.xsd">
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:DC="http://purl.org/dc/elements/1.1/"
+   xmlns:mods="http://www.loc.gov/mods/v3"
+   xmlns:mets="http://www.loc.gov/METS/"
+   xmlns:DV="http://dfg-viewer.de/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd">
    <mets:metsHdr CREATEDATE="2019-02-13T17:19:56.018+01:00">
       <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
          <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
@@ -84,7 +87,7 @@
                <DV:rights xmlns:DV="http://dfg-viewer.de/">
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
                 Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -105,23 +108,23 @@
    <mets:fileSec>
       <mets:fileGrp USE="DEFAULT">
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
-               xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.jpg"/>
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="http://media.dwds.de/dta/images/gerstner_mechaniktafeln01_1831/gerstner_mechaniktafeln01_1831_0019_800px.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.xml"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

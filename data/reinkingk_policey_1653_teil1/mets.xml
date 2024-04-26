@@ -18,29 +18,36 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
+                  <mods:shelfLocator>HAB Wolfenbüttel, A: 189.16.1 Theol.</mods:shelfLocator>
+                  <mods:url>http://diglib.hab.de/drucke/189-16-1-theol/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Frankfurt (Main)</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1653</mods:dateIssued>
+                  <mods:publisher>
+                     Porsch
+                     
+                     Kämpfer
+                  </mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
-                  <mods:dateCaptured encoding="w3cdtf"/>
+                  <mods:dateCaptured encoding="w3cdtf">2018-05-16T09:23:57Z</mods:dateCaptured>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Gesellschaft</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:kobv:b4-20489-0</mods:identifier>
+               <mods:identifier type="purl">http://www.deutschestextarchiv.de/reinkingk_policey_1653</mods:identifier>
+               <mods:identifier type="dtaid">20489</mods:identifier>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Biblische Policey</mods:title>
+                  <mods:subTitle>Das ist: Gewisse/ auß Heiliger Göttlicher Schrifft zusammen gebrachte/ auff die drey Hauptstände: Als Geistlichen/ Weltlichen/ vnd Häußlichen/ gerichtete Axiomata, oder Schlußreden Sonderlich/ mit Biblischen Sprüchen vnd Exempeln/ auch andern bestärcket/ in allen Ständen nützlich/ dienlich vnd anmühtig zu lesen</mods:subTitle>
                </mods:titleInfo>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -51,16 +58,22 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Reinkingk</mods:namePart>
+                  <mods:namePart type="given">Theodor von</mods:namePart>
+                  <mods:displayForm>Theodor von Reinkingk</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[30] Bl., 119, 454, 128 S. : Kupfert.</mods:extent>
                </mods:physicalDescription>
+               <mods:accessCondition type="use and reproduction"
+                  xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition displayLabel="Access Status"
+                  type="restriction on access"
+                  xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Biblische Policey Das ist: Gewisse/ auß Heiliger Göttlicher Schrifft zusammen gebrachte/ auff die drey Hauptstände: Als Geistlichen/ Weltlichen/ vnd Häußlichen/ gerichtete Axiomata, oder Schlußreden Sonderlich/ mit Biblischen Sprüchen vnd Exempeln/ auch andern bestärcket/ in allen Ständen nützlich/ dienlich vnd anmühtig zu lesen</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
@@ -73,7 +86,7 @@
             <mets:xmlData>
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -96,62 +109,62 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0016.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0016.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0017.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0017.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0139.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0139.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0016.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0016.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0017.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0017.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0139.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0139.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0016.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0016.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0017.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0017.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0139.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0139.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0016.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0016.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0017.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0017.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/reinkingk_policey_1653_0139.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/reinkingk_policey_1653_0139.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

@@ -189,7 +189,7 @@
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
                 Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -224,82 +224,82 @@
    <mets:fileSec>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0006">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0006">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0006">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0024.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0025.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0026.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0031.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0033.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_rechenkunst01_1738_0041.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

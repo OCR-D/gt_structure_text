@@ -20,7 +20,7 @@
                <mods:location>
                   <mods:physicalLocation>SLUB Dresden</mods:physicalLocation>
                   <mods:shelfLocator>SLUB Dresden, Hist.Sax.inf.353,misc.1</mods:shelfLocator>
-                  <mods:url>URL: http://slubdd.de/katalog?TN_libero_mab2839745</mods:url>
+                  <mods:url>http://slubdd.de/katalog?TN_libero_mab2839745</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
@@ -80,7 +80,7 @@
             <mets:xmlData>
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -103,31 +103,31 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0026.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0108.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0109.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0110.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -135,31 +135,31 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0026.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0108.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0109.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0110.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -167,53 +167,53 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0026.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0108.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0109.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0110.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0025.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0026.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0108.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0109.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/praetorius_verrichtung_1668_0110.tif"/>
          </mets:file>
       </mets:fileGrp>

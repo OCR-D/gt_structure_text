@@ -57,7 +57,7 @@
                <mods:note type="source characteristics">P_Drucke_Rara</mods:note>
                <mods:note type="bibliography">VD16 ZV 25529</mods:note>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:name type="personal">
                   <mods:role>
@@ -118,7 +118,7 @@
             <mets:xmlData>
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -153,34 +153,34 @@
    <mets:fileSec>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0011.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0013.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0013.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0011.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0013.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0013.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0011.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0013.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0013.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0011.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0011.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0013.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/trota_mordtbrenner_1540_0013.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

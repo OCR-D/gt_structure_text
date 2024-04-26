@@ -23,7 +23,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, H: J 581k.4° Helmst. (1)</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/j-581k-4f-helmst-1s/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/j-581k-4f-helmst-1s/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
@@ -161,7 +161,7 @@
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
                 Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -196,58 +196,58 @@
    <mets:fileSec>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0016.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0016.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0108.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0108.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0113.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0113.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0121.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0121.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0016.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0016.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0108.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0108.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0113.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0113.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0121.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0121.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0016.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0016.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0108.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0108.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0113.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0113.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0121.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0121.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0016.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0016.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0108.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0108.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0113.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0113.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0121.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/dannhauer_catechismus10_1673_0121.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

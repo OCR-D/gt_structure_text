@@ -18,29 +18,39 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>SUB Göttingen</mods:physicalLocation>
+                  <mods:shelfLocator>SUB Göttingen, 4 OEC I, 196:1 RARA</mods:shelfLocator>
+                  <mods:url>https://opac.sub.uni-goettingen.de/DB=1/XMLPRS=N/PPN?PPN=171868455</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Nürnberg</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1682</mods:dateIssued>
+                  <mods:publisher>
+                     Endter
+                  </mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
-                  <mods:dateCaptured encoding="w3cdtf"/>
+                  <mods:dateCaptured encoding="w3cdtf">2018-05-16T09:15:40Z</mods:dateCaptured>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Hausväterliteratur</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:kobv:b4-20291-9</mods:identifier>
+               <mods:identifier type="purl">http://www.deutschestextarchiv.de/hohberg_georgica01_1682</mods:identifier>
+               <mods:identifier type="dtaid">20291</mods:identifier>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Georgica Curiosa</mods:title>
+                  <mods:subTitle>Das ist: Umständlicher Bericht und klarer Unterricht von dem adelichen Land- und Feld-Leben</mods:subTitle>
                </mods:titleInfo>
+               <mods:part order="1">
+                  <mods:detail type="volume">
+                     <mods:number>Erster Theil</mods:number>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -51,16 +61,22 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Hohberg</mods:namePart>
+                  <mods:namePart type="given">Wolf Helmhard von</mods:namePart>
+                  <mods:displayForm>Wolf Helmhard von Hohberg</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[7] Bl., 322 S., [1] Bl., S. 323 - 702, [6], [10] Bl., [2] Bl., 72 ? S.</mods:extent>
                </mods:physicalDescription>
+               <mods:accessCondition type="use and reproduction"
+                  xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition displayLabel="Access Status"
+                  type="restriction on access"
+                  xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Georgica Curiosa Das ist: Umständlicher Bericht und klarer Unterricht von dem adelichen Land- und Feld-Leben Erster Theil</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
@@ -73,7 +89,7 @@
             <mets:xmlData>
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -96,13 +112,13 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -110,13 +126,13 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -124,22 +140,22 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
+            <mets:FLocat LOCTYPE="URL"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

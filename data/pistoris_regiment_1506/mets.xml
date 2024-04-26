@@ -18,29 +18,29 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</mods:physicalLocation>
+                  <mods:shelfLocator>SBB-PK, Ju 2244</mods:shelfLocator>
+                  <mods:url>https://stabikat.de/Record/568072111</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Leipzig</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1506</mods:dateIssued>
+                  <mods:publisher>Wildenfels, Johannes</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Medizin</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Ein kurtz schon vnnd gar trost||lich regiment widder die sweren vñ erschrechlichẽ krancheit || der pestilentz. </mods:title>
+                  <mods:subTitle>Durch ... Si||mon pistoris doctor yn der artzney eylendt begriffen/ vnd || dem Erbaren Rate zcu Leiptzick yn seynem wegzyehen zu=||geschryben vnd gelassen.||</mods:subTitle>
                </mods:titleInfo>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -51,16 +51,16 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Pistoris, Simon</mods:namePart>
+                  <mods:namePart type="given">Pistoris, Simon</mods:namePart>
+                  <mods:displayForm>Simon Pistoris</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[12] Bl.</mods:extent>
                </mods:physicalDescription>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Ein kurtz schon unnd gar trostlich regiment widder die sweren und erschrechlichen krancheit der pestilentz</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
@@ -73,7 +73,7 @@
             <mets:xmlData>
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -96,62 +96,62 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0009.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0009.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0010.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0010.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0011.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0011.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0009.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0009.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0010.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0010.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0011.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0011.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0009.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0009.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0010.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0010.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0011.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0011.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0009.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0009.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0010.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0010.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pistoris_regiment_1506_0011.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/pistoris_regiment_1506_0011.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

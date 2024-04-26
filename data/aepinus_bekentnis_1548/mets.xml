@@ -18,16 +18,16 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</mods:physicalLocation>
+                  <mods:shelfLocator>SBB-PK, Dr 17210&lt;a&gt;</mods:shelfLocator>
+                  <mods:url>https://stabikat.de/Record/567786587</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Hamburg</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1548</mods:dateIssued>
+                  <mods:publisher>Joachim Löw</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
@@ -36,11 +36,11 @@
                <mods:classification authority="DTA"/>
                <mods:classification authority="DTA"/>
                <mods:titleInfo>
-                  <mods:title/>
+                  <mods:title>Bekentnisse vnd Erkle=||ringe vp dat JNTERIM/ dorch der Erbarn || Stede/ Lübeck/ Hamborch/|| Lünenborch/ etc.|| Superintendenten/ Pastorn vnd Predigere/|| tho Christliker vnd nödiger Vnder=||richtinge gestellet.|| ... ||</mods:title>
                   <mods:subTitle/>
                </mods:titleInfo>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -51,16 +51,16 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Aepinus</mods:namePart>
+                  <mods:namePart type="given">Johann</mods:namePart>
+                  <mods:displayForm>Johann Aepinus</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[123] Bl. : Titelholzschn., Ill. (Holzschn.) ; 4</mods:extent>
                </mods:physicalDescription>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Bekentnisse</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
@@ -73,7 +73,7 @@
             <mets:xmlData>
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>
@@ -96,80 +96,80 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0007.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0020.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0020.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0007.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0020.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0020.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0007.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0020.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0020.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0007.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0007.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0020.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0020.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.tif"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>
