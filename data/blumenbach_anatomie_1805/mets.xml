@@ -165,46 +165,46 @@
    <mets:fileSec>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0047.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0047.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0048.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0048.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0049.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0049.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0047.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0047.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0048.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0048.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0049.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0049.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0047.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0047.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0048.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0048.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0049.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0049.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0047.tif"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0047.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0048.tif"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0048.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0049.tif"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/blumenbach_anatomie_1805_0049.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

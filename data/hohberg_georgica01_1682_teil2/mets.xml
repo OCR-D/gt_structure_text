@@ -152,10 +152,10 @@
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.tif"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.tif"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.tif"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>
