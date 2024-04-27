@@ -1,99 +1,263 @@
-name: gt-repo-scripts
+name: gtrepo
 on:
   push:
     tags:
       - 'v[0-9]+.[0-9]+.[0-9]+'
+
   workflow_dispatch:
+      inputs:
+        tag-name:
+          description: Name of the release tag
+
+defaults:
+  run:
+    shell: bash
+
 jobs:
-  cli:
-    name: gt-repo-scripts
-    runs-on: ubuntu-latest
-    steps:
+    build:
+        name: analyse and make Bagit
+        runs-on: ubuntu-latest
+        permissions:
+            checks: write
+            contents: write
+        steps:
+          - name: Checkout
+            uses: actions/checkout@v4
 
-    - name: Git checkout
-      uses: actions/checkout@v4
+          - name: Using tag name from ref name
+            if: github.event.inputs.tag-name == ''
+            run: echo "TAG_NAME=$GITHUB_REF_NAME" >> $GITHUB_ENV
 
+          - name: Using tag name from input param
+            if: github.event.inputs.tag-name != ''
+            run: echo "TAG_NAME=${{ github.event.inputs.tag-name}}" >> $GITHUB_ENV  
+  
+          - name: download and install Saxon
+            run: |
+              wget https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-3/SaxonHE12-3J.zip 
+              unzip SaxonHE12-3J.zip
+              rm SaxonHE12-3J.zip
 
+          - name: install jq
+            run: sudo apt-get install jq
+
+          - name: install XSL stylesheets
+            run: | 
+                git clone https://github.com/tboenig/gt-repo-scripts.git
+                mv gt-repo-scripts/scripts scripts/
+                rm -r gt-repo-scripts
+
+          - name: install megalevelrules.xml
+            run: | 
+              git clone --branch gh-pages --single-branch https://github.com/OCR-D/gt-MufiLevelRules.git
+              mv gt-MufiLevelRules/rules/megalevelrules.xml scripts/megalevelrules.xml
+              rm -r gt-MufiLevelRules
+
+          - name: convert metadata from YAML to JSON
+            uses: mikefarah/yq@master
+            with:
+              cmd: yq -o=json METADATA.yml > METADATA.json  
+
+          - name: check repo directory structure
+            run: |
+                mkdir ghout
+                java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_unitTest.xsl \
+                     output=unitTest1 \
+                     -s:scripts/gt-overview_unitTest.xsl -o:ghout/pathtest.md
+
+          - name: test result
+            run: |
+                test -e ghout/pathtest.md
+                if test -s ghout/pathtest.md; then \
+                  cat ghout/pathtest.md; false; fi
+    
+          - name: install GT Labelling docs
+            run: git clone https://github.com/tboenig/gt-guidelines.git
+
+          - name: make output directories
+            run: mkdir metadata_out ocrdzip_out
+
+          - name: move README to readme_old/
+            run:  bash scripts/readmefolder.sh
+
+          - name: make readme.xml
+            run: bash scripts/xreadme.sh  
+
+          - name: transform METADATA and make GT-Overview
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=METADATA repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
+              -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
+
+          - name: make compressed table view
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=TABLE repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY \
+              -s:scripts/gt-overview_metadata.xsl -o:ghout/table.md
+
+          - name: detailed table view 
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=OVERVIEW repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY \
+              -s:scripts/gt-overview_metadata.xsl -o:ghout/overview.md
+
+          - name: leveling the volume and documents 
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-level_parser.xsl \
+              repoName=$GITHUB_REPOSITORY \
+              -s:scripts/gt-level_parser.xsl -o:ghout/overview-level.md
+
+          - name: generate mets.sh
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=METS repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY \
+              -s:scripts/gt-overview_metadata.xsl -o:scripts/mets.sh
+              ls -l scripts/mets.sh
+              cat scripts/mets.sh
+
+          - name: generate Metadata JSON file
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=METAJSON repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
+              -s:scripts/gt-overview_metadata.xsl -o:metadata_out/metadata_l.json
+
+          - name: pretty-print JSON file
+            run: |
+              jq '.' metadata_out/metadata_l.json > metadata_out/metadata.json
+              cp metadata_out/metadata.json ghout/
+              rm metadata_out/metadata_l.json
+
+          - name: generate README
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=README repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY \
+              -s:scripts/gt-overview_metadata.xsl -o:README.md
+
+          - name: generate METADATA_htr_united.yml
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-metadata_htr_united.xsl repoName=${{ github.event.repository.name }} \
+              -s:scripts/gt-metadata_htr_united.xsl
+            
+          - name: generate METS Volume File
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=METSvolume repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
+              -s:scripts/gt-overview_metadata.xsl -o:metadata_out/mets.xml
       
+          - name: generate release download list
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=download repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
+              -s:scripts/gt-overview_metadata.xsl -o:ghout/download.txt
+
+          - name: delete fileGrp DEFAULT
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=METSdefault repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
+              -s:scripts/gt-overview_metadata.xsl
+
+          - name: generate CITATION.cff
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=CITATION repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
+              -s:scripts/gt-overview_metadata.xsl -o:rawCITATION.cff
+
+          - name: pretty-print CITATION.cff
+            uses: mikefarah/yq@master
+            with:
+              cmd: |
+                yq -I4 rawCITATION.cff > CITATION.cff
+                rm rawCITATION.cff
+
+          - name: symlink metadata as index
+            run: ln -s ghout/metadata.md ghout/index.md
     
-   
-   
-   # Installation and Directories
-
-    - name: install CITATION.cff update
-      run: | 
-          git clone https://github.com/tboenig/CITATIONupdate.git
-          
-
-
-
-    - name: transform yml to json
-      uses: mikefarah/yq@master
-      with:
-        cmd: |
-          yq -o=json CITATION.cff > CITATION.json
-
-
-    - name: Download and install saxon
-      run: |
-         wget https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-3/SaxonHE12-3J.zip 
-         unzip SaxonHE12-3J.zip
-
-
+          - name: ensure valid METS
+            run: bash -ex scripts/data_mets.sh
     
-   # Transformation and analysis
+          - name: install ocrd and bagit
+            run: |
+              sudo apt-get install -y python3 imagemagick libgeos-dev
+              pip install -U pip 'setuptools>=61'
+              pip install ocrd
+              ocrd --version
 
-    - name: update CITATION.cff
-      run: |
-        java -jar saxon-he-12.3.jar -xsl:CITATIONupdate/scripts/citationupdate.xsl \
-        output=CITATION repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=$GITHUB_REF_NAME \
-        -s:CITATIONupdate/scripts/citationupdate.xsl -o:rawCITATION.cff
-      shell: bash
+          - name: make validMets  
+            run: bash -ex scripts/mets.sh
 
+          - name: make bagit
+            run: bash scripts/data_structure.sh
 
-         
-    - name: formating CITATION.cff
-      uses: mikefarah/yq@master
-      with:
-        cmd: |
-          yq -I4 rawCITATION.cff > CITATION.cff
-             
-   
-   
-    - name: Create Upload GitHub release
-      id: create-new-release
-      uses: ncipollo/release-action@v1
-      env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-          allowUpdates: true
-          artifacts: 'gt-repo-scripts-package-v${{ github.run_number }}.zip'
-          artifactContentType: application/zip
-          tag: ${{ github.ref_name }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          name: gt-repo-scripts-package (Release${{ github.run_number }})
-          omitNameDuringUpdate: true
-          body: |
-            <dl>
-            <dt>Version:</dt> 
-            <dd>gt-repo-scripts-package (Release${{ github.run_number }}_${{ github.ref_name }})</dd>
-            <dt>Info:</dt>
-            <dd>
-            The file gt-repo-scripts-package-v${{ github.run_number }}.zip is a zip archive file.<br/>
-            <ul><li>If you wish to use the rules, this file must first be unpacked.</li>
-            <li>The archive file contains several XSLT files and shell scripts.</li>
-            <li>It is recommended to read the <a href="https://github.com/tboenig/gt-repo-scripts/blob/main/README.md">readme file</a> to understand the functionality and handling of the scripts.</li>
-            <li>The XSLT files and shell scripts are optimized for implementation within a GitHub action workflow.</li></ul>
-            </dd>
-            </dl>
-            </dl>
-           
+          - name: copy CSS styles, Javascript and Markdown config files
+            run: | 
+              cp scripts/table_hide.css ghout/
+              cp scripts/levelparser.css ghout/
+              cp scripts/lang.js ghout/
+              cp scripts/_config.yml ghout/ 
 
-    
-    - name: Commit CITATION.cff
-      run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add CITATION.cff
-          git commit -m "[Automatic] Update CITATION.cff files" || echo "Nothing to update"
-          git push origin HEAD:main
+          - name: add metadata files to release assets
+            uses: thedoctor0/zip-release@master
+            with:
+                filename: metadata-v${{ github.run_number }}.zip
+                path: 'metadata_out'
+      
+          - name: copy metadata.zip to ocrdzip_out
+            run: cp metadata-v${{ github.run_number }}.zip ocrdzip_out/
+
+          - name: upload release assets
+            uses: ncipollo/release-action@v1
+            if: env.TAG_NAME != ''
+            with:
+                allowUpdates: true
+                artifacts: 'ocrdzip_out/*.zip'
+                artifactContentType: application/zip
+                body: |
+                  <dl>
+                  <dt>Version:</dt> 
+                  <dd>${{ env.TAG_NAME }}</dd>
+                  <dt>Info:</dt>
+                  <dd>
+                  To make use of Ground Truth, please download the provided zip files.<br/>
+                  The 'ocrd.zip' files are ocr-d-bagit files.<br/>
+                  The 'metadata-v${{ github.run_number }}.zip' file contains metadata for the Ground Truth corpus in both METS and JSON format.<br/>
+                  The 'mets.xml' file enumerates all the documents and BagIt files contained within.<br/>
+                  The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.<br/>
+                  The source-code-zip and source-code-tar.gz files only provide metadata, citations, license and readme information.<br/>
+                  If you want to use the source files, please clone the repository.
+                  </dd>
+                  </dl>
+                  </dl>
+                name: Release ${{ github.run_number }}_${{ env.TAG_NAME }}
+                omitNameDuringUpdate: true
+                tag: ${{ env.TAG_NAME }}
+                token: ${{ secrets.GITHUB_TOKEN }}
+
+          - name: commit README
+            run: |
+              git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git config --local user.name "github-actions[bot]"
+              git add README.md
+              git commit -m "[Automatic] Update readme files" || echo "Nothing to update"
+              git push origin HEAD:main
+
+          - name: commit METADATA_htr_united.yml
+            run: |
+                git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                git config --local user.name "github-actions[bot]"
+                git add ${{ github.event.repository.name }}_METADATA_htr_united.yml
+                git commit -m "[Automatic] Update METADATA_htr_united.yml files" || echo "Nothing to update"
+                git push origin HEAD:main
+
+          - name: commit CITATION.cff
+            run: |
+              git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git config --local user.name "github-actions[bot]"
+              git add CITATION.cff
+              git commit -m "[Automatic] Update CITATION.cff files" || echo "Nothing to update"
+              git push origin HEAD:main
+
+          - name: deploy GT Overview to GitHub Pages branch 🚀
+            uses: JamesIves/github-pages-deploy-action@v4
+            with:
+                branch: gh-pages # The branch the action should deploy to.
+                folder: ghout  # The folder the action should deploy.
