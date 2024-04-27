@@ -2285,10 +2285,7 @@
       </tr>
       <tr>
          <th>nn_lied_1515_0006.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2299,7 +2296,10 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>24</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>25</td>
          <td>1</td>
       </tr>
       <tr>
