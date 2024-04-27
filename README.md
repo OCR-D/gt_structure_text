@@ -39,11 +39,11 @@
       </thead>
       <tbody>
          <tr>
-            <td>6608</td>
+            <td>6609</td>
             <td>217</td>
-            <td>1647</td>
+            <td>1648</td>
             <td>1</td>
-            <td>75</td>
+            <td>74</td>
             <td>3</td>
             <td>141</td>
             <td>1</td>
@@ -783,10 +783,7 @@
                </tr>
                <tr>
                   <td>nn_lied_1515</td>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
@@ -797,7 +794,10 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>24</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
                   <td>1</td>
                </tr>
                <tr>
