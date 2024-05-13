@@ -4,11 +4,11 @@
   xmlns:mods="http://www.loc.gov/mods/v3"
   xmlns:mets="http://www.loc.gov/METS/"
   xmlns:DV="http://dfg-viewer.de/"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
   xmlns:gt="http://www.ocr-d.de/GT/"
   xmlns:pre="http://www.loc.gov/premis/v3"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd http://www.loc.gov/standards/premis/premis.xsd">
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd">
   <mets:metsHdr CREATEDATE="2019-11-25T16:36:57.411460">
     <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
       <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
@@ -231,8 +231,16 @@
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div TYPE="Monograph"
+      DMDID="DMDLOG_0000"
+      ADMID="amdSec_0001"
+      ID="loc_0001">
+      <mets:div ID="loc_d1e9" TYPE="Chapter" LABEL=""/>
+    </mets:div>
+  </mets:structMap>
   <mets:structMap TYPE="PHYSICAL">
-    <mets:div TYPE="physSequence">
+    <mets:div TYPE="physSequence" ID="phys_0000">
       <mets:div TYPE="page" ID="phys_00005" DMDID="DMDGT_0001">
         <mets:fptr FILEID="OCR-D-IMG_00005"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_00005"/>
@@ -253,4 +261,11 @@
       </mets:div>
     </mets:div>
   </mets:structMap>
+  <mets:structLink>
+    <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
+    <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_0000"/>
+    <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_00005"/>
+    <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_00003"/>
+    <mets:smLink xlink:from="loc_d1e9" xlink:to="phys_00010"/>
+  </mets:structLink>
 </mets:mets>
