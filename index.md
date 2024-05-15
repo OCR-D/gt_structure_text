@@ -1,1 +1,1 @@
-ghout/metadata.md
+metadata.md
