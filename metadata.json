@@ -30,7 +30,7 @@
   "production-software": "Aletheia",
   "script": [
     "Latn",
-    "Goth"
+    "Latf"
   ],
   "script-type": "print",
   "time": {
@@ -64,8 +64,15 @@
     "Page": "217"
   },
   "labelling": [
-    "granularity/physical/document-related/region",
+    "granularity/physical/document-related/word",
     "granularity/physical/document-related/text-line",
+    "granularity/physical/document-related/region",
+    "data-attributes/document-related/visual/text/font/multi-font/font-sizes",
+    "condition/production-related/document-faults/ink-from-facing",
+    "condition/wear/medium-damage/stains",
+    "condition/wear/additions/informative/stamps",
+    "condition/wear/additions/informative/annotations",
+    "condition/wear/additions/repairs/paper-repairs",
     "content-type/corpus",
     "platform/platform-independent",
     "content-encoding/structured",
@@ -81,30 +88,22 @@
     "contentOfInterest/visual/composite/maths",
     "contentOfInterest/visual/composite/music",
     "granularity/physical/document-related/page",
-    "granularity/physical/document-related/word",
     "granularity/logical/document-related/paragraph",
     "data-attributes/document-related/structural/footnotes",
     "data-attributes/document-related/structural/footnote-continued",
     "data-attributes/document-related/structural/running-titles",
-    "condition/wear/additions/informative/stamps",
     "data-attributes/document-related/visual/text/drop-caps",
-    "data-attributes/document-related/visual/text/font/typeface/blackletter",
     "data-attributes/document-related/visual/text/font/typeface/antiqua",
     "data-attributes/document-related/visual/text/font/multi-font/typefaces",
-    "data-attributes/document-related/visual/text/font/multi-font/font-sizes",
     "data-attributes/language/mixed",
-    "condition/production-related/document-faults/ink-from-facing",
+    "condition/acquisition/geometric/perspective-distortions",
+    "condition/acquisition/geometric/page-curl",
+    "data-attributes/document-related/visual/illustrations/multi-colour",
     "condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding",
-    "condition/wear/medium-damage/stains",
-    "condition/wear/additions/informative/annotations",
-    "condition/wear/additions/repairs/paper-repairs",
     "condition/production-related/document-characteristics/low-contrast",
     "condition/acquisition/method-flaws/imaging/uneven-illumination",
     "condition/ageing/warping",
-    "condition/acquisition/geometric/perspective-distortions",
-    "condition/acquisition/geometric/page-curl",
-    "data-attributes/document-related/visual/decorations",
     "data-attributes/document-related/visual/illustrations",
-    "data-attributes/document-related/visual/illustrations/multi-colour"
+    "data-attributes/document-related/visual/decorations"
   ]
 }
