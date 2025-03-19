@@ -121,6 +121,11 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/herder_geschichte03_1787_0007.jpg"/>
          </mets:file>
       </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-BIN">
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0001">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/herder_geschichte03_1787_0007_B.tif"/>
+         </mets:file>
+      </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/herder_geschichte03_1787_0007.xml"/>
@@ -145,6 +150,7 @@
          <mets:div ID="phys_0001" TYPE="page" DMDID="DMGT_0001" ORDER="1">
             <mets:fptr FILEID="DEFAULT_0001"/>
             <mets:fptr FILEID="OCR-D-IMG_0001"/>
+            <mets:fptr FILEID="OCR-D-BIN_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
          </mets:div>

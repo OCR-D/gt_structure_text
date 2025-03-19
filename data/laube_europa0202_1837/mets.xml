@@ -190,6 +190,17 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0310.jpg"/>
          </mets:file>
       </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-BIN">
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0001">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0006_B.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0002">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0007_B.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0003">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0105_B.tif"/>
+         </mets:file>
+      </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/laube_europa0202_1837_0006.xml"/>
@@ -238,18 +249,21 @@
          <mets:div ID="phys_0001" TYPE="page" DMDID="DMGT_0001" ORDER="1">
             <mets:fptr FILEID="DEFAULT_0001"/>
             <mets:fptr FILEID="OCR-D-IMG_0001"/>
+            <mets:fptr FILEID="OCR-D-BIN_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
          </mets:div>
          <mets:div ID="phys_0002" TYPE="page" DMDID="DMGT_0002" ORDER="2">
             <mets:fptr FILEID="DEFAULT_0002"/>
             <mets:fptr FILEID="OCR-D-IMG_0002"/>
+            <mets:fptr FILEID="OCR-D-BIN_0002"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
          </mets:div>
          <mets:div ID="phys_0003" TYPE="page" DMDID="DMGT_0003" ORDER="3">
             <mets:fptr FILEID="DEFAULT_0003"/>
             <mets:fptr FILEID="OCR-D-IMG_0003"/>
+            <mets:fptr FILEID="OCR-D-BIN_0003"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0003"/>
          </mets:div>

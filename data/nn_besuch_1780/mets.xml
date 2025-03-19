@@ -194,6 +194,11 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00002.tif"/>
       </mets:file>
     </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-BIN">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-BIN_00002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00002_B.tif"/>
+      </mets:file>
+    </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_00001">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_besuch_1780_00001.xml"/>
@@ -267,6 +272,7 @@
       </mets:div>
       <mets:div TYPE="page" ID="phys_00002" DMDID="DMDGT_0002">
         <mets:fptr FILEID="OCR-D-IMG_00002"/>
+        <mets:fptr FILEID="OCR-D-BIN_00002"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_00002"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_00002"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-LINE_00002"/>
