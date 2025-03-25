@@ -112,13 +112,13 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -126,13 +126,13 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -140,13 +140,13 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/hohberg_georgica01_1682_0601.xml"/>
          </mets:file>
       </mets:fileGrp>

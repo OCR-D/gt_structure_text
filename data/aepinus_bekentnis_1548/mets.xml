@@ -174,6 +174,11 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0021.tif"/>
          </mets:file>
       </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-BIN">
+         <mets:file MIMETYPE="image/tif" ID="OCR-D-BIN_0001" GROUPID="OCR-D-BIN_0001">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/aepinus_bekentnis_1548_0006_B.tif"/>
+         </mets:file>
+      </mets:fileGrp>
    </mets:fileSec>
    <mets:structMap TYPE="LOGICAL">
       <mets:div TYPE="Monograph"
@@ -190,6 +195,7 @@
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0001"/>
             <mets:fptr FILEID="OCR-D-IMG_0001"/>
+            <mets:fptr FILEID="OCR-D-BIN_0001"/>
          </mets:div>
          <mets:div TYPE="page" ORDER="2" ID="phys_0002">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>

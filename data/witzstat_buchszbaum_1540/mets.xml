@@ -96,13 +96,13 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/witzstat_buchszbaum_1540_0018.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/witzstat_buchszbaum_1540_0021.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -110,13 +110,13 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/witzstat_buchszbaum_1540_0018.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/witzstat_buchszbaum_1540_0021.xml"/>
          </mets:file>
       </mets:fileGrp>
@@ -124,23 +124,23 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/witzstat_buchszbaum_1540_0018.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-LINE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/witzstat_buchszbaum_1540_0021.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/witzstat_buchszbaum_1540_0018.tif"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL"
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"
                          xlink:href="GT-PAGE/witzstat_buchszbaum_1540_0021.tif"/>
          </mets:file>
       </mets:fileGrp>

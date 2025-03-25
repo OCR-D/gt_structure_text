@@ -149,22 +149,27 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0006">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1520_0006.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006.tif"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-BIN">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-BIN_0006">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006_B.tif"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0006">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1520_0006.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0006">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1520_0006.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0006">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1520_0006.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/nn_lied_1515_0006.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
@@ -177,6 +182,7 @@
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="phys_0006" DMDID="DMDGT_0001">
         <mets:fptr FILEID="OCR-D-IMG_0006"/>
+        <mets:fptr FILEID="OCR-D-BIN_0006"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0006"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0006"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0006"/>

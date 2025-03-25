@@ -191,6 +191,26 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/ruempler_gartenbau_1882_1156.jpg"/>
          </mets:file>
       </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-BIN">
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0001">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/ruempler_gartenbau_1882_0014_B.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0002">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/ruempler_gartenbau_1882_0018_B.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0003">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/ruempler_gartenbau_1882_0120_B.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0004">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/ruempler_gartenbau_1882_1011_B.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0005">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/ruempler_gartenbau_1882_1012_B.tif"/>
+         </mets:file>
+         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-BIN_0006">
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/ruempler_gartenbau_1882_1156_B.tif"/>
+         </mets:file>
+      </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/ruempler_gartenbau_1882_0014.xml"/>
@@ -245,36 +265,42 @@
          <mets:div ID="phys_0001" TYPE="page" DMDID="DMGT_0001" ORDER="1">
             <mets:fptr FILEID="DEFAULT_0001"/>
             <mets:fptr FILEID="OCR-D-IMG_0001"/>
+            <mets:fptr FILEID="OCR-D-BIN_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
          </mets:div>
          <mets:div ID="phys_0002" TYPE="page" DMDID="DMGT_0002" ORDER="2">
             <mets:fptr FILEID="DEFAULT_0002"/>
             <mets:fptr FILEID="OCR-D-IMG_0002"/>
+            <mets:fptr FILEID="OCR-D-BIN_0002"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
          </mets:div>
          <mets:div ID="phys_0003" TYPE="page" DMDID="DMGT_0003" ORDER="3">
             <mets:fptr FILEID="DEFAULT_0003"/>
             <mets:fptr FILEID="OCR-D-IMG_0003"/>
+            <mets:fptr FILEID="OCR-D-BIN_0003"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0003"/>
          </mets:div>
          <mets:div ID="phys_0004" TYPE="page" DMDID="DMGT_0004" ORDER="4">
             <mets:fptr FILEID="DEFAULT_0004"/>
             <mets:fptr FILEID="OCR-D-IMG_0004"/>
+            <mets:fptr FILEID="OCR-D-BIN_0004"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0004"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0004"/>
          </mets:div>
          <mets:div ID="phys_0005" TYPE="page" DMDID="DMGT_0005" ORDER="5">
             <mets:fptr FILEID="DEFAULT_0005"/>
             <mets:fptr FILEID="OCR-D-IMG_0005"/>
+            <mets:fptr FILEID="OCR-D-BIN_0005"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0005"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0005"/>
          </mets:div>
          <mets:div ID="phys_0006" TYPE="page" DMDID="DMGT_0006" ORDER="6">
             <mets:fptr FILEID="DEFAULT_0006"/>
             <mets:fptr FILEID="OCR-D-IMG_0006"/>
+            <mets:fptr FILEID="OCR-D-BIN_0006"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0006"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0006"/>
          </mets:div>
